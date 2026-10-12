@@ -1,0 +1,1081 @@
+country,country_name,OECD,N_total,weighted_N_total,group_A,group_B,domain,difference_A_minus_B,N_A,N_B,interpretation,disclosure_suppressed
+ALB,Albania,0,,,ST438_administered,ST438_not_administered,READ,,,,descriptive selection contrast; not causal; no inferential SE,True
+ALB,Albania,0,,,ST438_administered,ST438_not_administered,MATH,,,,descriptive selection contrast; not causal; no inferential SE,True
+ALB,Albania,0,,,ST438_administered,ST438_not_administered,SCIE,,,,descriptive selection contrast; not causal; no inferential SE,True
+ALB,Albania,0,5959,22810.59004,CBA,PBA,READ,,5959,0,descriptive selection contrast; not causal; no inferential SE,False
+ALB,Albania,0,5959,22810.59004,CBA,PBA,MATH,,5959,0,descriptive selection contrast; not causal; no inferential SE,False
+ALB,Albania,0,5959,22810.59004,CBA,PBA,SCIE,,5959,0,descriptive selection contrast; not causal; no inferential SE,False
+ALB,Albania,0,5959,22810.59004,UH,CBA_standard,READ,,0,5959,descriptive selection contrast; not causal; no inferential SE,False
+ALB,Albania,0,5959,22810.59004,UH,CBA_standard,MATH,,0,5959,descriptive selection contrast; not causal; no inferential SE,False
+ALB,Albania,0,5959,22810.59004,UH,CBA_standard,SCIE,,0,5959,descriptive selection contrast; not causal; no inferential SE,False
+ALB,Albania,0,5959,22810.59004,ST438_four_valid,ST438_administered,READ,3.196381424,5561,5956,descriptive selection contrast; not causal; no inferential SE,False
+ALB,Albania,0,5959,22810.59004,ST438_four_valid,ST438_administered,MATH,3.085659265,5561,5956,descriptive selection contrast; not causal; no inferential SE,False
+ALB,Albania,0,5959,22810.59004,ST438_four_valid,ST438_administered,SCIE,3.16382526,5561,5956,descriptive selection contrast; not causal; no inferential SE,False
+ARE,United Arab Emirates,0,34639,84768.38105,ST438_administered,ST438_not_administered,READ,91.95096163,34469,169,descriptive selection contrast; not causal; no inferential SE,False
+ARE,United Arab Emirates,0,34639,84768.38105,ST438_administered,ST438_not_administered,MATH,61.26668241,34469,169,descriptive selection contrast; not causal; no inferential SE,False
+ARE,United Arab Emirates,0,34639,84768.38105,ST438_administered,ST438_not_administered,SCIE,78.69855937,34469,169,descriptive selection contrast; not causal; no inferential SE,False
+ARE,United Arab Emirates,0,34639,84768.38105,CBA,PBA,READ,,34639,0,descriptive selection contrast; not causal; no inferential SE,False
+ARE,United Arab Emirates,0,34639,84768.38105,CBA,PBA,MATH,,34639,0,descriptive selection contrast; not causal; no inferential SE,False
+ARE,United Arab Emirates,0,34639,84768.38105,CBA,PBA,SCIE,,34639,0,descriptive selection contrast; not causal; no inferential SE,False
+ARE,United Arab Emirates,0,34639,84768.38105,UH,CBA_standard,READ,,0,34639,descriptive selection contrast; not causal; no inferential SE,False
+ARE,United Arab Emirates,0,34639,84768.38105,UH,CBA_standard,MATH,,0,34639,descriptive selection contrast; not causal; no inferential SE,False
+ARE,United Arab Emirates,0,34639,84768.38105,UH,CBA_standard,SCIE,,0,34639,descriptive selection contrast; not causal; no inferential SE,False
+ARE,United Arab Emirates,0,34639,84768.38105,ST438_four_valid,ST438_administered,READ,10.40326378,30801,34469,descriptive selection contrast; not causal; no inferential SE,False
+ARE,United Arab Emirates,0,34639,84768.38105,ST438_four_valid,ST438_administered,MATH,7.825847109,30801,34469,descriptive selection contrast; not causal; no inferential SE,False
+ARE,United Arab Emirates,0,34639,84768.38105,ST438_four_valid,ST438_administered,SCIE,8.843131249,30801,34469,descriptive selection contrast; not causal; no inferential SE,False
+ARG,Argentina,0,11092,609050.6163,ST438_administered,ST438_not_administered,READ,-6.546094039,10546,526,descriptive selection contrast; not causal; no inferential SE,False
+ARG,Argentina,0,11092,609050.6163,ST438_administered,ST438_not_administered,MATH,12.26023686,10546,526,descriptive selection contrast; not causal; no inferential SE,False
+ARG,Argentina,0,11092,609050.6163,ST438_administered,ST438_not_administered,SCIE,22.82141572,10546,526,descriptive selection contrast; not causal; no inferential SE,False
+ARG,Argentina,0,11092,609050.6163,CBA,PBA,READ,,11092,0,descriptive selection contrast; not causal; no inferential SE,False
+ARG,Argentina,0,11092,609050.6163,CBA,PBA,MATH,,11092,0,descriptive selection contrast; not causal; no inferential SE,False
+ARG,Argentina,0,11092,609050.6163,CBA,PBA,SCIE,,11092,0,descriptive selection contrast; not causal; no inferential SE,False
+ARG,Argentina,0,11092,609050.6163,UH,CBA_standard,READ,,0,11092,descriptive selection contrast; not causal; no inferential SE,False
+ARG,Argentina,0,11092,609050.6163,UH,CBA_standard,MATH,,0,11092,descriptive selection contrast; not causal; no inferential SE,False
+ARG,Argentina,0,11092,609050.6163,UH,CBA_standard,SCIE,,0,11092,descriptive selection contrast; not causal; no inferential SE,False
+ARG,Argentina,0,11092,609050.6163,ST438_four_valid,ST438_administered,READ,24.21753493,7475,10546,descriptive selection contrast; not causal; no inferential SE,False
+ARG,Argentina,0,11092,609050.6163,ST438_four_valid,ST438_administered,MATH,21.24311113,7475,10546,descriptive selection contrast; not causal; no inferential SE,False
+ARG,Argentina,0,11092,609050.6163,ST438_four_valid,ST438_administered,SCIE,23.83162024,7475,10546,descriptive selection contrast; not causal; no inferential SE,False
+ARM,Armenia,0,,,ST438_administered,ST438_not_administered,READ,,,,descriptive selection contrast; not causal; no inferential SE,True
+ARM,Armenia,0,,,ST438_administered,ST438_not_administered,MATH,,,,descriptive selection contrast; not causal; no inferential SE,True
+ARM,Armenia,0,,,ST438_administered,ST438_not_administered,SCIE,,,,descriptive selection contrast; not causal; no inferential SE,True
+ARM,Armenia,0,6804,23808.47293,CBA,PBA,READ,,6804,0,descriptive selection contrast; not causal; no inferential SE,False
+ARM,Armenia,0,6804,23808.47293,CBA,PBA,MATH,,6804,0,descriptive selection contrast; not causal; no inferential SE,False
+ARM,Armenia,0,6804,23808.47293,CBA,PBA,SCIE,,6804,0,descriptive selection contrast; not causal; no inferential SE,False
+ARM,Armenia,0,6804,23808.47293,UH,CBA_standard,READ,,0,6804,descriptive selection contrast; not causal; no inferential SE,False
+ARM,Armenia,0,6804,23808.47293,UH,CBA_standard,MATH,,0,6804,descriptive selection contrast; not causal; no inferential SE,False
+ARM,Armenia,0,6804,23808.47293,UH,CBA_standard,SCIE,,0,6804,descriptive selection contrast; not causal; no inferential SE,False
+ARM,Armenia,0,6804,23808.47293,ST438_four_valid,ST438_administered,READ,20.21268013,2566,6799,descriptive selection contrast; not causal; no inferential SE,False
+ARM,Armenia,0,6804,23808.47293,ST438_four_valid,ST438_administered,MATH,17.0914814,2566,6799,descriptive selection contrast; not causal; no inferential SE,False
+ARM,Armenia,0,6804,23808.47293,ST438_four_valid,ST438_administered,SCIE,17.76581253,2566,6799,descriptive selection contrast; not causal; no inferential SE,False
+AUS,Australia,1,14658,275381.9803,ST438_administered,ST438_not_administered,READ,87.22486326,14388,270,descriptive selection contrast; not causal; no inferential SE,False
+AUS,Australia,1,14658,275381.9803,ST438_administered,ST438_not_administered,MATH,73.45678134,14388,270,descriptive selection contrast; not causal; no inferential SE,False
+AUS,Australia,1,14658,275381.9803,ST438_administered,ST438_not_administered,SCIE,77.44928142,14388,270,descriptive selection contrast; not causal; no inferential SE,False
+AUS,Australia,1,14658,275381.9803,CBA,PBA,READ,,14658,0,descriptive selection contrast; not causal; no inferential SE,False
+AUS,Australia,1,14658,275381.9803,CBA,PBA,MATH,,14658,0,descriptive selection contrast; not causal; no inferential SE,False
+AUS,Australia,1,14658,275381.9803,CBA,PBA,SCIE,,14658,0,descriptive selection contrast; not causal; no inferential SE,False
+AUS,Australia,1,14658,275381.9803,UH,CBA_standard,READ,,0,14658,descriptive selection contrast; not causal; no inferential SE,False
+AUS,Australia,1,14658,275381.9803,UH,CBA_standard,MATH,,0,14658,descriptive selection contrast; not causal; no inferential SE,False
+AUS,Australia,1,14658,275381.9803,UH,CBA_standard,SCIE,,0,14658,descriptive selection contrast; not causal; no inferential SE,False
+AUS,Australia,1,14658,275381.9803,ST438_four_valid,ST438_administered,READ,5.84870306,13463,14388,descriptive selection contrast; not causal; no inferential SE,False
+AUS,Australia,1,14658,275381.9803,ST438_four_valid,ST438_administered,MATH,4.851238578,13463,14388,descriptive selection contrast; not causal; no inferential SE,False
+AUS,Australia,1,14658,275381.9803,ST438_four_valid,ST438_administered,SCIE,5.673718828,13463,14388,descriptive selection contrast; not causal; no inferential SE,False
+AUT,Austria,1,6987,70075.09491,ST438_administered,ST438_not_administered,READ,80.31321286,6929,58,descriptive selection contrast; not causal; no inferential SE,False
+AUT,Austria,1,6987,70075.09491,ST438_administered,ST438_not_administered,MATH,91.99216807,6929,58,descriptive selection contrast; not causal; no inferential SE,False
+AUT,Austria,1,6987,70075.09491,ST438_administered,ST438_not_administered,SCIE,79.45734528,6929,58,descriptive selection contrast; not causal; no inferential SE,False
+AUT,Austria,1,6987,70075.09491,CBA,PBA,READ,,6987,0,descriptive selection contrast; not causal; no inferential SE,False
+AUT,Austria,1,6987,70075.09491,CBA,PBA,MATH,,6987,0,descriptive selection contrast; not causal; no inferential SE,False
+AUT,Austria,1,6987,70075.09491,CBA,PBA,SCIE,,6987,0,descriptive selection contrast; not causal; no inferential SE,False
+AUT,Austria,1,6987,70075.09491,UH,CBA_standard,READ,-137.1062896,13,6974,descriptive selection contrast; not causal; no inferential SE,False
+AUT,Austria,1,6987,70075.09491,UH,CBA_standard,MATH,-173.9641004,13,6974,descriptive selection contrast; not causal; no inferential SE,False
+AUT,Austria,1,6987,70075.09491,UH,CBA_standard,SCIE,-154.7509298,13,6974,descriptive selection contrast; not causal; no inferential SE,False
+AUT,Austria,1,6987,70075.09491,ST438_four_valid,ST438_administered,READ,6.168183309,6369,6929,descriptive selection contrast; not causal; no inferential SE,False
+AUT,Austria,1,6987,70075.09491,ST438_four_valid,ST438_administered,MATH,5.406324141,6369,6929,descriptive selection contrast; not causal; no inferential SE,False
+AUT,Austria,1,6987,70075.09491,ST438_four_valid,ST438_administered,SCIE,5.578343636,6369,6929,descriptive selection contrast; not causal; no inferential SE,False
+AZE,Azerbaijan,0,7432,118322.8205,ST438_administered,ST438_not_administered,READ,60.9589235,7421,11,descriptive selection contrast; not causal; no inferential SE,False
+AZE,Azerbaijan,0,7432,118322.8205,ST438_administered,ST438_not_administered,MATH,104.1743913,7421,11,descriptive selection contrast; not causal; no inferential SE,False
+AZE,Azerbaijan,0,7432,118322.8205,ST438_administered,ST438_not_administered,SCIE,90.33878914,7421,11,descriptive selection contrast; not causal; no inferential SE,False
+AZE,Azerbaijan,0,7432,118322.8205,CBA,PBA,READ,,7432,0,descriptive selection contrast; not causal; no inferential SE,False
+AZE,Azerbaijan,0,7432,118322.8205,CBA,PBA,MATH,,7432,0,descriptive selection contrast; not causal; no inferential SE,False
+AZE,Azerbaijan,0,7432,118322.8205,CBA,PBA,SCIE,,7432,0,descriptive selection contrast; not causal; no inferential SE,False
+AZE,Azerbaijan,0,7432,118322.8205,UH,CBA_standard,READ,,0,7432,descriptive selection contrast; not causal; no inferential SE,False
+AZE,Azerbaijan,0,7432,118322.8205,UH,CBA_standard,MATH,,0,7432,descriptive selection contrast; not causal; no inferential SE,False
+AZE,Azerbaijan,0,7432,118322.8205,UH,CBA_standard,SCIE,,0,7432,descriptive selection contrast; not causal; no inferential SE,False
+AZE,Azerbaijan,0,7432,118322.8205,ST438_four_valid,ST438_administered,READ,15.67058302,5649,7421,descriptive selection contrast; not causal; no inferential SE,False
+AZE,Azerbaijan,0,7432,118322.8205,ST438_four_valid,ST438_administered,MATH,16.17458644,5649,7421,descriptive selection contrast; not causal; no inferential SE,False
+AZE,Azerbaijan,0,7432,118322.8205,ST438_four_valid,ST438_administered,SCIE,15.26739585,5649,7421,descriptive selection contrast; not causal; no inferential SE,False
+BEL,Belgium,1,7456,127049.7603,ST438_administered,ST438_not_administered,READ,136.7368129,7210,244,descriptive selection contrast; not causal; no inferential SE,False
+BEL,Belgium,1,7456,127049.7603,ST438_administered,ST438_not_administered,MATH,124.3219827,7210,244,descriptive selection contrast; not causal; no inferential SE,False
+BEL,Belgium,1,7456,127049.7603,ST438_administered,ST438_not_administered,SCIE,133.1752621,7210,244,descriptive selection contrast; not causal; no inferential SE,False
+BEL,Belgium,1,7456,127049.7603,CBA,PBA,READ,,7456,0,descriptive selection contrast; not causal; no inferential SE,False
+BEL,Belgium,1,7456,127049.7603,CBA,PBA,MATH,,7456,0,descriptive selection contrast; not causal; no inferential SE,False
+BEL,Belgium,1,7456,127049.7603,CBA,PBA,SCIE,,7456,0,descriptive selection contrast; not causal; no inferential SE,False
+BEL,Belgium,1,7456,127049.7603,UH,CBA_standard,READ,-145.7523108,173,7282,descriptive selection contrast; not causal; no inferential SE,False
+BEL,Belgium,1,7456,127049.7603,UH,CBA_standard,MATH,-135.8475251,173,7282,descriptive selection contrast; not causal; no inferential SE,False
+BEL,Belgium,1,7456,127049.7603,UH,CBA_standard,SCIE,-147.5603789,173,7282,descriptive selection contrast; not causal; no inferential SE,False
+BEL,Belgium,1,7456,127049.7603,ST438_four_valid,ST438_administered,READ,10.25539377,6428,7210,descriptive selection contrast; not causal; no inferential SE,False
+BEL,Belgium,1,7456,127049.7603,ST438_four_valid,ST438_administered,MATH,8.85902675,6428,7210,descriptive selection contrast; not causal; no inferential SE,False
+BEL,Belgium,1,7456,127049.7603,ST438_four_valid,ST438_administered,SCIE,9.165142169,6428,7210,descriptive selection contrast; not causal; no inferential SE,False
+BGR,Bulgaria,0,6830,58224.10099,ST438_administered,ST438_not_administered,READ,71.89273565,6784,46,descriptive selection contrast; not causal; no inferential SE,False
+BGR,Bulgaria,0,6830,58224.10099,ST438_administered,ST438_not_administered,MATH,38.67100369,6784,46,descriptive selection contrast; not causal; no inferential SE,False
+BGR,Bulgaria,0,6830,58224.10099,ST438_administered,ST438_not_administered,SCIE,48.56561851,6784,46,descriptive selection contrast; not causal; no inferential SE,False
+BGR,Bulgaria,0,6830,58224.10099,CBA,PBA,READ,,6830,0,descriptive selection contrast; not causal; no inferential SE,False
+BGR,Bulgaria,0,6830,58224.10099,CBA,PBA,MATH,,6830,0,descriptive selection contrast; not causal; no inferential SE,False
+BGR,Bulgaria,0,6830,58224.10099,CBA,PBA,SCIE,,6830,0,descriptive selection contrast; not causal; no inferential SE,False
+BGR,Bulgaria,0,6830,58224.10099,UH,CBA_standard,READ,,0,6830,descriptive selection contrast; not causal; no inferential SE,False
+BGR,Bulgaria,0,6830,58224.10099,UH,CBA_standard,MATH,,0,6830,descriptive selection contrast; not causal; no inferential SE,False
+BGR,Bulgaria,0,6830,58224.10099,UH,CBA_standard,SCIE,,0,6830,descriptive selection contrast; not causal; no inferential SE,False
+BGR,Bulgaria,0,6830,58224.10099,ST438_four_valid,ST438_administered,READ,20.2511308,4778,6784,descriptive selection contrast; not causal; no inferential SE,False
+BGR,Bulgaria,0,6830,58224.10099,ST438_four_valid,ST438_administered,MATH,18.48234348,4778,6784,descriptive selection contrast; not causal; no inferential SE,False
+BGR,Bulgaria,0,6830,58224.10099,ST438_four_valid,ST438_administered,SCIE,20.45321986,4778,6784,descriptive selection contrast; not causal; no inferential SE,False
+BRA,Brazil,0,30140,2184649.902,ST438_administered,ST438_not_administered,READ,9.074007708,29695,416,descriptive selection contrast; not causal; no inferential SE,False
+BRA,Brazil,0,30140,2184649.902,ST438_administered,ST438_not_administered,MATH,21.11602294,29695,416,descriptive selection contrast; not causal; no inferential SE,False
+BRA,Brazil,0,30140,2184649.902,ST438_administered,ST438_not_administered,SCIE,20.53956443,29695,416,descriptive selection contrast; not causal; no inferential SE,False
+BRA,Brazil,0,30140,2184649.902,CBA,PBA,READ,,30140,0,descriptive selection contrast; not causal; no inferential SE,False
+BRA,Brazil,0,30140,2184649.902,CBA,PBA,MATH,,30140,0,descriptive selection contrast; not causal; no inferential SE,False
+BRA,Brazil,0,30140,2184649.902,CBA,PBA,SCIE,,30140,0,descriptive selection contrast; not causal; no inferential SE,False
+BRA,Brazil,0,30140,2184649.902,UH,CBA_standard,READ,0.3241456914,324,29816,descriptive selection contrast; not causal; no inferential SE,False
+BRA,Brazil,0,30140,2184649.902,UH,CBA_standard,MATH,-18.26430011,324,29816,descriptive selection contrast; not causal; no inferential SE,False
+BRA,Brazil,0,30140,2184649.902,UH,CBA_standard,SCIE,-12.91933847,324,29816,descriptive selection contrast; not causal; no inferential SE,False
+BRA,Brazil,0,30140,2184649.902,ST438_four_valid,ST438_administered,READ,13.86425138,23462,29695,descriptive selection contrast; not causal; no inferential SE,False
+BRA,Brazil,0,30140,2184649.902,ST438_four_valid,ST438_administered,MATH,11.0535625,23462,29695,descriptive selection contrast; not causal; no inferential SE,False
+BRA,Brazil,0,30140,2184649.902,ST438_four_valid,ST438_administered,SCIE,13.27095071,23462,29695,descriptive selection contrast; not causal; no inferential SE,False
+BRN,Brunei Darussalam,0,5730,5864.982456,ST438_administered,ST438_not_administered,READ,23.83240335,5565,81,descriptive selection contrast; not causal; no inferential SE,False
+BRN,Brunei Darussalam,0,5730,5864.982456,ST438_administered,ST438_not_administered,MATH,4.09173099,5565,81,descriptive selection contrast; not causal; no inferential SE,False
+BRN,Brunei Darussalam,0,5730,5864.982456,ST438_administered,ST438_not_administered,SCIE,13.76474906,5565,81,descriptive selection contrast; not causal; no inferential SE,False
+BRN,Brunei Darussalam,0,5730,5864.982456,CBA,PBA,READ,,5730,0,descriptive selection contrast; not causal; no inferential SE,False
+BRN,Brunei Darussalam,0,5730,5864.982456,CBA,PBA,MATH,,5730,0,descriptive selection contrast; not causal; no inferential SE,False
+BRN,Brunei Darussalam,0,5730,5864.982456,CBA,PBA,SCIE,,5730,0,descriptive selection contrast; not causal; no inferential SE,False
+BRN,Brunei Darussalam,0,5730,5864.982456,UH,CBA_standard,READ,,0,5730,descriptive selection contrast; not causal; no inferential SE,False
+BRN,Brunei Darussalam,0,5730,5864.982456,UH,CBA_standard,MATH,,0,5730,descriptive selection contrast; not causal; no inferential SE,False
+BRN,Brunei Darussalam,0,5730,5864.982456,UH,CBA_standard,SCIE,,0,5730,descriptive selection contrast; not causal; no inferential SE,False
+BRN,Brunei Darussalam,0,5730,5864.982456,ST438_four_valid,ST438_administered,READ,2.678518292,5242,5565,descriptive selection contrast; not causal; no inferential SE,False
+BRN,Brunei Darussalam,0,5730,5864.982456,ST438_four_valid,ST438_administered,MATH,2.165127637,5242,5565,descriptive selection contrast; not causal; no inferential SE,False
+BRN,Brunei Darussalam,0,5730,5864.982456,ST438_four_valid,ST438_administered,SCIE,2.512556215,5242,5565,descriptive selection contrast; not causal; no inferential SE,False
+CAN,Canada,1,24601,389375.7236,ST438_administered,ST438_not_administered,READ,53.75218495,22579,1984,descriptive selection contrast; not causal; no inferential SE,False
+CAN,Canada,1,24601,389375.7236,ST438_administered,ST438_not_administered,MATH,47.21604387,22579,1984,descriptive selection contrast; not causal; no inferential SE,False
+CAN,Canada,1,24601,389375.7236,ST438_administered,ST438_not_administered,SCIE,60.91798238,22579,1984,descriptive selection contrast; not causal; no inferential SE,False
+CAN,Canada,1,24601,389375.7236,CBA,PBA,READ,,24601,0,descriptive selection contrast; not causal; no inferential SE,False
+CAN,Canada,1,24601,389375.7236,CBA,PBA,MATH,,24601,0,descriptive selection contrast; not causal; no inferential SE,False
+CAN,Canada,1,24601,389375.7236,CBA,PBA,SCIE,,24601,0,descriptive selection contrast; not causal; no inferential SE,False
+CAN,Canada,1,24601,389375.7236,UH,CBA_standard,READ,-61.99350756,1207,23394,descriptive selection contrast; not causal; no inferential SE,False
+CAN,Canada,1,24601,389375.7236,UH,CBA_standard,MATH,-48.13644412,1207,23394,descriptive selection contrast; not causal; no inferential SE,False
+CAN,Canada,1,24601,389375.7236,UH,CBA_standard,SCIE,-72.06420302,1207,23394,descriptive selection contrast; not causal; no inferential SE,False
+CAN,Canada,1,24601,389375.7236,ST438_four_valid,ST438_administered,READ,10.18446938,18818,22579,descriptive selection contrast; not causal; no inferential SE,False
+CAN,Canada,1,24601,389375.7236,ST438_four_valid,ST438_administered,MATH,7.934093228,18818,22579,descriptive selection contrast; not causal; no inferential SE,False
+CAN,Canada,1,24601,389375.7236,ST438_four_valid,ST438_administered,SCIE,8.79257978,18818,22579,descriptive selection contrast; not causal; no inferential SE,False
+CHE,Switzerland,1,7597,76899.85443,ST438_administered,ST438_not_administered,READ,13.39741654,7509,84,descriptive selection contrast; not causal; no inferential SE,False
+CHE,Switzerland,1,7597,76899.85443,ST438_administered,ST438_not_administered,MATH,10.82684862,7509,84,descriptive selection contrast; not causal; no inferential SE,False
+CHE,Switzerland,1,7597,76899.85443,ST438_administered,ST438_not_administered,SCIE,15.86408289,7509,84,descriptive selection contrast; not causal; no inferential SE,False
+CHE,Switzerland,1,7597,76899.85443,CBA,PBA,READ,,7597,0,descriptive selection contrast; not causal; no inferential SE,False
+CHE,Switzerland,1,7597,76899.85443,CBA,PBA,MATH,,7597,0,descriptive selection contrast; not causal; no inferential SE,False
+CHE,Switzerland,1,7597,76899.85443,CBA,PBA,SCIE,,7597,0,descriptive selection contrast; not causal; no inferential SE,False
+CHE,Switzerland,1,7597,76899.85443,UH,CBA_standard,READ,,0,7597,descriptive selection contrast; not causal; no inferential SE,False
+CHE,Switzerland,1,7597,76899.85443,UH,CBA_standard,MATH,,0,7597,descriptive selection contrast; not causal; no inferential SE,False
+CHE,Switzerland,1,7597,76899.85443,UH,CBA_standard,SCIE,,0,7597,descriptive selection contrast; not causal; no inferential SE,False
+CHE,Switzerland,1,7597,76899.85443,ST438_four_valid,ST438_administered,READ,10.26121268,6385,7509,descriptive selection contrast; not causal; no inferential SE,False
+CHE,Switzerland,1,7597,76899.85443,ST438_four_valid,ST438_administered,MATH,7.575729315,6385,7509,descriptive selection contrast; not causal; no inferential SE,False
+CHE,Switzerland,1,7597,76899.85443,ST438_four_valid,ST438_administered,SCIE,8.265743735,6385,7509,descriptive selection contrast; not causal; no inferential SE,False
+CHL,Chile,1,6573,248109.749,ST438_administered,ST438_not_administered,READ,25.55260088,5632,916,descriptive selection contrast; not causal; no inferential SE,False
+CHL,Chile,1,6573,248109.749,ST438_administered,ST438_not_administered,MATH,18.59809726,5632,916,descriptive selection contrast; not causal; no inferential SE,False
+CHL,Chile,1,6573,248109.749,ST438_administered,ST438_not_administered,SCIE,41.32254343,5632,916,descriptive selection contrast; not causal; no inferential SE,False
+CHL,Chile,1,6573,248109.749,CBA,PBA,READ,,6573,0,descriptive selection contrast; not causal; no inferential SE,False
+CHL,Chile,1,6573,248109.749,CBA,PBA,MATH,,6573,0,descriptive selection contrast; not causal; no inferential SE,False
+CHL,Chile,1,6573,248109.749,CBA,PBA,SCIE,,6573,0,descriptive selection contrast; not causal; no inferential SE,False
+CHL,Chile,1,6573,248109.749,UH,CBA_standard,READ,-25.8161146,580,5993,descriptive selection contrast; not causal; no inferential SE,False
+CHL,Chile,1,6573,248109.749,UH,CBA_standard,MATH,-19.76066875,580,5993,descriptive selection contrast; not causal; no inferential SE,False
+CHL,Chile,1,6573,248109.749,UH,CBA_standard,SCIE,-49.74435298,580,5993,descriptive selection contrast; not causal; no inferential SE,False
+CHL,Chile,1,6573,248109.749,ST438_four_valid,ST438_administered,READ,7.067349398,5050,5632,descriptive selection contrast; not causal; no inferential SE,False
+CHL,Chile,1,6573,248109.749,ST438_four_valid,ST438_administered,MATH,5.763151013,5050,5632,descriptive selection contrast; not causal; no inferential SE,False
+CHL,Chile,1,6573,248109.749,ST438_four_valid,ST438_administered,SCIE,6.558116529,5050,5632,descriptive selection contrast; not causal; no inferential SE,False
+COL,Colombia,1,7268,597452.1585,ST438_administered,ST438_not_administered,READ,66.67862867,7175,89,descriptive selection contrast; not causal; no inferential SE,False
+COL,Colombia,1,7268,597452.1585,ST438_administered,ST438_not_administered,MATH,54.86021455,7175,89,descriptive selection contrast; not causal; no inferential SE,False
+COL,Colombia,1,7268,597452.1585,ST438_administered,ST438_not_administered,SCIE,62.59987643,7175,89,descriptive selection contrast; not causal; no inferential SE,False
+COL,Colombia,1,7268,597452.1585,CBA,PBA,READ,,7268,0,descriptive selection contrast; not causal; no inferential SE,False
+COL,Colombia,1,7268,597452.1585,CBA,PBA,MATH,,7268,0,descriptive selection contrast; not causal; no inferential SE,False
+COL,Colombia,1,7268,597452.1585,CBA,PBA,SCIE,,7268,0,descriptive selection contrast; not causal; no inferential SE,False
+COL,Colombia,1,7268,597452.1585,UH,CBA_standard,READ,,0,7268,descriptive selection contrast; not causal; no inferential SE,False
+COL,Colombia,1,7268,597452.1585,UH,CBA_standard,MATH,,0,7268,descriptive selection contrast; not causal; no inferential SE,False
+COL,Colombia,1,7268,597452.1585,UH,CBA_standard,SCIE,,0,7268,descriptive selection contrast; not causal; no inferential SE,False
+COL,Colombia,1,7268,597452.1585,ST438_four_valid,ST438_administered,READ,9.023236876,6292,7175,descriptive selection contrast; not causal; no inferential SE,False
+COL,Colombia,1,7268,597452.1585,ST438_four_valid,ST438_administered,MATH,7.321397408,6292,7175,descriptive selection contrast; not causal; no inferential SE,False
+COL,Colombia,1,7268,597452.1585,ST438_four_valid,ST438_administered,SCIE,9.217401763,6292,7175,descriptive selection contrast; not causal; no inferential SE,False
+CRI,Costa Rica,1,6881,54313.40721,ST438_administered,ST438_not_administered,READ,-3.095304936,6314,567,descriptive selection contrast; not causal; no inferential SE,False
+CRI,Costa Rica,1,6881,54313.40721,ST438_administered,ST438_not_administered,MATH,-14.87391825,6314,567,descriptive selection contrast; not causal; no inferential SE,False
+CRI,Costa Rica,1,6881,54313.40721,ST438_administered,ST438_not_administered,SCIE,5.347765415,6314,567,descriptive selection contrast; not causal; no inferential SE,False
+CRI,Costa Rica,1,6881,54313.40721,CBA,PBA,READ,,6881,0,descriptive selection contrast; not causal; no inferential SE,False
+CRI,Costa Rica,1,6881,54313.40721,CBA,PBA,MATH,,6881,0,descriptive selection contrast; not causal; no inferential SE,False
+CRI,Costa Rica,1,6881,54313.40721,CBA,PBA,SCIE,,6881,0,descriptive selection contrast; not causal; no inferential SE,False
+CRI,Costa Rica,1,6881,54313.40721,UH,CBA_standard,READ,5.942079048,532,6349,descriptive selection contrast; not causal; no inferential SE,False
+CRI,Costa Rica,1,6881,54313.40721,UH,CBA_standard,MATH,18.62396095,532,6349,descriptive selection contrast; not causal; no inferential SE,False
+CRI,Costa Rica,1,6881,54313.40721,UH,CBA_standard,SCIE,-3.121069912,532,6349,descriptive selection contrast; not causal; no inferential SE,False
+CRI,Costa Rica,1,6881,54313.40721,ST438_four_valid,ST438_administered,READ,6.490438713,5722,6314,descriptive selection contrast; not causal; no inferential SE,False
+CRI,Costa Rica,1,6881,54313.40721,ST438_four_valid,ST438_administered,MATH,5.579771797,5722,6314,descriptive selection contrast; not causal; no inferential SE,False
+CRI,Costa Rica,1,6881,54313.40721,ST438_four_valid,ST438_administered,SCIE,6.152430846,5722,6314,descriptive selection contrast; not causal; no inferential SE,False
+CZE,Czechia,1,8462,113055.9998,ST438_administered,ST438_not_administered,READ,46.99494331,8223,239,descriptive selection contrast; not causal; no inferential SE,False
+CZE,Czechia,1,8462,113055.9998,ST438_administered,ST438_not_administered,MATH,53.4619936,8223,239,descriptive selection contrast; not causal; no inferential SE,False
+CZE,Czechia,1,8462,113055.9998,ST438_administered,ST438_not_administered,SCIE,38.96048294,8223,239,descriptive selection contrast; not causal; no inferential SE,False
+CZE,Czechia,1,8462,113055.9998,CBA,PBA,READ,,8462,0,descriptive selection contrast; not causal; no inferential SE,False
+CZE,Czechia,1,8462,113055.9998,CBA,PBA,MATH,,8462,0,descriptive selection contrast; not causal; no inferential SE,False
+CZE,Czechia,1,8462,113055.9998,CBA,PBA,SCIE,,8462,0,descriptive selection contrast; not causal; no inferential SE,False
+CZE,Czechia,1,8462,113055.9998,UH,CBA_standard,READ,-114.5125579,90,8372,descriptive selection contrast; not causal; no inferential SE,False
+CZE,Czechia,1,8462,113055.9998,UH,CBA_standard,MATH,-118.1883648,90,8372,descriptive selection contrast; not causal; no inferential SE,False
+CZE,Czechia,1,8462,113055.9998,UH,CBA_standard,SCIE,-99.85545984,90,8372,descriptive selection contrast; not causal; no inferential SE,False
+CZE,Czechia,1,8462,113055.9998,ST438_four_valid,ST438_administered,READ,6.708401897,7545,8223,descriptive selection contrast; not causal; no inferential SE,False
+CZE,Czechia,1,8462,113055.9998,ST438_four_valid,ST438_administered,MATH,5.690819482,7545,8223,descriptive selection contrast; not causal; no inferential SE,False
+CZE,Czechia,1,8462,113055.9998,ST438_four_valid,ST438_administered,SCIE,5.933564239,7545,8223,descriptive selection contrast; not causal; no inferential SE,False
+DEU,Germany,1,6659,717880.2912,ST438_administered,ST438_not_administered,READ,72.15695729,5950,709,descriptive selection contrast; not causal; no inferential SE,False
+DEU,Germany,1,6659,717880.2912,ST438_administered,ST438_not_administered,MATH,62.88543945,5950,709,descriptive selection contrast; not causal; no inferential SE,False
+DEU,Germany,1,6659,717880.2912,ST438_administered,ST438_not_administered,SCIE,75.71106495,5950,709,descriptive selection contrast; not causal; no inferential SE,False
+DEU,Germany,1,6659,717880.2912,CBA,PBA,READ,,6659,0,descriptive selection contrast; not causal; no inferential SE,False
+DEU,Germany,1,6659,717880.2912,CBA,PBA,MATH,,6659,0,descriptive selection contrast; not causal; no inferential SE,False
+DEU,Germany,1,6659,717880.2912,CBA,PBA,SCIE,,6659,0,descriptive selection contrast; not causal; no inferential SE,False
+DEU,Germany,1,6659,717880.2912,UH,CBA_standard,READ,-137.3285289,128,6531,descriptive selection contrast; not causal; no inferential SE,False
+DEU,Germany,1,6659,717880.2912,UH,CBA_standard,MATH,-109.1728061,128,6531,descriptive selection contrast; not causal; no inferential SE,False
+DEU,Germany,1,6659,717880.2912,UH,CBA_standard,SCIE,-144.8566221,128,6531,descriptive selection contrast; not causal; no inferential SE,False
+DEU,Germany,1,6659,717880.2912,ST438_four_valid,ST438_administered,READ,8.981243523,5351,5950,descriptive selection contrast; not causal; no inferential SE,False
+DEU,Germany,1,6659,717880.2912,ST438_four_valid,ST438_administered,MATH,7.46826825,5351,5950,descriptive selection contrast; not causal; no inferential SE,False
+DEU,Germany,1,6659,717880.2912,ST438_four_valid,ST438_administered,SCIE,8.739991771,5351,5950,descriptive selection contrast; not causal; no inferential SE,False
+DNK,Denmark,1,5098,56465.96988,ST438_administered,ST438_not_administered,READ,40.02879866,4422,670,descriptive selection contrast; not causal; no inferential SE,False
+DNK,Denmark,1,5098,56465.96988,ST438_administered,ST438_not_administered,MATH,31.90389057,4422,670,descriptive selection contrast; not causal; no inferential SE,False
+DNK,Denmark,1,5098,56465.96988,ST438_administered,ST438_not_administered,SCIE,55.91075568,4422,670,descriptive selection contrast; not causal; no inferential SE,False
+DNK,Denmark,1,5098,56465.96988,CBA,PBA,READ,,5098,0,descriptive selection contrast; not causal; no inferential SE,False
+DNK,Denmark,1,5098,56465.96988,CBA,PBA,MATH,,5098,0,descriptive selection contrast; not causal; no inferential SE,False
+DNK,Denmark,1,5098,56465.96988,CBA,PBA,SCIE,,5098,0,descriptive selection contrast; not causal; no inferential SE,False
+DNK,Denmark,1,5098,56465.96988,UH,CBA_standard,READ,-41.11535251,560,4538,descriptive selection contrast; not causal; no inferential SE,False
+DNK,Denmark,1,5098,56465.96988,UH,CBA_standard,MATH,-26.72685171,560,4538,descriptive selection contrast; not causal; no inferential SE,False
+DNK,Denmark,1,5098,56465.96988,UH,CBA_standard,SCIE,-60.70346558,560,4538,descriptive selection contrast; not causal; no inferential SE,False
+DNK,Denmark,1,5098,56465.96988,ST438_four_valid,ST438_administered,READ,6.444590743,3973,4422,descriptive selection contrast; not causal; no inferential SE,False
+DNK,Denmark,1,5098,56465.96988,ST438_four_valid,ST438_administered,MATH,5.238849524,3973,4422,descriptive selection contrast; not causal; no inferential SE,False
+DNK,Denmark,1,5098,56465.96988,ST438_four_valid,ST438_administered,SCIE,6.643920225,3973,4422,descriptive selection contrast; not causal; no inferential SE,False
+DOM,Dominican Republic,0,7080,127852.2364,ST438_administered,ST438_not_administered,READ,-1.621652634,6878,103,descriptive selection contrast; not causal; no inferential SE,False
+DOM,Dominican Republic,0,7080,127852.2364,ST438_administered,ST438_not_administered,MATH,-3.742262598,6878,103,descriptive selection contrast; not causal; no inferential SE,False
+DOM,Dominican Republic,0,7080,127852.2364,ST438_administered,ST438_not_administered,SCIE,2.068302324,6878,103,descriptive selection contrast; not causal; no inferential SE,False
+DOM,Dominican Republic,0,7080,127852.2364,CBA,PBA,READ,,7080,0,descriptive selection contrast; not causal; no inferential SE,False
+DOM,Dominican Republic,0,7080,127852.2364,CBA,PBA,MATH,,7080,0,descriptive selection contrast; not causal; no inferential SE,False
+DOM,Dominican Republic,0,7080,127852.2364,CBA,PBA,SCIE,,7080,0,descriptive selection contrast; not causal; no inferential SE,False
+DOM,Dominican Republic,0,7080,127852.2364,UH,CBA_standard,READ,,0,7080,descriptive selection contrast; not causal; no inferential SE,False
+DOM,Dominican Republic,0,7080,127852.2364,UH,CBA_standard,MATH,,0,7080,descriptive selection contrast; not causal; no inferential SE,False
+DOM,Dominican Republic,0,7080,127852.2364,UH,CBA_standard,SCIE,,0,7080,descriptive selection contrast; not causal; no inferential SE,False
+DOM,Dominican Republic,0,7080,127852.2364,ST438_four_valid,ST438_administered,READ,13.87135377,5143,6878,descriptive selection contrast; not causal; no inferential SE,False
+DOM,Dominican Republic,0,7080,127852.2364,ST438_four_valid,ST438_administered,MATH,10.59007131,5143,6878,descriptive selection contrast; not causal; no inferential SE,False
+DOM,Dominican Republic,0,7080,127852.2364,ST438_four_valid,ST438_administered,SCIE,13.11315532,5143,6878,descriptive selection contrast; not causal; no inferential SE,False
+ECU,Ecuador,0,9128,267923.776,ST438_administered,ST438_not_administered,READ,28.52888911,9038,89,descriptive selection contrast; not causal; no inferential SE,False
+ECU,Ecuador,0,9128,267923.776,ST438_administered,ST438_not_administered,MATH,17.26546848,9038,89,descriptive selection contrast; not causal; no inferential SE,False
+ECU,Ecuador,0,9128,267923.776,ST438_administered,ST438_not_administered,SCIE,31.22037075,9038,89,descriptive selection contrast; not causal; no inferential SE,False
+ECU,Ecuador,0,9128,267923.776,CBA,PBA,READ,,9128,0,descriptive selection contrast; not causal; no inferential SE,False
+ECU,Ecuador,0,9128,267923.776,CBA,PBA,MATH,,9128,0,descriptive selection contrast; not causal; no inferential SE,False
+ECU,Ecuador,0,9128,267923.776,CBA,PBA,SCIE,,9128,0,descriptive selection contrast; not causal; no inferential SE,False
+ECU,Ecuador,0,9128,267923.776,UH,CBA_standard,READ,,0,9128,descriptive selection contrast; not causal; no inferential SE,False
+ECU,Ecuador,0,9128,267923.776,UH,CBA_standard,MATH,,0,9128,descriptive selection contrast; not causal; no inferential SE,False
+ECU,Ecuador,0,9128,267923.776,UH,CBA_standard,SCIE,,0,9128,descriptive selection contrast; not causal; no inferential SE,False
+ECU,Ecuador,0,9128,267923.776,ST438_four_valid,ST438_administered,READ,5.738555205,8356,9038,descriptive selection contrast; not causal; no inferential SE,False
+ECU,Ecuador,0,9128,267923.776,ST438_four_valid,ST438_administered,MATH,3.879462949,8356,9038,descriptive selection contrast; not causal; no inferential SE,False
+ECU,Ecuador,0,9128,267923.776,ST438_four_valid,ST438_administered,SCIE,5.039702792,8356,9038,descriptive selection contrast; not causal; no inferential SE,False
+ESP,Spain,1,29966,459747.2438,ST438_administered,ST438_not_administered,READ,15.02582136,29836,129,descriptive selection contrast; not causal; no inferential SE,False
+ESP,Spain,1,29966,459747.2438,ST438_administered,ST438_not_administered,MATH,14.97178318,29836,129,descriptive selection contrast; not causal; no inferential SE,False
+ESP,Spain,1,29966,459747.2438,ST438_administered,ST438_not_administered,SCIE,20.63204294,29836,129,descriptive selection contrast; not causal; no inferential SE,False
+ESP,Spain,1,29966,459747.2438,CBA,PBA,READ,,29966,0,descriptive selection contrast; not causal; no inferential SE,False
+ESP,Spain,1,29966,459747.2438,CBA,PBA,MATH,,29966,0,descriptive selection contrast; not causal; no inferential SE,False
+ESP,Spain,1,29966,459747.2438,CBA,PBA,SCIE,,29966,0,descriptive selection contrast; not causal; no inferential SE,False
+ESP,Spain,1,29966,459747.2438,UH,CBA_standard,READ,,0,29966,descriptive selection contrast; not causal; no inferential SE,False
+ESP,Spain,1,29966,459747.2438,UH,CBA_standard,MATH,,0,29966,descriptive selection contrast; not causal; no inferential SE,False
+ESP,Spain,1,29966,459747.2438,UH,CBA_standard,SCIE,,0,29966,descriptive selection contrast; not causal; no inferential SE,False
+ESP,Spain,1,29966,459747.2438,ST438_four_valid,ST438_administered,READ,8.955222324,26242,29836,descriptive selection contrast; not causal; no inferential SE,False
+ESP,Spain,1,29966,459747.2438,ST438_four_valid,ST438_administered,MATH,7.012628221,26242,29836,descriptive selection contrast; not causal; no inferential SE,False
+ESP,Spain,1,29966,459747.2438,ST438_four_valid,ST438_administered,SCIE,8.295008809,26242,29836,descriptive selection contrast; not causal; no inferential SE,False
+EST,Estonia,1,6304,14582.39046,ST438_administered,ST438_not_administered,READ,120.7421416,6272,32,descriptive selection contrast; not causal; no inferential SE,False
+EST,Estonia,1,6304,14582.39046,ST438_administered,ST438_not_administered,MATH,59.92122489,6272,32,descriptive selection contrast; not causal; no inferential SE,False
+EST,Estonia,1,6304,14582.39046,ST438_administered,ST438_not_administered,SCIE,98.92037295,6272,32,descriptive selection contrast; not causal; no inferential SE,False
+EST,Estonia,1,6304,14582.39046,CBA,PBA,READ,,6304,0,descriptive selection contrast; not causal; no inferential SE,False
+EST,Estonia,1,6304,14582.39046,CBA,PBA,MATH,,6304,0,descriptive selection contrast; not causal; no inferential SE,False
+EST,Estonia,1,6304,14582.39046,CBA,PBA,SCIE,,6304,0,descriptive selection contrast; not causal; no inferential SE,False
+EST,Estonia,1,6304,14582.39046,UH,CBA_standard,READ,,0,6304,descriptive selection contrast; not causal; no inferential SE,False
+EST,Estonia,1,6304,14582.39046,UH,CBA_standard,MATH,,0,6304,descriptive selection contrast; not causal; no inferential SE,False
+EST,Estonia,1,6304,14582.39046,UH,CBA_standard,SCIE,,0,6304,descriptive selection contrast; not causal; no inferential SE,False
+EST,Estonia,1,6304,14582.39046,ST438_four_valid,ST438_administered,READ,2.909909025,6047,6272,descriptive selection contrast; not causal; no inferential SE,False
+EST,Estonia,1,6304,14582.39046,ST438_four_valid,ST438_administered,MATH,2.015336719,6047,6272,descriptive selection contrast; not causal; no inferential SE,False
+EST,Estonia,1,6304,14582.39046,ST438_four_valid,ST438_administered,SCIE,2.140523924,6047,6272,descriptive selection contrast; not causal; no inferential SE,False
+FIN,Finland,1,7668,59891.23278,ST438_administered,ST438_not_administered,READ,85.31659376,7540,128,descriptive selection contrast; not causal; no inferential SE,False
+FIN,Finland,1,7668,59891.23278,ST438_administered,ST438_not_administered,MATH,68.48839922,7540,128,descriptive selection contrast; not causal; no inferential SE,False
+FIN,Finland,1,7668,59891.23278,ST438_administered,ST438_not_administered,SCIE,69.16179932,7540,128,descriptive selection contrast; not causal; no inferential SE,False
+FIN,Finland,1,7668,59891.23278,CBA,PBA,READ,,7668,0,descriptive selection contrast; not causal; no inferential SE,False
+FIN,Finland,1,7668,59891.23278,CBA,PBA,MATH,,7668,0,descriptive selection contrast; not causal; no inferential SE,False
+FIN,Finland,1,7668,59891.23278,CBA,PBA,SCIE,,7668,0,descriptive selection contrast; not causal; no inferential SE,False
+FIN,Finland,1,7668,59891.23278,UH,CBA_standard,READ,,0,7668,descriptive selection contrast; not causal; no inferential SE,False
+FIN,Finland,1,7668,59891.23278,UH,CBA_standard,MATH,,0,7668,descriptive selection contrast; not causal; no inferential SE,False
+FIN,Finland,1,7668,59891.23278,UH,CBA_standard,SCIE,,0,7668,descriptive selection contrast; not causal; no inferential SE,False
+FIN,Finland,1,7668,59891.23278,ST438_four_valid,ST438_administered,READ,9.908602152,6868,7540,descriptive selection contrast; not causal; no inferential SE,False
+FIN,Finland,1,7668,59891.23278,ST438_four_valid,ST438_administered,MATH,7.583300158,6868,7540,descriptive selection contrast; not causal; no inferential SE,False
+FIN,Finland,1,7668,59891.23278,ST438_four_valid,ST438_administered,SCIE,9.201281912,6868,7540,descriptive selection contrast; not causal; no inferential SE,False
+FRA,France,1,6501,768249.3201,ST438_administered,ST438_not_administered,READ,52.55072329,6391,110,descriptive selection contrast; not causal; no inferential SE,False
+FRA,France,1,6501,768249.3201,ST438_administered,ST438_not_administered,MATH,57.19559316,6391,110,descriptive selection contrast; not causal; no inferential SE,False
+FRA,France,1,6501,768249.3201,ST438_administered,ST438_not_administered,SCIE,53.40147391,6391,110,descriptive selection contrast; not causal; no inferential SE,False
+FRA,France,1,6501,768249.3201,CBA,PBA,READ,,6501,0,descriptive selection contrast; not causal; no inferential SE,False
+FRA,France,1,6501,768249.3201,CBA,PBA,MATH,,6501,0,descriptive selection contrast; not causal; no inferential SE,False
+FRA,France,1,6501,768249.3201,CBA,PBA,SCIE,,6501,0,descriptive selection contrast; not causal; no inferential SE,False
+FRA,France,1,6501,768249.3201,UH,CBA_standard,READ,,0,6501,descriptive selection contrast; not causal; no inferential SE,False
+FRA,France,1,6501,768249.3201,UH,CBA_standard,MATH,,0,6501,descriptive selection contrast; not causal; no inferential SE,False
+FRA,France,1,6501,768249.3201,UH,CBA_standard,SCIE,,0,6501,descriptive selection contrast; not causal; no inferential SE,False
+FRA,France,1,6501,768249.3201,ST438_four_valid,ST438_administered,READ,20.09007385,5138,6391,descriptive selection contrast; not causal; no inferential SE,False
+FRA,France,1,6501,768249.3201,ST438_four_valid,ST438_administered,MATH,17.87225511,5138,6391,descriptive selection contrast; not causal; no inferential SE,False
+FRA,France,1,6501,768249.3201,ST438_four_valid,ST438_administered,SCIE,20.25189405,5138,6391,descriptive selection contrast; not causal; no inferential SE,False
+GBR,United Kingdom,1,15546,704602.8138,ST438_administered,ST438_not_administered,READ,28.89186743,14962,576,descriptive selection contrast; not causal; no inferential SE,False
+GBR,United Kingdom,1,15546,704602.8138,ST438_administered,ST438_not_administered,MATH,30.05869622,14962,576,descriptive selection contrast; not causal; no inferential SE,False
+GBR,United Kingdom,1,15546,704602.8138,ST438_administered,ST438_not_administered,SCIE,31.27901068,14962,576,descriptive selection contrast; not causal; no inferential SE,False
+GBR,United Kingdom,1,15546,704602.8138,CBA,PBA,READ,,15546,0,descriptive selection contrast; not causal; no inferential SE,False
+GBR,United Kingdom,1,15546,704602.8138,CBA,PBA,MATH,,15546,0,descriptive selection contrast; not causal; no inferential SE,False
+GBR,United Kingdom,1,15546,704602.8138,CBA,PBA,SCIE,,15546,0,descriptive selection contrast; not causal; no inferential SE,False
+GBR,United Kingdom,1,15546,704602.8138,UH,CBA_standard,READ,,0,15546,descriptive selection contrast; not causal; no inferential SE,False
+GBR,United Kingdom,1,15546,704602.8138,UH,CBA_standard,MATH,,0,15546,descriptive selection contrast; not causal; no inferential SE,False
+GBR,United Kingdom,1,15546,704602.8138,UH,CBA_standard,SCIE,,0,15546,descriptive selection contrast; not causal; no inferential SE,False
+GBR,United Kingdom,1,15546,704602.8138,ST438_four_valid,ST438_administered,READ,9.056478076,13422,14962,descriptive selection contrast; not causal; no inferential SE,False
+GBR,United Kingdom,1,15546,704602.8138,ST438_four_valid,ST438_administered,MATH,8.203453059,13422,14962,descriptive selection contrast; not causal; no inferential SE,False
+GBR,United Kingdom,1,15546,704602.8138,ST438_four_valid,ST438_administered,SCIE,8.858527653,13422,14962,descriptive selection contrast; not causal; no inferential SE,False
+GEO,Georgia,0,6855,53880.17033,ST438_administered,ST438_not_administered,READ,5.992751495,6826,26,descriptive selection contrast; not causal; no inferential SE,False
+GEO,Georgia,0,6855,53880.17033,ST438_administered,ST438_not_administered,MATH,-35.38350935,6826,26,descriptive selection contrast; not causal; no inferential SE,False
+GEO,Georgia,0,6855,53880.17033,ST438_administered,ST438_not_administered,SCIE,-15.33993881,6826,26,descriptive selection contrast; not causal; no inferential SE,False
+GEO,Georgia,0,6855,53880.17033,CBA,PBA,READ,,6855,0,descriptive selection contrast; not causal; no inferential SE,False
+GEO,Georgia,0,6855,53880.17033,CBA,PBA,MATH,,6855,0,descriptive selection contrast; not causal; no inferential SE,False
+GEO,Georgia,0,6855,53880.17033,CBA,PBA,SCIE,,6855,0,descriptive selection contrast; not causal; no inferential SE,False
+GEO,Georgia,0,6855,53880.17033,UH,CBA_standard,READ,,0,6855,descriptive selection contrast; not causal; no inferential SE,False
+GEO,Georgia,0,6855,53880.17033,UH,CBA_standard,MATH,,0,6855,descriptive selection contrast; not causal; no inferential SE,False
+GEO,Georgia,0,6855,53880.17033,UH,CBA_standard,SCIE,,0,6855,descriptive selection contrast; not causal; no inferential SE,False
+GEO,Georgia,0,6855,53880.17033,ST438_four_valid,ST438_administered,READ,11.52331331,5141,6826,descriptive selection contrast; not causal; no inferential SE,False
+GEO,Georgia,0,6855,53880.17033,ST438_four_valid,ST438_administered,MATH,11.64869997,5141,6826,descriptive selection contrast; not causal; no inferential SE,False
+GEO,Georgia,0,6855,53880.17033,ST438_four_valid,ST438_administered,SCIE,12.2694659,5141,6826,descriptive selection contrast; not causal; no inferential SE,False
+GRC,Greece,1,6858,101833.8451,ST438_administered,ST438_not_administered,READ,101.4081762,6831,16,descriptive selection contrast; not causal; no inferential SE,False
+GRC,Greece,1,6858,101833.8451,ST438_administered,ST438_not_administered,MATH,42.65288463,6831,16,descriptive selection contrast; not causal; no inferential SE,False
+GRC,Greece,1,6858,101833.8451,ST438_administered,ST438_not_administered,SCIE,80.23146351,6831,16,descriptive selection contrast; not causal; no inferential SE,False
+GRC,Greece,1,6858,101833.8451,CBA,PBA,READ,,6858,0,descriptive selection contrast; not causal; no inferential SE,False
+GRC,Greece,1,6858,101833.8451,CBA,PBA,MATH,,6858,0,descriptive selection contrast; not causal; no inferential SE,False
+GRC,Greece,1,6858,101833.8451,CBA,PBA,SCIE,,6858,0,descriptive selection contrast; not causal; no inferential SE,False
+GRC,Greece,1,6858,101833.8451,UH,CBA_standard,READ,,0,6858,descriptive selection contrast; not causal; no inferential SE,False
+GRC,Greece,1,6858,101833.8451,UH,CBA_standard,MATH,,0,6858,descriptive selection contrast; not causal; no inferential SE,False
+GRC,Greece,1,6858,101833.8451,UH,CBA_standard,SCIE,,0,6858,descriptive selection contrast; not causal; no inferential SE,False
+GRC,Greece,1,6858,101833.8451,ST438_four_valid,ST438_administered,READ,8.126588891,6248,6831,descriptive selection contrast; not causal; no inferential SE,False
+GRC,Greece,1,6858,101833.8451,ST438_four_valid,ST438_administered,MATH,6.7685789,6248,6831,descriptive selection contrast; not causal; no inferential SE,False
+GRC,Greece,1,6858,101833.8451,ST438_four_valid,ST438_administered,SCIE,6.837044001,6248,6831,descriptive selection contrast; not causal; no inferential SE,False
+GTM,Guatemala,0,7014,193512.0552,ST438_administered,ST438_not_administered,READ,-29.53836297,6973,39,descriptive selection contrast; not causal; no inferential SE,False
+GTM,Guatemala,0,7014,193512.0552,ST438_administered,ST438_not_administered,MATH,-2.998689834,6973,39,descriptive selection contrast; not causal; no inferential SE,False
+GTM,Guatemala,0,7014,193512.0552,ST438_administered,ST438_not_administered,SCIE,10.89482844,6973,39,descriptive selection contrast; not causal; no inferential SE,False
+GTM,Guatemala,0,7014,193512.0552,CBA,PBA,READ,,7014,0,descriptive selection contrast; not causal; no inferential SE,False
+GTM,Guatemala,0,7014,193512.0552,CBA,PBA,MATH,,7014,0,descriptive selection contrast; not causal; no inferential SE,False
+GTM,Guatemala,0,7014,193512.0552,CBA,PBA,SCIE,,7014,0,descriptive selection contrast; not causal; no inferential SE,False
+GTM,Guatemala,0,7014,193512.0552,UH,CBA_standard,READ,,0,7014,descriptive selection contrast; not causal; no inferential SE,False
+GTM,Guatemala,0,7014,193512.0552,UH,CBA_standard,MATH,,0,7014,descriptive selection contrast; not causal; no inferential SE,False
+GTM,Guatemala,0,7014,193512.0552,UH,CBA_standard,SCIE,,0,7014,descriptive selection contrast; not causal; no inferential SE,False
+GTM,Guatemala,0,7014,193512.0552,ST438_four_valid,ST438_administered,READ,15.31987014,5097,6973,descriptive selection contrast; not causal; no inferential SE,False
+GTM,Guatemala,0,7014,193512.0552,ST438_four_valid,ST438_administered,MATH,12.9248277,5097,6973,descriptive selection contrast; not causal; no inferential SE,False
+GTM,Guatemala,0,7014,193512.0552,ST438_four_valid,ST438_administered,SCIE,15.78188699,5097,6973,descriptive selection contrast; not causal; no inferential SE,False
+HKG,Hong Kong (China),0,6445,49834.94306,ST438_administered,ST438_not_administered,READ,115.4714121,6418,27,descriptive selection contrast; not causal; no inferential SE,False
+HKG,Hong Kong (China),0,6445,49834.94306,ST438_administered,ST438_not_administered,MATH,36.18638634,6418,27,descriptive selection contrast; not causal; no inferential SE,False
+HKG,Hong Kong (China),0,6445,49834.94306,ST438_administered,ST438_not_administered,SCIE,41.33322339,6418,27,descriptive selection contrast; not causal; no inferential SE,False
+HKG,Hong Kong (China),0,6445,49834.94306,CBA,PBA,READ,,6445,0,descriptive selection contrast; not causal; no inferential SE,False
+HKG,Hong Kong (China),0,6445,49834.94306,CBA,PBA,MATH,,6445,0,descriptive selection contrast; not causal; no inferential SE,False
+HKG,Hong Kong (China),0,6445,49834.94306,CBA,PBA,SCIE,,6445,0,descriptive selection contrast; not causal; no inferential SE,False
+HKG,Hong Kong (China),0,6445,49834.94306,UH,CBA_standard,READ,,0,6445,descriptive selection contrast; not causal; no inferential SE,False
+HKG,Hong Kong (China),0,6445,49834.94306,UH,CBA_standard,MATH,,0,6445,descriptive selection contrast; not causal; no inferential SE,False
+HKG,Hong Kong (China),0,6445,49834.94306,UH,CBA_standard,SCIE,,0,6445,descriptive selection contrast; not causal; no inferential SE,False
+HKG,Hong Kong (China),0,6445,49834.94306,ST438_four_valid,ST438_administered,READ,3.235844618,6209,6418,descriptive selection contrast; not causal; no inferential SE,False
+HKG,Hong Kong (China),0,6445,49834.94306,ST438_four_valid,ST438_administered,MATH,2.710392872,6209,6418,descriptive selection contrast; not causal; no inferential SE,False
+HKG,Hong Kong (China),0,6445,49834.94306,ST438_four_valid,ST438_administered,SCIE,2.717504723,6209,6418,descriptive selection contrast; not causal; no inferential SE,False
+HRV,Croatia,0,6424,37146.03715,ST438_administered,ST438_not_administered,READ,13.92861209,6369,53,descriptive selection contrast; not causal; no inferential SE,False
+HRV,Croatia,0,6424,37146.03715,ST438_administered,ST438_not_administered,MATH,5.916194905,6369,53,descriptive selection contrast; not causal; no inferential SE,False
+HRV,Croatia,0,6424,37146.03715,ST438_administered,ST438_not_administered,SCIE,8.982649375,6369,53,descriptive selection contrast; not causal; no inferential SE,False
+HRV,Croatia,0,6424,37146.03715,CBA,PBA,READ,,6424,0,descriptive selection contrast; not causal; no inferential SE,False
+HRV,Croatia,0,6424,37146.03715,CBA,PBA,MATH,,6424,0,descriptive selection contrast; not causal; no inferential SE,False
+HRV,Croatia,0,6424,37146.03715,CBA,PBA,SCIE,,6424,0,descriptive selection contrast; not causal; no inferential SE,False
+HRV,Croatia,0,6424,37146.03715,UH,CBA_standard,READ,,0,6424,descriptive selection contrast; not causal; no inferential SE,False
+HRV,Croatia,0,6424,37146.03715,UH,CBA_standard,MATH,,0,6424,descriptive selection contrast; not causal; no inferential SE,False
+HRV,Croatia,0,6424,37146.03715,UH,CBA_standard,SCIE,,0,6424,descriptive selection contrast; not causal; no inferential SE,False
+HRV,Croatia,0,6424,37146.03715,ST438_four_valid,ST438_administered,READ,10.49584276,5697,6369,descriptive selection contrast; not causal; no inferential SE,False
+HRV,Croatia,0,6424,37146.03715,ST438_four_valid,ST438_administered,MATH,7.9728067,5697,6369,descriptive selection contrast; not causal; no inferential SE,False
+HRV,Croatia,0,6424,37146.03715,ST438_four_valid,ST438_administered,SCIE,9.21009261,5697,6369,descriptive selection contrast; not causal; no inferential SE,False
+HUN,Hungary,1,6387,86042.03755,ST438_administered,ST438_not_administered,READ,17.79091026,6315,71,descriptive selection contrast; not causal; no inferential SE,False
+HUN,Hungary,1,6387,86042.03755,ST438_administered,ST438_not_administered,MATH,47.46535962,6315,71,descriptive selection contrast; not causal; no inferential SE,False
+HUN,Hungary,1,6387,86042.03755,ST438_administered,ST438_not_administered,SCIE,29.97456729,6315,71,descriptive selection contrast; not causal; no inferential SE,False
+HUN,Hungary,1,6387,86042.03755,CBA,PBA,READ,,6387,0,descriptive selection contrast; not causal; no inferential SE,False
+HUN,Hungary,1,6387,86042.03755,CBA,PBA,MATH,,6387,0,descriptive selection contrast; not causal; no inferential SE,False
+HUN,Hungary,1,6387,86042.03755,CBA,PBA,SCIE,,6387,0,descriptive selection contrast; not causal; no inferential SE,False
+HUN,Hungary,1,6387,86042.03755,UH,CBA_standard,READ,,0,6387,descriptive selection contrast; not causal; no inferential SE,False
+HUN,Hungary,1,6387,86042.03755,UH,CBA_standard,MATH,,0,6387,descriptive selection contrast; not causal; no inferential SE,False
+HUN,Hungary,1,6387,86042.03755,UH,CBA_standard,SCIE,,0,6387,descriptive selection contrast; not causal; no inferential SE,False
+HUN,Hungary,1,6387,86042.03755,ST438_four_valid,ST438_administered,READ,4.501805478,6044,6315,descriptive selection contrast; not causal; no inferential SE,False
+HUN,Hungary,1,6387,86042.03755,ST438_four_valid,ST438_administered,MATH,4.070554052,6044,6315,descriptive selection contrast; not causal; no inferential SE,False
+HUN,Hungary,1,6387,86042.03755,ST438_four_valid,ST438_administered,SCIE,4.181885078,6044,6315,descriptive selection contrast; not causal; no inferential SE,False
+IDN,Indonesia,0,14168,3995221.933,ST438_administered,ST438_not_administered,READ,65.83352061,14110,55,descriptive selection contrast; not causal; no inferential SE,False
+IDN,Indonesia,0,14168,3995221.933,ST438_administered,ST438_not_administered,MATH,15.86433821,14110,55,descriptive selection contrast; not causal; no inferential SE,False
+IDN,Indonesia,0,14168,3995221.933,ST438_administered,ST438_not_administered,SCIE,34.53831863,14110,55,descriptive selection contrast; not causal; no inferential SE,False
+IDN,Indonesia,0,14168,3995221.933,CBA,PBA,READ,,14168,0,descriptive selection contrast; not causal; no inferential SE,False
+IDN,Indonesia,0,14168,3995221.933,CBA,PBA,MATH,,14168,0,descriptive selection contrast; not causal; no inferential SE,False
+IDN,Indonesia,0,14168,3995221.933,CBA,PBA,SCIE,,14168,0,descriptive selection contrast; not causal; no inferential SE,False
+IDN,Indonesia,0,14168,3995221.933,UH,CBA_standard,READ,,0,14168,descriptive selection contrast; not causal; no inferential SE,False
+IDN,Indonesia,0,14168,3995221.933,UH,CBA_standard,MATH,,0,14168,descriptive selection contrast; not causal; no inferential SE,False
+IDN,Indonesia,0,14168,3995221.933,UH,CBA_standard,SCIE,,0,14168,descriptive selection contrast; not causal; no inferential SE,False
+IDN,Indonesia,0,14168,3995221.933,ST438_four_valid,ST438_administered,READ,2.618950821,13314,14110,descriptive selection contrast; not causal; no inferential SE,False
+IDN,Indonesia,0,14168,3995221.933,ST438_four_valid,ST438_administered,MATH,2.031388637,13314,14110,descriptive selection contrast; not causal; no inferential SE,False
+IDN,Indonesia,0,14168,3995221.933,ST438_four_valid,ST438_administered,SCIE,2.382056595,13314,14110,descriptive selection contrast; not causal; no inferential SE,False
+IRL,Ireland,1,6356,74150.16745,ST438_administered,ST438_not_administered,READ,81.32944178,6309,43,descriptive selection contrast; not causal; no inferential SE,False
+IRL,Ireland,1,6356,74150.16745,ST438_administered,ST438_not_administered,MATH,70.46401856,6309,43,descriptive selection contrast; not causal; no inferential SE,False
+IRL,Ireland,1,6356,74150.16745,ST438_administered,ST438_not_administered,SCIE,66.96946919,6309,43,descriptive selection contrast; not causal; no inferential SE,False
+IRL,Ireland,1,6356,74150.16745,CBA,PBA,READ,,6356,0,descriptive selection contrast; not causal; no inferential SE,False
+IRL,Ireland,1,6356,74150.16745,CBA,PBA,MATH,,6356,0,descriptive selection contrast; not causal; no inferential SE,False
+IRL,Ireland,1,6356,74150.16745,CBA,PBA,SCIE,,6356,0,descriptive selection contrast; not causal; no inferential SE,False
+IRL,Ireland,1,6356,74150.16745,UH,CBA_standard,READ,,0,6356,descriptive selection contrast; not causal; no inferential SE,False
+IRL,Ireland,1,6356,74150.16745,UH,CBA_standard,MATH,,0,6356,descriptive selection contrast; not causal; no inferential SE,False
+IRL,Ireland,1,6356,74150.16745,UH,CBA_standard,SCIE,,0,6356,descriptive selection contrast; not causal; no inferential SE,False
+IRL,Ireland,1,6356,74150.16745,ST438_four_valid,ST438_administered,READ,4.620588376,5985,6309,descriptive selection contrast; not causal; no inferential SE,False
+IRL,Ireland,1,6356,74150.16745,ST438_four_valid,ST438_administered,MATH,3.917032991,5985,6309,descriptive selection contrast; not causal; no inferential SE,False
+IRL,Ireland,1,6356,74150.16745,ST438_four_valid,ST438_administered,SCIE,4.648885768,5985,6309,descriptive selection contrast; not causal; no inferential SE,False
+ISL,Iceland,1,3974,4805.621546,ST438_administered,ST438_not_administered,READ,66.32019873,3789,182,descriptive selection contrast; not causal; no inferential SE,False
+ISL,Iceland,1,3974,4805.621546,ST438_administered,ST438_not_administered,MATH,54.602884,3789,182,descriptive selection contrast; not causal; no inferential SE,False
+ISL,Iceland,1,3974,4805.621546,ST438_administered,ST438_not_administered,SCIE,71.39562901,3789,182,descriptive selection contrast; not causal; no inferential SE,False
+ISL,Iceland,1,3974,4805.621546,CBA,PBA,READ,,3974,0,descriptive selection contrast; not causal; no inferential SE,False
+ISL,Iceland,1,3974,4805.621546,CBA,PBA,MATH,,3974,0,descriptive selection contrast; not causal; no inferential SE,False
+ISL,Iceland,1,3974,4805.621546,CBA,PBA,SCIE,,3974,0,descriptive selection contrast; not causal; no inferential SE,False
+ISL,Iceland,1,3974,4805.621546,UH,CBA_standard,READ,-59.83345082,120,3854,descriptive selection contrast; not causal; no inferential SE,False
+ISL,Iceland,1,3974,4805.621546,UH,CBA_standard,MATH,-63.2839304,120,3854,descriptive selection contrast; not causal; no inferential SE,False
+ISL,Iceland,1,3974,4805.621546,UH,CBA_standard,SCIE,-77.57390231,120,3854,descriptive selection contrast; not causal; no inferential SE,False
+ISL,Iceland,1,3974,4805.621546,ST438_four_valid,ST438_administered,READ,11.29075238,3211,3789,descriptive selection contrast; not causal; no inferential SE,False
+ISL,Iceland,1,3974,4805.621546,ST438_four_valid,ST438_administered,MATH,8.814417666,3211,3789,descriptive selection contrast; not causal; no inferential SE,False
+ISL,Iceland,1,3974,4805.621546,ST438_four_valid,ST438_administered,SCIE,10.06457515,3211,3789,descriptive selection contrast; not causal; no inferential SE,False
+ISR,Israel,1,7330,141264.1908,ST438_administered,ST438_not_administered,READ,-28.72844047,5981,1318,descriptive selection contrast; not causal; no inferential SE,False
+ISR,Israel,1,7330,141264.1908,ST438_administered,ST438_not_administered,MATH,4.155845028,5981,1318,descriptive selection contrast; not causal; no inferential SE,False
+ISR,Israel,1,7330,141264.1908,ST438_administered,ST438_not_administered,SCIE,7.00470786,5981,1318,descriptive selection contrast; not causal; no inferential SE,False
+ISR,Israel,1,7330,141264.1908,CBA,PBA,READ,,7330,0,descriptive selection contrast; not causal; no inferential SE,False
+ISR,Israel,1,7330,141264.1908,CBA,PBA,MATH,,7330,0,descriptive selection contrast; not causal; no inferential SE,False
+ISR,Israel,1,7330,141264.1908,CBA,PBA,SCIE,,7330,0,descriptive selection contrast; not causal; no inferential SE,False
+ISR,Israel,1,7330,141264.1908,UH,CBA_standard,READ,,0,6372,descriptive selection contrast; not causal; no inferential SE,False
+ISR,Israel,1,7330,141264.1908,UH,CBA_standard,MATH,,0,6372,descriptive selection contrast; not causal; no inferential SE,False
+ISR,Israel,1,7330,141264.1908,UH,CBA_standard,SCIE,,0,6372,descriptive selection contrast; not causal; no inferential SE,False
+ISR,Israel,1,7330,141264.1908,ST438_four_valid,ST438_administered,READ,29.21373959,4263,5981,descriptive selection contrast; not causal; no inferential SE,False
+ISR,Israel,1,7330,141264.1908,ST438_four_valid,ST438_administered,MATH,23.41800611,4263,5981,descriptive selection contrast; not causal; no inferential SE,False
+ISR,Israel,1,7330,141264.1908,ST438_four_valid,ST438_administered,SCIE,27.55266918,4263,5981,descriptive selection contrast; not causal; no inferential SE,False
+ITA,Italy,1,8946,507002.5021,ST438_administered,ST438_not_administered,READ,145.2624422,8936,10,descriptive selection contrast; not causal; no inferential SE,False
+ITA,Italy,1,8946,507002.5021,ST438_administered,ST438_not_administered,MATH,114.139121,8936,10,descriptive selection contrast; not causal; no inferential SE,False
+ITA,Italy,1,8946,507002.5021,ST438_administered,ST438_not_administered,SCIE,133.4600298,8936,10,descriptive selection contrast; not causal; no inferential SE,False
+ITA,Italy,1,8946,507002.5021,CBA,PBA,READ,,8946,0,descriptive selection contrast; not causal; no inferential SE,False
+ITA,Italy,1,8946,507002.5021,CBA,PBA,MATH,,8946,0,descriptive selection contrast; not causal; no inferential SE,False
+ITA,Italy,1,8946,507002.5021,CBA,PBA,SCIE,,8946,0,descriptive selection contrast; not causal; no inferential SE,False
+ITA,Italy,1,8946,507002.5021,UH,CBA_standard,READ,,0,8946,descriptive selection contrast; not causal; no inferential SE,False
+ITA,Italy,1,8946,507002.5021,UH,CBA_standard,MATH,,0,8946,descriptive selection contrast; not causal; no inferential SE,False
+ITA,Italy,1,8946,507002.5021,UH,CBA_standard,SCIE,,0,8946,descriptive selection contrast; not causal; no inferential SE,False
+ITA,Italy,1,8946,507002.5021,ST438_four_valid,ST438_administered,READ,5.17069909,8474,8936,descriptive selection contrast; not causal; no inferential SE,False
+ITA,Italy,1,8946,507002.5021,ST438_four_valid,ST438_administered,MATH,4.240892488,8474,8936,descriptive selection contrast; not causal; no inferential SE,False
+ITA,Italy,1,8946,507002.5021,ST438_four_valid,ST438_administered,SCIE,4.585576947,8474,8936,descriptive selection contrast; not causal; no inferential SE,False
+JOR,Jordan,0,,,ST438_administered,ST438_not_administered,READ,,,,descriptive selection contrast; not causal; no inferential SE,True
+JOR,Jordan,0,,,ST438_administered,ST438_not_administered,MATH,,,,descriptive selection contrast; not causal; no inferential SE,True
+JOR,Jordan,0,,,ST438_administered,ST438_not_administered,SCIE,,,,descriptive selection contrast; not causal; no inferential SE,True
+JOR,Jordan,0,8290,153822.9325,CBA,PBA,READ,,8290,0,descriptive selection contrast; not causal; no inferential SE,False
+JOR,Jordan,0,8290,153822.9325,CBA,PBA,MATH,,8290,0,descriptive selection contrast; not causal; no inferential SE,False
+JOR,Jordan,0,8290,153822.9325,CBA,PBA,SCIE,,8290,0,descriptive selection contrast; not causal; no inferential SE,False
+JOR,Jordan,0,8290,153822.9325,UH,CBA_standard,READ,,0,8290,descriptive selection contrast; not causal; no inferential SE,False
+JOR,Jordan,0,8290,153822.9325,UH,CBA_standard,MATH,,0,8290,descriptive selection contrast; not causal; no inferential SE,False
+JOR,Jordan,0,8290,153822.9325,UH,CBA_standard,SCIE,,0,8290,descriptive selection contrast; not causal; no inferential SE,False
+JOR,Jordan,0,8290,153822.9325,ST438_four_valid,ST438_administered,READ,7.077661966,6845,8289,descriptive selection contrast; not causal; no inferential SE,False
+JOR,Jordan,0,8290,153822.9325,ST438_four_valid,ST438_administered,MATH,4.825281877,6845,8289,descriptive selection contrast; not causal; no inferential SE,False
+JOR,Jordan,0,8290,153822.9325,ST438_four_valid,ST438_administered,SCIE,5.589425677,6845,8289,descriptive selection contrast; not causal; no inferential SE,False
+JPN,Japan,1,6554,951150.6306,ST438_administered,ST438_not_administered,READ,110.7359391,6482,72,descriptive selection contrast; not causal; no inferential SE,False
+JPN,Japan,1,6554,951150.6306,ST438_administered,ST438_not_administered,MATH,45.71392001,6482,72,descriptive selection contrast; not causal; no inferential SE,False
+JPN,Japan,1,6554,951150.6306,ST438_administered,ST438_not_administered,SCIE,96.89463791,6482,72,descriptive selection contrast; not causal; no inferential SE,False
+JPN,Japan,1,6554,951150.6306,CBA,PBA,READ,,6554,0,descriptive selection contrast; not causal; no inferential SE,False
+JPN,Japan,1,6554,951150.6306,CBA,PBA,MATH,,6554,0,descriptive selection contrast; not causal; no inferential SE,False
+JPN,Japan,1,6554,951150.6306,CBA,PBA,SCIE,,6554,0,descriptive selection contrast; not causal; no inferential SE,False
+JPN,Japan,1,6554,951150.6306,UH,CBA_standard,READ,,0,6554,descriptive selection contrast; not causal; no inferential SE,False
+JPN,Japan,1,6554,951150.6306,UH,CBA_standard,MATH,,0,6554,descriptive selection contrast; not causal; no inferential SE,False
+JPN,Japan,1,6554,951150.6306,UH,CBA_standard,SCIE,,0,6554,descriptive selection contrast; not causal; no inferential SE,False
+JPN,Japan,1,6554,951150.6306,ST438_four_valid,ST438_administered,READ,3.400912702,6267,6482,descriptive selection contrast; not causal; no inferential SE,False
+JPN,Japan,1,6554,951150.6306,ST438_four_valid,ST438_administered,MATH,2.981468906,6267,6482,descriptive selection contrast; not causal; no inferential SE,False
+JPN,Japan,1,6554,951150.6306,ST438_four_valid,ST438_administered,SCIE,3.005347209,6267,6482,descriptive selection contrast; not causal; no inferential SE,False
+KAZ,Kazakhstan,0,22680,324605.6073,ST438_administered,ST438_not_administered,READ,2.407189143,22634,44,descriptive selection contrast; not causal; no inferential SE,False
+KAZ,Kazakhstan,0,22680,324605.6073,ST438_administered,ST438_not_administered,MATH,-9.451201882,22634,44,descriptive selection contrast; not causal; no inferential SE,False
+KAZ,Kazakhstan,0,22680,324605.6073,ST438_administered,ST438_not_administered,SCIE,-27.88393437,22634,44,descriptive selection contrast; not causal; no inferential SE,False
+KAZ,Kazakhstan,0,22680,324605.6073,CBA,PBA,READ,,22680,0,descriptive selection contrast; not causal; no inferential SE,False
+KAZ,Kazakhstan,0,22680,324605.6073,CBA,PBA,MATH,,22680,0,descriptive selection contrast; not causal; no inferential SE,False
+KAZ,Kazakhstan,0,22680,324605.6073,CBA,PBA,SCIE,,22680,0,descriptive selection contrast; not causal; no inferential SE,False
+KAZ,Kazakhstan,0,22680,324605.6073,UH,CBA_standard,READ,,0,22680,descriptive selection contrast; not causal; no inferential SE,False
+KAZ,Kazakhstan,0,22680,324605.6073,UH,CBA_standard,MATH,,0,22680,descriptive selection contrast; not causal; no inferential SE,False
+KAZ,Kazakhstan,0,22680,324605.6073,UH,CBA_standard,SCIE,,0,22680,descriptive selection contrast; not causal; no inferential SE,False
+KAZ,Kazakhstan,0,22680,324605.6073,ST438_four_valid,ST438_administered,READ,4.721455745,20582,22634,descriptive selection contrast; not causal; no inferential SE,False
+KAZ,Kazakhstan,0,22680,324605.6073,ST438_four_valid,ST438_administered,MATH,4.105114313,20582,22634,descriptive selection contrast; not causal; no inferential SE,False
+KAZ,Kazakhstan,0,22680,324605.6073,ST438_four_valid,ST438_administered,SCIE,4.590387216,20582,22634,descriptive selection contrast; not causal; no inferential SE,False
+KEN,Kenya,0,6459,1098702.325,ST438_administered,ST438_not_administered,READ,-1.777218743,6199,71,descriptive selection contrast; not causal; no inferential SE,False
+KEN,Kenya,0,6459,1098702.325,ST438_administered,ST438_not_administered,MATH,2.924984296,6199,71,descriptive selection contrast; not causal; no inferential SE,False
+KEN,Kenya,0,6459,1098702.325,ST438_administered,ST438_not_administered,SCIE,-3.08561813,6199,71,descriptive selection contrast; not causal; no inferential SE,False
+KEN,Kenya,0,6459,1098702.325,CBA,PBA,READ,,6459,0,descriptive selection contrast; not causal; no inferential SE,False
+KEN,Kenya,0,6459,1098702.325,CBA,PBA,MATH,,6459,0,descriptive selection contrast; not causal; no inferential SE,False
+KEN,Kenya,0,6459,1098702.325,CBA,PBA,SCIE,,6459,0,descriptive selection contrast; not causal; no inferential SE,False
+KEN,Kenya,0,6459,1098702.325,UH,CBA_standard,READ,,0,6459,descriptive selection contrast; not causal; no inferential SE,False
+KEN,Kenya,0,6459,1098702.325,UH,CBA_standard,MATH,,0,6459,descriptive selection contrast; not causal; no inferential SE,False
+KEN,Kenya,0,6459,1098702.325,UH,CBA_standard,SCIE,,0,6459,descriptive selection contrast; not causal; no inferential SE,False
+KEN,Kenya,0,6459,1098702.325,ST438_four_valid,ST438_administered,READ,9.285753864,4736,6199,descriptive selection contrast; not causal; no inferential SE,False
+KEN,Kenya,0,6459,1098702.325,ST438_four_valid,ST438_administered,MATH,8.816588745,4736,6199,descriptive selection contrast; not causal; no inferential SE,False
+KEN,Kenya,0,6459,1098702.325,ST438_four_valid,ST438_administered,SCIE,10.25918031,4736,6199,descriptive selection contrast; not causal; no inferential SE,False
+KGZ,Kyrgyzstan,0,,,ST438_administered,ST438_not_administered,READ,,,,descriptive selection contrast; not causal; no inferential SE,True
+KGZ,Kyrgyzstan,0,,,ST438_administered,ST438_not_administered,MATH,,,,descriptive selection contrast; not causal; no inferential SE,True
+KGZ,Kyrgyzstan,0,,,ST438_administered,ST438_not_administered,SCIE,,,,descriptive selection contrast; not causal; no inferential SE,True
+KGZ,Kyrgyzstan,0,6645,98869.84925,CBA,PBA,READ,,6645,0,descriptive selection contrast; not causal; no inferential SE,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,CBA,PBA,MATH,,6645,0,descriptive selection contrast; not causal; no inferential SE,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,CBA,PBA,SCIE,,6645,0,descriptive selection contrast; not causal; no inferential SE,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,UH,CBA_standard,READ,,0,6645,descriptive selection contrast; not causal; no inferential SE,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,UH,CBA_standard,MATH,,0,6645,descriptive selection contrast; not causal; no inferential SE,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,UH,CBA_standard,SCIE,,0,6645,descriptive selection contrast; not causal; no inferential SE,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,ST438_four_valid,ST438_administered,READ,9.248183601,5442,6640,descriptive selection contrast; not causal; no inferential SE,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,ST438_four_valid,ST438_administered,MATH,7.800374305,5442,6640,descriptive selection contrast; not causal; no inferential SE,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,ST438_four_valid,ST438_administered,SCIE,8.119020689,5442,6640,descriptive selection contrast; not causal; no inferential SE,False
+KHM,Cambodia,0,5464,136848.9736,ST438_administered,ST438_not_administered,READ,,0,5464,descriptive selection contrast; not causal; no inferential SE,False
+KHM,Cambodia,0,5464,136848.9736,ST438_administered,ST438_not_administered,MATH,,0,5464,descriptive selection contrast; not causal; no inferential SE,False
+KHM,Cambodia,0,5464,136848.9736,ST438_administered,ST438_not_administered,SCIE,,0,5464,descriptive selection contrast; not causal; no inferential SE,False
+KHM,Cambodia,0,5464,136848.9736,CBA,PBA,READ,,0,5464,descriptive selection contrast; not causal; no inferential SE,False
+KHM,Cambodia,0,5464,136848.9736,CBA,PBA,MATH,,0,5464,descriptive selection contrast; not causal; no inferential SE,False
+KHM,Cambodia,0,5464,136848.9736,CBA,PBA,SCIE,,0,5464,descriptive selection contrast; not causal; no inferential SE,False
+KHM,Cambodia,0,5464,136848.9736,UH,CBA_standard,READ,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+KHM,Cambodia,0,5464,136848.9736,UH,CBA_standard,MATH,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+KHM,Cambodia,0,5464,136848.9736,UH,CBA_standard,SCIE,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+KHM,Cambodia,0,5464,136848.9736,ST438_four_valid,ST438_administered,READ,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+KHM,Cambodia,0,5464,136848.9736,ST438_four_valid,ST438_administered,MATH,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+KHM,Cambodia,0,5464,136848.9736,ST438_four_valid,ST438_administered,SCIE,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+KOR,Korea,1,6859,418075.5649,ST438_administered,ST438_not_administered,READ,101.7462584,6835,24,descriptive selection contrast; not causal; no inferential SE,False
+KOR,Korea,1,6859,418075.5649,ST438_administered,ST438_not_administered,MATH,71.73861619,6835,24,descriptive selection contrast; not causal; no inferential SE,False
+KOR,Korea,1,6859,418075.5649,ST438_administered,ST438_not_administered,SCIE,79.50482491,6835,24,descriptive selection contrast; not causal; no inferential SE,False
+KOR,Korea,1,6859,418075.5649,CBA,PBA,READ,,6859,0,descriptive selection contrast; not causal; no inferential SE,False
+KOR,Korea,1,6859,418075.5649,CBA,PBA,MATH,,6859,0,descriptive selection contrast; not causal; no inferential SE,False
+KOR,Korea,1,6859,418075.5649,CBA,PBA,SCIE,,6859,0,descriptive selection contrast; not causal; no inferential SE,False
+KOR,Korea,1,6859,418075.5649,UH,CBA_standard,READ,,0,6859,descriptive selection contrast; not causal; no inferential SE,False
+KOR,Korea,1,6859,418075.5649,UH,CBA_standard,MATH,,0,6859,descriptive selection contrast; not causal; no inferential SE,False
+KOR,Korea,1,6859,418075.5649,UH,CBA_standard,SCIE,,0,6859,descriptive selection contrast; not causal; no inferential SE,False
+KOR,Korea,1,6859,418075.5649,ST438_four_valid,ST438_administered,READ,2.930230477,6689,6835,descriptive selection contrast; not causal; no inferential SE,False
+KOR,Korea,1,6859,418075.5649,ST438_four_valid,ST438_administered,MATH,2.754254258,6689,6835,descriptive selection contrast; not causal; no inferential SE,False
+KOR,Korea,1,6859,418075.5649,ST438_four_valid,ST438_administered,SCIE,2.735345548,6689,6835,descriptive selection contrast; not causal; no inferential SE,False
+KSV,Kosovo,0,6632,19883.91593,ST438_administered,ST438_not_administered,READ,18.3387879,6585,47,descriptive selection contrast; not causal; no inferential SE,False
+KSV,Kosovo,0,6632,19883.91593,ST438_administered,ST438_not_administered,MATH,21.79659472,6585,47,descriptive selection contrast; not causal; no inferential SE,False
+KSV,Kosovo,0,6632,19883.91593,ST438_administered,ST438_not_administered,SCIE,27.68016793,6585,47,descriptive selection contrast; not causal; no inferential SE,False
+KSV,Kosovo,0,6632,19883.91593,CBA,PBA,READ,,6632,0,descriptive selection contrast; not causal; no inferential SE,False
+KSV,Kosovo,0,6632,19883.91593,CBA,PBA,MATH,,6632,0,descriptive selection contrast; not causal; no inferential SE,False
+KSV,Kosovo,0,6632,19883.91593,CBA,PBA,SCIE,,6632,0,descriptive selection contrast; not causal; no inferential SE,False
+KSV,Kosovo,0,6632,19883.91593,UH,CBA_standard,READ,,0,6632,descriptive selection contrast; not causal; no inferential SE,False
+KSV,Kosovo,0,6632,19883.91593,UH,CBA_standard,MATH,,0,6632,descriptive selection contrast; not causal; no inferential SE,False
+KSV,Kosovo,0,6632,19883.91593,UH,CBA_standard,SCIE,,0,6632,descriptive selection contrast; not causal; no inferential SE,False
+KSV,Kosovo,0,6632,19883.91593,ST438_four_valid,ST438_administered,READ,12.55726139,4568,6585,descriptive selection contrast; not causal; no inferential SE,False
+KSV,Kosovo,0,6632,19883.91593,ST438_four_valid,ST438_administered,MATH,11.59173972,4568,6585,descriptive selection contrast; not causal; no inferential SE,False
+KSV,Kosovo,0,6632,19883.91593,ST438_four_valid,ST438_administered,SCIE,12.40512724,4568,6585,descriptive selection contrast; not causal; no inferential SE,False
+LBN,Lebanon,0,7382,56706.55227,ST438_administered,ST438_not_administered,READ,62.51211762,7330,35,descriptive selection contrast; not causal; no inferential SE,False
+LBN,Lebanon,0,7382,56706.55227,ST438_administered,ST438_not_administered,MATH,63.05002551,7330,35,descriptive selection contrast; not causal; no inferential SE,False
+LBN,Lebanon,0,7382,56706.55227,ST438_administered,ST438_not_administered,SCIE,76.64880545,7330,35,descriptive selection contrast; not causal; no inferential SE,False
+LBN,Lebanon,0,7382,56706.55227,CBA,PBA,READ,,7382,0,descriptive selection contrast; not causal; no inferential SE,False
+LBN,Lebanon,0,7382,56706.55227,CBA,PBA,MATH,,7382,0,descriptive selection contrast; not causal; no inferential SE,False
+LBN,Lebanon,0,7382,56706.55227,CBA,PBA,SCIE,,7382,0,descriptive selection contrast; not causal; no inferential SE,False
+LBN,Lebanon,0,7382,56706.55227,UH,CBA_standard,READ,,0,7382,descriptive selection contrast; not causal; no inferential SE,False
+LBN,Lebanon,0,7382,56706.55227,UH,CBA_standard,MATH,,0,7382,descriptive selection contrast; not causal; no inferential SE,False
+LBN,Lebanon,0,7382,56706.55227,UH,CBA_standard,SCIE,,0,7382,descriptive selection contrast; not causal; no inferential SE,False
+LBN,Lebanon,0,7382,56706.55227,ST438_four_valid,ST438_administered,READ,18.32628559,3608,7330,descriptive selection contrast; not causal; no inferential SE,False
+LBN,Lebanon,0,7382,56706.55227,ST438_four_valid,ST438_administered,MATH,12.72571274,3608,7330,descriptive selection contrast; not causal; no inferential SE,False
+LBN,Lebanon,0,7382,56706.55227,ST438_four_valid,ST438_administered,SCIE,17.36054083,3608,7330,descriptive selection contrast; not causal; no inferential SE,False
+LTU,Lithuania,1,7718,28734.60046,ST438_administered,ST438_not_administered,READ,3.158973102,7581,126,descriptive selection contrast; not causal; no inferential SE,False
+LTU,Lithuania,1,7718,28734.60046,ST438_administered,ST438_not_administered,MATH,2.35339322,7581,126,descriptive selection contrast; not causal; no inferential SE,False
+LTU,Lithuania,1,7718,28734.60046,ST438_administered,ST438_not_administered,SCIE,-0.4821453832,7581,126,descriptive selection contrast; not causal; no inferential SE,False
+LTU,Lithuania,1,7718,28734.60046,CBA,PBA,READ,,7718,0,descriptive selection contrast; not causal; no inferential SE,False
+LTU,Lithuania,1,7718,28734.60046,CBA,PBA,MATH,,7718,0,descriptive selection contrast; not causal; no inferential SE,False
+LTU,Lithuania,1,7718,28734.60046,CBA,PBA,SCIE,,7718,0,descriptive selection contrast; not causal; no inferential SE,False
+LTU,Lithuania,1,7718,28734.60046,UH,CBA_standard,READ,,0,7718,descriptive selection contrast; not causal; no inferential SE,False
+LTU,Lithuania,1,7718,28734.60046,UH,CBA_standard,MATH,,0,7718,descriptive selection contrast; not causal; no inferential SE,False
+LTU,Lithuania,1,7718,28734.60046,UH,CBA_standard,SCIE,,0,7718,descriptive selection contrast; not causal; no inferential SE,False
+LTU,Lithuania,1,7718,28734.60046,ST438_four_valid,ST438_administered,READ,4.552424272,6775,7581,descriptive selection contrast; not causal; no inferential SE,False
+LTU,Lithuania,1,7718,28734.60046,ST438_four_valid,ST438_administered,MATH,3.469655182,6775,7581,descriptive selection contrast; not causal; no inferential SE,False
+LTU,Lithuania,1,7718,28734.60046,ST438_four_valid,ST438_administered,SCIE,4.04556342,6775,7581,descriptive selection contrast; not causal; no inferential SE,False
+LUX,Luxembourg,1,6078,6469,ST438_administered,ST438_not_administered,READ,21.87878517,6050,27,descriptive selection contrast; not causal; no inferential SE,False
+LUX,Luxembourg,1,6078,6469,ST438_administered,ST438_not_administered,MATH,40.1162132,6050,27,descriptive selection contrast; not causal; no inferential SE,False
+LUX,Luxembourg,1,6078,6469,ST438_administered,ST438_not_administered,SCIE,23.00593636,6050,27,descriptive selection contrast; not causal; no inferential SE,False
+LUX,Luxembourg,1,6078,6469,CBA,PBA,READ,,6078,0,descriptive selection contrast; not causal; no inferential SE,False
+LUX,Luxembourg,1,6078,6469,CBA,PBA,MATH,,6078,0,descriptive selection contrast; not causal; no inferential SE,False
+LUX,Luxembourg,1,6078,6469,CBA,PBA,SCIE,,6078,0,descriptive selection contrast; not causal; no inferential SE,False
+LUX,Luxembourg,1,6078,6469,UH,CBA_standard,READ,,0,6078,descriptive selection contrast; not causal; no inferential SE,False
+LUX,Luxembourg,1,6078,6469,UH,CBA_standard,MATH,,0,6078,descriptive selection contrast; not causal; no inferential SE,False
+LUX,Luxembourg,1,6078,6469,UH,CBA_standard,SCIE,,0,6078,descriptive selection contrast; not causal; no inferential SE,False
+LUX,Luxembourg,1,6078,6469,ST438_four_valid,ST438_administered,READ,13.12951493,5201,6050,descriptive selection contrast; not causal; no inferential SE,False
+LUX,Luxembourg,1,6078,6469,ST438_four_valid,ST438_administered,MATH,11.25858114,5201,6050,descriptive selection contrast; not causal; no inferential SE,False
+LUX,Luxembourg,1,6078,6469,ST438_four_valid,ST438_administered,SCIE,12.94134819,5201,6050,descriptive selection contrast; not causal; no inferential SE,False
+LVA,Latvia,1,6968,17681.24721,ST438_administered,ST438_not_administered,READ,32.56877713,6869,98,descriptive selection contrast; not causal; no inferential SE,False
+LVA,Latvia,1,6968,17681.24721,ST438_administered,ST438_not_administered,MATH,31.25825133,6869,98,descriptive selection contrast; not causal; no inferential SE,False
+LVA,Latvia,1,6968,17681.24721,ST438_administered,ST438_not_administered,SCIE,42.383074,6869,98,descriptive selection contrast; not causal; no inferential SE,False
+LVA,Latvia,1,6968,17681.24721,CBA,PBA,READ,,6968,0,descriptive selection contrast; not causal; no inferential SE,False
+LVA,Latvia,1,6968,17681.24721,CBA,PBA,MATH,,6968,0,descriptive selection contrast; not causal; no inferential SE,False
+LVA,Latvia,1,6968,17681.24721,CBA,PBA,SCIE,,6968,0,descriptive selection contrast; not causal; no inferential SE,False
+LVA,Latvia,1,6968,17681.24721,UH,CBA_standard,READ,,0,6968,descriptive selection contrast; not causal; no inferential SE,False
+LVA,Latvia,1,6968,17681.24721,UH,CBA_standard,MATH,,0,6968,descriptive selection contrast; not causal; no inferential SE,False
+LVA,Latvia,1,6968,17681.24721,UH,CBA_standard,SCIE,,0,6968,descriptive selection contrast; not causal; no inferential SE,False
+LVA,Latvia,1,6968,17681.24721,ST438_four_valid,ST438_administered,READ,8.135213981,6116,6869,descriptive selection contrast; not causal; no inferential SE,False
+LVA,Latvia,1,6968,17681.24721,ST438_four_valid,ST438_administered,MATH,5.703217218,6116,6869,descriptive selection contrast; not causal; no inferential SE,False
+LVA,Latvia,1,6968,17681.24721,ST438_four_valid,ST438_administered,SCIE,7.22101622,6116,6869,descriptive selection contrast; not causal; no inferential SE,False
+MAC,Macao (China),0,,,ST438_administered,ST438_not_administered,READ,,,,descriptive selection contrast; not causal; no inferential SE,True
+MAC,Macao (China),0,,,ST438_administered,ST438_not_administered,MATH,,,,descriptive selection contrast; not causal; no inferential SE,True
+MAC,Macao (China),0,,,ST438_administered,ST438_not_administered,SCIE,,,,descriptive selection contrast; not causal; no inferential SE,True
+MAC,Macao (China),0,4953,5026,CBA,PBA,READ,,4953,0,descriptive selection contrast; not causal; no inferential SE,False
+MAC,Macao (China),0,4953,5026,CBA,PBA,MATH,,4953,0,descriptive selection contrast; not causal; no inferential SE,False
+MAC,Macao (China),0,4953,5026,CBA,PBA,SCIE,,4953,0,descriptive selection contrast; not causal; no inferential SE,False
+MAC,Macao (China),0,4953,5026,UH,CBA_standard,READ,,0,4953,descriptive selection contrast; not causal; no inferential SE,False
+MAC,Macao (China),0,4953,5026,UH,CBA_standard,MATH,,0,4953,descriptive selection contrast; not causal; no inferential SE,False
+MAC,Macao (China),0,4953,5026,UH,CBA_standard,SCIE,,0,4953,descriptive selection contrast; not causal; no inferential SE,False
+MAC,Macao (China),0,4953,5026,ST438_four_valid,ST438_administered,READ,0.8312923814,4890,4952,descriptive selection contrast; not causal; no inferential SE,False
+MAC,Macao (China),0,4953,5026,ST438_four_valid,ST438_administered,MATH,0.5697886953,4890,4952,descriptive selection contrast; not causal; no inferential SE,False
+MAC,Macao (China),0,4953,5026,ST438_four_valid,ST438_administered,SCIE,0.6862150273,4890,4952,descriptive selection contrast; not causal; no inferential SE,False
+MAR,Morocco,0,6978,535788.9837,ST438_administered,ST438_not_administered,READ,5.75184764,6944,32,descriptive selection contrast; not causal; no inferential SE,False
+MAR,Morocco,0,6978,535788.9837,ST438_administered,ST438_not_administered,MATH,10.80555467,6944,32,descriptive selection contrast; not causal; no inferential SE,False
+MAR,Morocco,0,6978,535788.9837,ST438_administered,ST438_not_administered,SCIE,-5.888471128,6944,32,descriptive selection contrast; not causal; no inferential SE,False
+MAR,Morocco,0,6978,535788.9837,CBA,PBA,READ,,6978,0,descriptive selection contrast; not causal; no inferential SE,False
+MAR,Morocco,0,6978,535788.9837,CBA,PBA,MATH,,6978,0,descriptive selection contrast; not causal; no inferential SE,False
+MAR,Morocco,0,6978,535788.9837,CBA,PBA,SCIE,,6978,0,descriptive selection contrast; not causal; no inferential SE,False
+MAR,Morocco,0,6978,535788.9837,UH,CBA_standard,READ,,0,6978,descriptive selection contrast; not causal; no inferential SE,False
+MAR,Morocco,0,6978,535788.9837,UH,CBA_standard,MATH,,0,6978,descriptive selection contrast; not causal; no inferential SE,False
+MAR,Morocco,0,6978,535788.9837,UH,CBA_standard,SCIE,,0,6978,descriptive selection contrast; not causal; no inferential SE,False
+MAR,Morocco,0,6978,535788.9837,ST438_four_valid,ST438_administered,READ,4.383918605,5555,6944,descriptive selection contrast; not causal; no inferential SE,False
+MAR,Morocco,0,6978,535788.9837,ST438_four_valid,ST438_administered,MATH,5.049727558,5555,6944,descriptive selection contrast; not causal; no inferential SE,False
+MAR,Morocco,0,6978,535788.9837,ST438_four_valid,ST438_administered,SCIE,4.499340287,5555,6944,descriptive selection contrast; not causal; no inferential SE,False
+MDA,Moldova,0,6640,30420.65546,ST438_administered,ST438_not_administered,READ,-48.9513394,6615,25,descriptive selection contrast; not causal; no inferential SE,False
+MDA,Moldova,0,6640,30420.65546,ST438_administered,ST438_not_administered,MATH,-21.5340391,6615,25,descriptive selection contrast; not causal; no inferential SE,False
+MDA,Moldova,0,6640,30420.65546,ST438_administered,ST438_not_administered,SCIE,-13.29597655,6615,25,descriptive selection contrast; not causal; no inferential SE,False
+MDA,Moldova,0,6640,30420.65546,CBA,PBA,READ,,6640,0,descriptive selection contrast; not causal; no inferential SE,False
+MDA,Moldova,0,6640,30420.65546,CBA,PBA,MATH,,6640,0,descriptive selection contrast; not causal; no inferential SE,False
+MDA,Moldova,0,6640,30420.65546,CBA,PBA,SCIE,,6640,0,descriptive selection contrast; not causal; no inferential SE,False
+MDA,Moldova,0,6640,30420.65546,UH,CBA_standard,READ,,0,6640,descriptive selection contrast; not causal; no inferential SE,False
+MDA,Moldova,0,6640,30420.65546,UH,CBA_standard,MATH,,0,6640,descriptive selection contrast; not causal; no inferential SE,False
+MDA,Moldova,0,6640,30420.65546,UH,CBA_standard,SCIE,,0,6640,descriptive selection contrast; not causal; no inferential SE,False
+MDA,Moldova,0,6640,30420.65546,ST438_four_valid,ST438_administered,READ,7.457527657,5790,6615,descriptive selection contrast; not causal; no inferential SE,False
+MDA,Moldova,0,6640,30420.65546,ST438_four_valid,ST438_administered,MATH,6.361471252,5790,6615,descriptive selection contrast; not causal; no inferential SE,False
+MDA,Moldova,0,6640,30420.65546,ST438_four_valid,ST438_administered,SCIE,6.942435112,5790,6615,descriptive selection contrast; not causal; no inferential SE,False
+MEX,Mexico,1,7843,1580936.696,ST438_administered,ST438_not_administered,READ,77.72337645,7809,16,descriptive selection contrast; not causal; no inferential SE,False
+MEX,Mexico,1,7843,1580936.696,ST438_administered,ST438_not_administered,MATH,75.87031659,7809,16,descriptive selection contrast; not causal; no inferential SE,False
+MEX,Mexico,1,7843,1580936.696,ST438_administered,ST438_not_administered,SCIE,61.79110753,7809,16,descriptive selection contrast; not causal; no inferential SE,False
+MEX,Mexico,1,7843,1580936.696,CBA,PBA,READ,,7843,0,descriptive selection contrast; not causal; no inferential SE,False
+MEX,Mexico,1,7843,1580936.696,CBA,PBA,MATH,,7843,0,descriptive selection contrast; not causal; no inferential SE,False
+MEX,Mexico,1,7843,1580936.696,CBA,PBA,SCIE,,7843,0,descriptive selection contrast; not causal; no inferential SE,False
+MEX,Mexico,1,7843,1580936.696,UH,CBA_standard,READ,,0,7843,descriptive selection contrast; not causal; no inferential SE,False
+MEX,Mexico,1,7843,1580936.696,UH,CBA_standard,MATH,,0,7843,descriptive selection contrast; not causal; no inferential SE,False
+MEX,Mexico,1,7843,1580936.696,UH,CBA_standard,SCIE,,0,7843,descriptive selection contrast; not causal; no inferential SE,False
+MEX,Mexico,1,7843,1580936.696,ST438_four_valid,ST438_administered,READ,4.757856937,7316,7809,descriptive selection contrast; not causal; no inferential SE,False
+MEX,Mexico,1,7843,1580936.696,ST438_four_valid,ST438_administered,MATH,3.848529767,7316,7809,descriptive selection contrast; not causal; no inferential SE,False
+MEX,Mexico,1,7843,1580936.696,ST438_four_valid,ST438_administered,SCIE,4.546659059,7316,7809,descriptive selection contrast; not causal; no inferential SE,False
+MKD,North Macedonia,0,6977,16657.03603,ST438_administered,ST438_not_administered,READ,14.3330049,6888,80,descriptive selection contrast; not causal; no inferential SE,False
+MKD,North Macedonia,0,6977,16657.03603,ST438_administered,ST438_not_administered,MATH,29.01692711,6888,80,descriptive selection contrast; not causal; no inferential SE,False
+MKD,North Macedonia,0,6977,16657.03603,ST438_administered,ST438_not_administered,SCIE,34.40383249,6888,80,descriptive selection contrast; not causal; no inferential SE,False
+MKD,North Macedonia,0,6977,16657.03603,CBA,PBA,READ,,6977,0,descriptive selection contrast; not causal; no inferential SE,False
+MKD,North Macedonia,0,6977,16657.03603,CBA,PBA,MATH,,6977,0,descriptive selection contrast; not causal; no inferential SE,False
+MKD,North Macedonia,0,6977,16657.03603,CBA,PBA,SCIE,,6977,0,descriptive selection contrast; not causal; no inferential SE,False
+MKD,North Macedonia,0,6977,16657.03603,UH,CBA_standard,READ,,0,6977,descriptive selection contrast; not causal; no inferential SE,False
+MKD,North Macedonia,0,6977,16657.03603,UH,CBA_standard,MATH,,0,6977,descriptive selection contrast; not causal; no inferential SE,False
+MKD,North Macedonia,0,6977,16657.03603,UH,CBA_standard,SCIE,,0,6977,descriptive selection contrast; not causal; no inferential SE,False
+MKD,North Macedonia,0,6977,16657.03603,ST438_four_valid,ST438_administered,READ,18.81120073,4814,6888,descriptive selection contrast; not causal; no inferential SE,False
+MKD,North Macedonia,0,6977,16657.03603,ST438_four_valid,ST438_administered,MATH,18.6360218,4814,6888,descriptive selection contrast; not causal; no inferential SE,False
+MKD,North Macedonia,0,6977,16657.03603,ST438_four_valid,ST438_administered,SCIE,19.30173876,4814,6888,descriptive selection contrast; not causal; no inferential SE,False
+MLT,Malta,0,3680,4341,ST438_administered,ST438_not_administered,READ,-17.76679845,3621,57,descriptive selection contrast; not causal; no inferential SE,False
+MLT,Malta,0,3680,4341,ST438_administered,ST438_not_administered,MATH,4.432666389,3621,57,descriptive selection contrast; not causal; no inferential SE,False
+MLT,Malta,0,3680,4341,ST438_administered,ST438_not_administered,SCIE,-7.196017389,3621,57,descriptive selection contrast; not causal; no inferential SE,False
+MLT,Malta,0,3680,4341,CBA,PBA,READ,,3680,0,descriptive selection contrast; not causal; no inferential SE,False
+MLT,Malta,0,3680,4341,CBA,PBA,MATH,,3680,0,descriptive selection contrast; not causal; no inferential SE,False
+MLT,Malta,0,3680,4341,CBA,PBA,SCIE,,3680,0,descriptive selection contrast; not causal; no inferential SE,False
+MLT,Malta,0,3680,4341,UH,CBA_standard,READ,,0,3680,descriptive selection contrast; not causal; no inferential SE,False
+MLT,Malta,0,3680,4341,UH,CBA_standard,MATH,,0,3680,descriptive selection contrast; not causal; no inferential SE,False
+MLT,Malta,0,3680,4341,UH,CBA_standard,SCIE,,0,3680,descriptive selection contrast; not causal; no inferential SE,False
+MLT,Malta,0,3680,4341,ST438_four_valid,ST438_administered,READ,18.17125282,2945,3621,descriptive selection contrast; not causal; no inferential SE,False
+MLT,Malta,0,3680,4341,ST438_four_valid,ST438_administered,MATH,17.20717766,2945,3621,descriptive selection contrast; not causal; no inferential SE,False
+MLT,Malta,0,3680,4341,ST438_four_valid,ST438_administered,SCIE,17.97974415,2945,3621,descriptive selection contrast; not causal; no inferential SE,False
+MNE,Montenegro,0,6436,7349.341507,ST438_administered,ST438_not_administered,READ,48.15279205,6421,14,descriptive selection contrast; not causal; no inferential SE,False
+MNE,Montenegro,0,6436,7349.341507,ST438_administered,ST438_not_administered,MATH,21.08026442,6421,14,descriptive selection contrast; not causal; no inferential SE,False
+MNE,Montenegro,0,6436,7349.341507,ST438_administered,ST438_not_administered,SCIE,21.53621008,6421,14,descriptive selection contrast; not causal; no inferential SE,False
+MNE,Montenegro,0,6436,7349.341507,CBA,PBA,READ,,6436,0,descriptive selection contrast; not causal; no inferential SE,False
+MNE,Montenegro,0,6436,7349.341507,CBA,PBA,MATH,,6436,0,descriptive selection contrast; not causal; no inferential SE,False
+MNE,Montenegro,0,6436,7349.341507,CBA,PBA,SCIE,,6436,0,descriptive selection contrast; not causal; no inferential SE,False
+MNE,Montenegro,0,6436,7349.341507,UH,CBA_standard,READ,,0,6436,descriptive selection contrast; not causal; no inferential SE,False
+MNE,Montenegro,0,6436,7349.341507,UH,CBA_standard,MATH,,0,6436,descriptive selection contrast; not causal; no inferential SE,False
+MNE,Montenegro,0,6436,7349.341507,UH,CBA_standard,SCIE,,0,6436,descriptive selection contrast; not causal; no inferential SE,False
+MNE,Montenegro,0,6436,7349.341507,ST438_four_valid,ST438_administered,READ,10.08575644,5400,6421,descriptive selection contrast; not causal; no inferential SE,False
+MNE,Montenegro,0,6436,7349.341507,ST438_four_valid,ST438_administered,MATH,8.816172589,5400,6421,descriptive selection contrast; not causal; no inferential SE,False
+MNE,Montenegro,0,6436,7349.341507,ST438_four_valid,ST438_administered,SCIE,9.600144299,5400,6421,descriptive selection contrast; not causal; no inferential SE,False
+MNG,Mongolia,0,,,ST438_administered,ST438_not_administered,READ,,,,descriptive selection contrast; not causal; no inferential SE,True
+MNG,Mongolia,0,,,ST438_administered,ST438_not_administered,MATH,,,,descriptive selection contrast; not causal; no inferential SE,True
+MNG,Mongolia,0,,,ST438_administered,ST438_not_administered,SCIE,,,,descriptive selection contrast; not causal; no inferential SE,True
+MNG,Mongolia,0,7146,59870.69313,CBA,PBA,READ,,7146,0,descriptive selection contrast; not causal; no inferential SE,False
+MNG,Mongolia,0,7146,59870.69313,CBA,PBA,MATH,,7146,0,descriptive selection contrast; not causal; no inferential SE,False
+MNG,Mongolia,0,7146,59870.69313,CBA,PBA,SCIE,,7146,0,descriptive selection contrast; not causal; no inferential SE,False
+MNG,Mongolia,0,7146,59870.69313,UH,CBA_standard,READ,,0,7146,descriptive selection contrast; not causal; no inferential SE,False
+MNG,Mongolia,0,7146,59870.69313,UH,CBA_standard,MATH,,0,7146,descriptive selection contrast; not causal; no inferential SE,False
+MNG,Mongolia,0,7146,59870.69313,UH,CBA_standard,SCIE,,0,7146,descriptive selection contrast; not causal; no inferential SE,False
+MNG,Mongolia,0,7146,59870.69313,ST438_four_valid,ST438_administered,READ,1.965281491,6892,7144,descriptive selection contrast; not causal; no inferential SE,False
+MNG,Mongolia,0,7146,59870.69313,ST438_four_valid,ST438_administered,MATH,1.785500215,6892,7144,descriptive selection contrast; not causal; no inferential SE,False
+MNG,Mongolia,0,7146,59870.69313,ST438_four_valid,ST438_administered,SCIE,1.985431781,6892,7144,descriptive selection contrast; not causal; no inferential SE,False
+MUS,Mauritius,0,5360,11663.45915,ST438_administered,ST438_not_administered,READ,,0,5360,descriptive selection contrast; not causal; no inferential SE,False
+MUS,Mauritius,0,5360,11663.45915,ST438_administered,ST438_not_administered,MATH,,0,5360,descriptive selection contrast; not causal; no inferential SE,False
+MUS,Mauritius,0,5360,11663.45915,ST438_administered,ST438_not_administered,SCIE,,0,5360,descriptive selection contrast; not causal; no inferential SE,False
+MUS,Mauritius,0,5360,11663.45915,CBA,PBA,READ,,0,5360,descriptive selection contrast; not causal; no inferential SE,False
+MUS,Mauritius,0,5360,11663.45915,CBA,PBA,MATH,,0,5360,descriptive selection contrast; not causal; no inferential SE,False
+MUS,Mauritius,0,5360,11663.45915,CBA,PBA,SCIE,,0,5360,descriptive selection contrast; not causal; no inferential SE,False
+MUS,Mauritius,0,5360,11663.45915,UH,CBA_standard,READ,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+MUS,Mauritius,0,5360,11663.45915,UH,CBA_standard,MATH,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+MUS,Mauritius,0,5360,11663.45915,UH,CBA_standard,SCIE,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+MUS,Mauritius,0,5360,11663.45915,ST438_four_valid,ST438_administered,READ,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+MUS,Mauritius,0,5360,11663.45915,ST438_four_valid,ST438_administered,MATH,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+MUS,Mauritius,0,5360,11663.45915,ST438_four_valid,ST438_administered,SCIE,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+MYS,Malaysia,0,,,ST438_administered,ST438_not_administered,READ,,,,descriptive selection contrast; not causal; no inferential SE,True
+MYS,Malaysia,0,,,ST438_administered,ST438_not_administered,MATH,,,,descriptive selection contrast; not causal; no inferential SE,True
+MYS,Malaysia,0,,,ST438_administered,ST438_not_administered,SCIE,,,,descriptive selection contrast; not causal; no inferential SE,True
+MYS,Malaysia,0,7624,413411.0618,CBA,PBA,READ,,7624,0,descriptive selection contrast; not causal; no inferential SE,False
+MYS,Malaysia,0,7624,413411.0618,CBA,PBA,MATH,,7624,0,descriptive selection contrast; not causal; no inferential SE,False
+MYS,Malaysia,0,7624,413411.0618,CBA,PBA,SCIE,,7624,0,descriptive selection contrast; not causal; no inferential SE,False
+MYS,Malaysia,0,7624,413411.0618,UH,CBA_standard,READ,,0,7624,descriptive selection contrast; not causal; no inferential SE,False
+MYS,Malaysia,0,7624,413411.0618,UH,CBA_standard,MATH,,0,7624,descriptive selection contrast; not causal; no inferential SE,False
+MYS,Malaysia,0,7624,413411.0618,UH,CBA_standard,SCIE,,0,7624,descriptive selection contrast; not causal; no inferential SE,False
+MYS,Malaysia,0,7624,413411.0618,ST438_four_valid,ST438_administered,READ,1.432105559,7441,7619,descriptive selection contrast; not causal; no inferential SE,False
+MYS,Malaysia,0,7624,413411.0618,ST438_four_valid,ST438_administered,MATH,1.135709821,7441,7619,descriptive selection contrast; not causal; no inferential SE,False
+MYS,Malaysia,0,7624,413411.0618,ST438_four_valid,ST438_administered,SCIE,1.160973527,7441,7619,descriptive selection contrast; not causal; no inferential SE,False
+NLD,Netherlands,1,6636,165897.4833,ST438_administered,ST438_not_administered,READ,67.12764546,6122,509,descriptive selection contrast; not causal; no inferential SE,False
+NLD,Netherlands,1,6636,165897.4833,ST438_administered,ST438_not_administered,MATH,72.68102141,6122,509,descriptive selection contrast; not causal; no inferential SE,False
+NLD,Netherlands,1,6636,165897.4833,ST438_administered,ST438_not_administered,SCIE,79.79673624,6122,509,descriptive selection contrast; not causal; no inferential SE,False
+NLD,Netherlands,1,6636,165897.4833,CBA,PBA,READ,,6636,0,descriptive selection contrast; not causal; no inferential SE,False
+NLD,Netherlands,1,6636,165897.4833,CBA,PBA,MATH,,6636,0,descriptive selection contrast; not causal; no inferential SE,False
+NLD,Netherlands,1,6636,165897.4833,CBA,PBA,SCIE,,6636,0,descriptive selection contrast; not causal; no inferential SE,False
+NLD,Netherlands,1,6636,165897.4833,UH,CBA_standard,READ,-83.23416617,316,6320,descriptive selection contrast; not causal; no inferential SE,False
+NLD,Netherlands,1,6636,165897.4833,UH,CBA_standard,MATH,-91.7785498,316,6320,descriptive selection contrast; not causal; no inferential SE,False
+NLD,Netherlands,1,6636,165897.4833,UH,CBA_standard,SCIE,-106.0323066,316,6320,descriptive selection contrast; not causal; no inferential SE,False
+NLD,Netherlands,1,6636,165897.4833,ST438_four_valid,ST438_administered,READ,6.899315536,5656,6122,descriptive selection contrast; not causal; no inferential SE,False
+NLD,Netherlands,1,6636,165897.4833,ST438_four_valid,ST438_administered,MATH,5.663140094,5656,6122,descriptive selection contrast; not causal; no inferential SE,False
+NLD,Netherlands,1,6636,165897.4833,ST438_four_valid,ST438_administered,SCIE,6.11580542,5656,6122,descriptive selection contrast; not causal; no inferential SE,False
+NOR,Norway,1,6469,61734.44823,ST438_administered,ST438_not_administered,READ,69.45613731,6231,234,descriptive selection contrast; not causal; no inferential SE,False
+NOR,Norway,1,6469,61734.44823,ST438_administered,ST438_not_administered,MATH,38.98950228,6231,234,descriptive selection contrast; not causal; no inferential SE,False
+NOR,Norway,1,6469,61734.44823,ST438_administered,ST438_not_administered,SCIE,44.81243016,6231,234,descriptive selection contrast; not causal; no inferential SE,False
+NOR,Norway,1,6469,61734.44823,CBA,PBA,READ,,6469,0,descriptive selection contrast; not causal; no inferential SE,False
+NOR,Norway,1,6469,61734.44823,CBA,PBA,MATH,,6469,0,descriptive selection contrast; not causal; no inferential SE,False
+NOR,Norway,1,6469,61734.44823,CBA,PBA,SCIE,,6469,0,descriptive selection contrast; not causal; no inferential SE,False
+NOR,Norway,1,6469,61734.44823,UH,CBA_standard,READ,,0,6469,descriptive selection contrast; not causal; no inferential SE,False
+NOR,Norway,1,6469,61734.44823,UH,CBA_standard,MATH,,0,6469,descriptive selection contrast; not causal; no inferential SE,False
+NOR,Norway,1,6469,61734.44823,UH,CBA_standard,SCIE,,0,6469,descriptive selection contrast; not causal; no inferential SE,False
+NOR,Norway,1,6469,61734.44823,ST438_four_valid,ST438_administered,READ,14.16064033,5353,6231,descriptive selection contrast; not causal; no inferential SE,False
+NOR,Norway,1,6469,61734.44823,ST438_four_valid,ST438_administered,MATH,10.82035373,5353,6231,descriptive selection contrast; not causal; no inferential SE,False
+NOR,Norway,1,6469,61734.44823,ST438_four_valid,ST438_administered,SCIE,12.24679616,5353,6231,descriptive selection contrast; not causal; no inferential SE,False
+NZL,New Zealand,1,5004,61187.14014,ST438_administered,ST438_not_administered,READ,96.94854795,4795,207,descriptive selection contrast; not causal; no inferential SE,False
+NZL,New Zealand,1,5004,61187.14014,ST438_administered,ST438_not_administered,MATH,57.06299561,4795,207,descriptive selection contrast; not causal; no inferential SE,False
+NZL,New Zealand,1,5004,61187.14014,ST438_administered,ST438_not_administered,SCIE,97.75085647,4795,207,descriptive selection contrast; not causal; no inferential SE,False
+NZL,New Zealand,1,5004,61187.14014,CBA,PBA,READ,,5004,0,descriptive selection contrast; not causal; no inferential SE,False
+NZL,New Zealand,1,5004,61187.14014,CBA,PBA,MATH,,5004,0,descriptive selection contrast; not causal; no inferential SE,False
+NZL,New Zealand,1,5004,61187.14014,CBA,PBA,SCIE,,5004,0,descriptive selection contrast; not causal; no inferential SE,False
+NZL,New Zealand,1,5004,61187.14014,UH,CBA_standard,READ,-76.75540917,92,4912,descriptive selection contrast; not causal; no inferential SE,False
+NZL,New Zealand,1,5004,61187.14014,UH,CBA_standard,MATH,-34.19320623,92,4912,descriptive selection contrast; not causal; no inferential SE,False
+NZL,New Zealand,1,5004,61187.14014,UH,CBA_standard,SCIE,-93.50325671,92,4912,descriptive selection contrast; not causal; no inferential SE,False
+NZL,New Zealand,1,5004,61187.14014,ST438_four_valid,ST438_administered,READ,11.08810747,4250,4795,descriptive selection contrast; not causal; no inferential SE,False
+NZL,New Zealand,1,5004,61187.14014,ST438_four_valid,ST438_administered,MATH,9.815908535,4250,4795,descriptive selection contrast; not causal; no inferential SE,False
+NZL,New Zealand,1,5004,61187.14014,ST438_four_valid,ST438_administered,SCIE,11.36003866,4250,4795,descriptive selection contrast; not causal; no inferential SE,False
+PER,Peru,0,6991,519745.1024,ST438_administered,ST438_not_administered,READ,-12.05483881,6545,27,descriptive selection contrast; not causal; no inferential SE,False
+PER,Peru,0,6991,519745.1024,ST438_administered,ST438_not_administered,MATH,7.781696025,6545,27,descriptive selection contrast; not causal; no inferential SE,False
+PER,Peru,0,6991,519745.1024,ST438_administered,ST438_not_administered,SCIE,15.89311482,6545,27,descriptive selection contrast; not causal; no inferential SE,False
+PER,Peru,0,6991,519745.1024,CBA,PBA,READ,,6991,0,descriptive selection contrast; not causal; no inferential SE,False
+PER,Peru,0,6991,519745.1024,CBA,PBA,MATH,,6991,0,descriptive selection contrast; not causal; no inferential SE,False
+PER,Peru,0,6991,519745.1024,CBA,PBA,SCIE,,6991,0,descriptive selection contrast; not causal; no inferential SE,False
+PER,Peru,0,6991,519745.1024,UH,CBA_standard,READ,,0,6991,descriptive selection contrast; not causal; no inferential SE,False
+PER,Peru,0,6991,519745.1024,UH,CBA_standard,MATH,,0,6991,descriptive selection contrast; not causal; no inferential SE,False
+PER,Peru,0,6991,519745.1024,UH,CBA_standard,SCIE,,0,6991,descriptive selection contrast; not causal; no inferential SE,False
+PER,Peru,0,6991,519745.1024,ST438_four_valid,ST438_administered,READ,6.763079509,5801,6545,descriptive selection contrast; not causal; no inferential SE,False
+PER,Peru,0,6991,519745.1024,ST438_four_valid,ST438_administered,MATH,6.282019545,5801,6545,descriptive selection contrast; not causal; no inferential SE,False
+PER,Peru,0,6991,519745.1024,ST438_four_valid,ST438_administered,SCIE,7.008369461,5801,6545,descriptive selection contrast; not causal; no inferential SE,False
+PHL,Philippines,0,8072,1749989.475,ST438_administered,ST438_not_administered,READ,,8072,0,descriptive selection contrast; not causal; no inferential SE,False
+PHL,Philippines,0,8072,1749989.475,ST438_administered,ST438_not_administered,MATH,,8072,0,descriptive selection contrast; not causal; no inferential SE,False
+PHL,Philippines,0,8072,1749989.475,ST438_administered,ST438_not_administered,SCIE,,8072,0,descriptive selection contrast; not causal; no inferential SE,False
+PHL,Philippines,0,8072,1749989.475,CBA,PBA,READ,,8072,0,descriptive selection contrast; not causal; no inferential SE,False
+PHL,Philippines,0,8072,1749989.475,CBA,PBA,MATH,,8072,0,descriptive selection contrast; not causal; no inferential SE,False
+PHL,Philippines,0,8072,1749989.475,CBA,PBA,SCIE,,8072,0,descriptive selection contrast; not causal; no inferential SE,False
+PHL,Philippines,0,8072,1749989.475,UH,CBA_standard,READ,,0,8072,descriptive selection contrast; not causal; no inferential SE,False
+PHL,Philippines,0,8072,1749989.475,UH,CBA_standard,MATH,,0,8072,descriptive selection contrast; not causal; no inferential SE,False
+PHL,Philippines,0,8072,1749989.475,UH,CBA_standard,SCIE,,0,8072,descriptive selection contrast; not causal; no inferential SE,False
+PHL,Philippines,0,8072,1749989.475,ST438_four_valid,ST438_administered,READ,2.785580003,7738,8072,descriptive selection contrast; not causal; no inferential SE,False
+PHL,Philippines,0,8072,1749989.475,ST438_four_valid,ST438_administered,MATH,2.041557463,7738,8072,descriptive selection contrast; not causal; no inferential SE,False
+PHL,Philippines,0,8072,1749989.475,ST438_four_valid,ST438_administered,SCIE,2.832422506,7738,8072,descriptive selection contrast; not causal; no inferential SE,False
+POL,Poland,1,7103,384668.4152,ST438_administered,ST438_not_administered,READ,40.20539844,7048,38,descriptive selection contrast; not causal; no inferential SE,False
+POL,Poland,1,7103,384668.4152,ST438_administered,ST438_not_administered,MATH,19.89461242,7048,38,descriptive selection contrast; not causal; no inferential SE,False
+POL,Poland,1,7103,384668.4152,ST438_administered,ST438_not_administered,SCIE,13.19195842,7048,38,descriptive selection contrast; not causal; no inferential SE,False
+POL,Poland,1,7103,384668.4152,CBA,PBA,READ,,7103,0,descriptive selection contrast; not causal; no inferential SE,False
+POL,Poland,1,7103,384668.4152,CBA,PBA,MATH,,7103,0,descriptive selection contrast; not causal; no inferential SE,False
+POL,Poland,1,7103,384668.4152,CBA,PBA,SCIE,,7103,0,descriptive selection contrast; not causal; no inferential SE,False
+POL,Poland,1,7103,384668.4152,UH,CBA_standard,READ,,0,7103,descriptive selection contrast; not causal; no inferential SE,False
+POL,Poland,1,7103,384668.4152,UH,CBA_standard,MATH,,0,7103,descriptive selection contrast; not causal; no inferential SE,False
+POL,Poland,1,7103,384668.4152,UH,CBA_standard,SCIE,,0,7103,descriptive selection contrast; not causal; no inferential SE,False
+POL,Poland,1,7103,384668.4152,ST438_four_valid,ST438_administered,READ,9.828175877,6417,7048,descriptive selection contrast; not causal; no inferential SE,False
+POL,Poland,1,7103,384668.4152,ST438_four_valid,ST438_administered,MATH,7.621635573,6417,7048,descriptive selection contrast; not causal; no inferential SE,False
+POL,Poland,1,7103,384668.4152,ST438_four_valid,ST438_administered,SCIE,8.267724577,6417,7048,descriptive selection contrast; not causal; no inferential SE,False
+PRT,Portugal,1,6945,97370.91653,ST438_administered,ST438_not_administered,READ,26.91089468,6854,88,descriptive selection contrast; not causal; no inferential SE,False
+PRT,Portugal,1,6945,97370.91653,ST438_administered,ST438_not_administered,MATH,7.916842654,6854,88,descriptive selection contrast; not causal; no inferential SE,False
+PRT,Portugal,1,6945,97370.91653,ST438_administered,ST438_not_administered,SCIE,16.72599181,6854,88,descriptive selection contrast; not causal; no inferential SE,False
+PRT,Portugal,1,6945,97370.91653,CBA,PBA,READ,,6945,0,descriptive selection contrast; not causal; no inferential SE,False
+PRT,Portugal,1,6945,97370.91653,CBA,PBA,MATH,,6945,0,descriptive selection contrast; not causal; no inferential SE,False
+PRT,Portugal,1,6945,97370.91653,CBA,PBA,SCIE,,6945,0,descriptive selection contrast; not causal; no inferential SE,False
+PRT,Portugal,1,6945,97370.91653,UH,CBA_standard,READ,,0,6945,descriptive selection contrast; not causal; no inferential SE,False
+PRT,Portugal,1,6945,97370.91653,UH,CBA_standard,MATH,,0,6945,descriptive selection contrast; not causal; no inferential SE,False
+PRT,Portugal,1,6945,97370.91653,UH,CBA_standard,SCIE,,0,6945,descriptive selection contrast; not causal; no inferential SE,False
+PRT,Portugal,1,6945,97370.91653,ST438_four_valid,ST438_administered,READ,6.769629437,6346,6854,descriptive selection contrast; not causal; no inferential SE,False
+PRT,Portugal,1,6945,97370.91653,ST438_four_valid,ST438_administered,MATH,5.75548686,6346,6854,descriptive selection contrast; not causal; no inferential SE,False
+PRT,Portugal,1,6945,97370.91653,ST438_four_valid,ST438_administered,SCIE,6.104147185,6346,6854,descriptive selection contrast; not causal; no inferential SE,False
+PRY,Paraguay,0,6507,82401.12837,ST438_administered,ST438_not_administered,READ,-18.07463041,6260,175,descriptive selection contrast; not causal; no inferential SE,False
+PRY,Paraguay,0,6507,82401.12837,ST438_administered,ST438_not_administered,MATH,-12.15061321,6260,175,descriptive selection contrast; not causal; no inferential SE,False
+PRY,Paraguay,0,6507,82401.12837,ST438_administered,ST438_not_administered,SCIE,4.964665044,6260,175,descriptive selection contrast; not causal; no inferential SE,False
+PRY,Paraguay,0,6507,82401.12837,CBA,PBA,READ,,6507,0,descriptive selection contrast; not causal; no inferential SE,False
+PRY,Paraguay,0,6507,82401.12837,CBA,PBA,MATH,,6507,0,descriptive selection contrast; not causal; no inferential SE,False
+PRY,Paraguay,0,6507,82401.12837,CBA,PBA,SCIE,,6507,0,descriptive selection contrast; not causal; no inferential SE,False
+PRY,Paraguay,0,6507,82401.12837,UH,CBA_standard,READ,,0,6507,descriptive selection contrast; not causal; no inferential SE,False
+PRY,Paraguay,0,6507,82401.12837,UH,CBA_standard,MATH,,0,6507,descriptive selection contrast; not causal; no inferential SE,False
+PRY,Paraguay,0,6507,82401.12837,UH,CBA_standard,SCIE,,0,6507,descriptive selection contrast; not causal; no inferential SE,False
+PRY,Paraguay,0,6507,82401.12837,ST438_four_valid,ST438_administered,READ,17.70079104,4443,6260,descriptive selection contrast; not causal; no inferential SE,False
+PRY,Paraguay,0,6507,82401.12837,ST438_four_valid,ST438_administered,MATH,15.00535324,4443,6260,descriptive selection contrast; not causal; no inferential SE,False
+PRY,Paraguay,0,6507,82401.12837,ST438_four_valid,ST438_administered,SCIE,20.50713257,4443,6260,descriptive selection contrast; not causal; no inferential SE,False
+PSE,Palestinian Authority,0,9647,50392.59376,ST438_administered,ST438_not_administered,READ,40.82748807,9546,11,descriptive selection contrast; not causal; no inferential SE,False
+PSE,Palestinian Authority,0,9647,50392.59376,ST438_administered,ST438_not_administered,MATH,27.16113626,9546,11,descriptive selection contrast; not causal; no inferential SE,False
+PSE,Palestinian Authority,0,9647,50392.59376,ST438_administered,ST438_not_administered,SCIE,36.97437386,9546,11,descriptive selection contrast; not causal; no inferential SE,False
+PSE,Palestinian Authority,0,9647,50392.59376,CBA,PBA,READ,,9647,0,descriptive selection contrast; not causal; no inferential SE,False
+PSE,Palestinian Authority,0,9647,50392.59376,CBA,PBA,MATH,,9647,0,descriptive selection contrast; not causal; no inferential SE,False
+PSE,Palestinian Authority,0,9647,50392.59376,CBA,PBA,SCIE,,9647,0,descriptive selection contrast; not causal; no inferential SE,False
+PSE,Palestinian Authority,0,9647,50392.59376,UH,CBA_standard,READ,,0,9647,descriptive selection contrast; not causal; no inferential SE,False
+PSE,Palestinian Authority,0,9647,50392.59376,UH,CBA_standard,MATH,,0,9647,descriptive selection contrast; not causal; no inferential SE,False
+PSE,Palestinian Authority,0,9647,50392.59376,UH,CBA_standard,SCIE,,0,9647,descriptive selection contrast; not causal; no inferential SE,False
+PSE,Palestinian Authority,0,9647,50392.59376,ST438_four_valid,ST438_administered,READ,11.9946837,7188,9546,descriptive selection contrast; not causal; no inferential SE,False
+PSE,Palestinian Authority,0,9647,50392.59376,ST438_four_valid,ST438_administered,MATH,9.550346877,7188,9546,descriptive selection contrast; not causal; no inferential SE,False
+PSE,Palestinian Authority,0,9647,50392.59376,ST438_four_valid,ST438_administered,SCIE,11.29488153,7188,9546,descriptive selection contrast; not causal; no inferential SE,False
+QAT,Qatar,0,,,ST438_administered,ST438_not_administered,READ,,,,descriptive selection contrast; not causal; no inferential SE,True
+QAT,Qatar,0,,,ST438_administered,ST438_not_administered,MATH,,,,descriptive selection contrast; not causal; no inferential SE,True
+QAT,Qatar,0,,,ST438_administered,ST438_not_administered,SCIE,,,,descriptive selection contrast; not causal; no inferential SE,True
+QAT,Qatar,0,6674,22318.82325,CBA,PBA,READ,,6674,0,descriptive selection contrast; not causal; no inferential SE,False
+QAT,Qatar,0,6674,22318.82325,CBA,PBA,MATH,,6674,0,descriptive selection contrast; not causal; no inferential SE,False
+QAT,Qatar,0,6674,22318.82325,CBA,PBA,SCIE,,6674,0,descriptive selection contrast; not causal; no inferential SE,False
+QAT,Qatar,0,6674,22318.82325,UH,CBA_standard,READ,,0,6674,descriptive selection contrast; not causal; no inferential SE,False
+QAT,Qatar,0,6674,22318.82325,UH,CBA_standard,MATH,,0,6674,descriptive selection contrast; not causal; no inferential SE,False
+QAT,Qatar,0,6674,22318.82325,UH,CBA_standard,SCIE,,0,6674,descriptive selection contrast; not causal; no inferential SE,False
+QAT,Qatar,0,6674,22318.82325,ST438_four_valid,ST438_administered,READ,16.21906889,5323,6670,descriptive selection contrast; not causal; no inferential SE,False
+QAT,Qatar,0,6674,22318.82325,ST438_four_valid,ST438_administered,MATH,12.34203168,5323,6670,descriptive selection contrast; not causal; no inferential SE,False
+QAT,Qatar,0,6674,22318.82325,ST438_four_valid,ST438_administered,SCIE,13.6722365,5323,6670,descriptive selection contrast; not causal; no inferential SE,False
+QCI,B-S-J-Z (China),0,,,ST438_administered,ST438_not_administered,READ,,,,descriptive selection contrast; not causal; no inferential SE,True
+QCI,B-S-J-Z (China),0,,,ST438_administered,ST438_not_administered,MATH,,,,descriptive selection contrast; not causal; no inferential SE,True
+QCI,B-S-J-Z (China),0,,,ST438_administered,ST438_not_administered,SCIE,,,,descriptive selection contrast; not causal; no inferential SE,True
+QCI,B-S-J-Z (China),0,12385,1433562.229,CBA,PBA,READ,,12385,0,descriptive selection contrast; not causal; no inferential SE,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,CBA,PBA,MATH,,12385,0,descriptive selection contrast; not causal; no inferential SE,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,CBA,PBA,SCIE,,12385,0,descriptive selection contrast; not causal; no inferential SE,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,UH,CBA_standard,READ,,0,12385,descriptive selection contrast; not causal; no inferential SE,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,UH,CBA_standard,MATH,,0,12385,descriptive selection contrast; not causal; no inferential SE,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,UH,CBA_standard,SCIE,,0,12385,descriptive selection contrast; not causal; no inferential SE,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,ST438_four_valid,ST438_administered,READ,0.4281124078,12293,12381,descriptive selection contrast; not causal; no inferential SE,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,ST438_four_valid,ST438_administered,MATH,0.5166258728,12293,12381,descriptive selection contrast; not causal; no inferential SE,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,ST438_four_valid,ST438_administered,SCIE,0.4553147359,12293,12381,descriptive selection contrast; not causal; no inferential SE,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,ST438_administered,ST438_not_administered,READ,,0,5732,descriptive selection contrast; not causal; no inferential SE,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,ST438_administered,ST438_not_administered,MATH,,0,5732,descriptive selection contrast; not causal; no inferential SE,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,ST438_administered,ST438_not_administered,SCIE,,0,5732,descriptive selection contrast; not causal; no inferential SE,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,CBA,PBA,READ,,0,5732,descriptive selection contrast; not causal; no inferential SE,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,CBA,PBA,MATH,,0,5732,descriptive selection contrast; not causal; no inferential SE,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,CBA,PBA,SCIE,,0,5732,descriptive selection contrast; not causal; no inferential SE,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,UH,CBA_standard,READ,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,UH,CBA_standard,MATH,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,UH,CBA_standard,SCIE,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,ST438_four_valid,ST438_administered,READ,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,ST438_four_valid,ST438_administered,MATH,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,ST438_four_valid,ST438_administered,SCIE,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,ST438_administered,ST438_not_administered,READ,,0,5771,descriptive selection contrast; not causal; no inferential SE,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,ST438_administered,ST438_not_administered,MATH,,0,5771,descriptive selection contrast; not causal; no inferential SE,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,ST438_administered,ST438_not_administered,SCIE,,0,5771,descriptive selection contrast; not causal; no inferential SE,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,CBA,PBA,READ,,0,5771,descriptive selection contrast; not causal; no inferential SE,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,CBA,PBA,MATH,,0,5771,descriptive selection contrast; not causal; no inferential SE,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,CBA,PBA,SCIE,,0,5771,descriptive selection contrast; not causal; no inferential SE,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,UH,CBA_standard,READ,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,UH,CBA_standard,MATH,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,UH,CBA_standard,SCIE,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,ST438_four_valid,ST438_administered,READ,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,ST438_four_valid,ST438_administered,MATH,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,ST438_four_valid,ST438_administered,SCIE,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,ST438_administered,ST438_not_administered,READ,16.09304422,7072,28,descriptive selection contrast; not causal; no inferential SE,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,ST438_administered,ST438_not_administered,MATH,49.97824066,7072,28,descriptive selection contrast; not causal; no inferential SE,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,ST438_administered,ST438_not_administered,SCIE,26.92473811,7072,28,descriptive selection contrast; not causal; no inferential SE,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,CBA,PBA,READ,,7105,0,descriptive selection contrast; not causal; no inferential SE,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,CBA,PBA,MATH,,7105,0,descriptive selection contrast; not causal; no inferential SE,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,CBA,PBA,SCIE,,7105,0,descriptive selection contrast; not causal; no inferential SE,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,UH,CBA_standard,READ,-12.65472624,16,7089,descriptive selection contrast; not causal; no inferential SE,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,UH,CBA_standard,MATH,-36.32830418,16,7089,descriptive selection contrast; not causal; no inferential SE,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,UH,CBA_standard,SCIE,-29.86433398,16,7089,descriptive selection contrast; not causal; no inferential SE,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,ST438_four_valid,ST438_administered,READ,8.109551695,6339,7072,descriptive selection contrast; not causal; no inferential SE,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,ST438_four_valid,ST438_administered,MATH,7.506364744,6339,7072,descriptive selection contrast; not causal; no inferential SE,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,ST438_four_valid,ST438_administered,SCIE,8.250837473,6339,7072,descriptive selection contrast; not causal; no inferential SE,False
+ROU,Romania,0,7725,171955.2169,ST438_administered,ST438_not_administered,READ,102.6681748,7714,11,descriptive selection contrast; not causal; no inferential SE,False
+ROU,Romania,0,7725,171955.2169,ST438_administered,ST438_not_administered,MATH,86.21850576,7714,11,descriptive selection contrast; not causal; no inferential SE,False
+ROU,Romania,0,7725,171955.2169,ST438_administered,ST438_not_administered,SCIE,89.6005917,7714,11,descriptive selection contrast; not causal; no inferential SE,False
+ROU,Romania,0,7725,171955.2169,CBA,PBA,READ,,7725,0,descriptive selection contrast; not causal; no inferential SE,False
+ROU,Romania,0,7725,171955.2169,CBA,PBA,MATH,,7725,0,descriptive selection contrast; not causal; no inferential SE,False
+ROU,Romania,0,7725,171955.2169,CBA,PBA,SCIE,,7725,0,descriptive selection contrast; not causal; no inferential SE,False
+ROU,Romania,0,7725,171955.2169,UH,CBA_standard,READ,,0,7725,descriptive selection contrast; not causal; no inferential SE,False
+ROU,Romania,0,7725,171955.2169,UH,CBA_standard,MATH,,0,7725,descriptive selection contrast; not causal; no inferential SE,False
+ROU,Romania,0,7725,171955.2169,UH,CBA_standard,SCIE,,0,7725,descriptive selection contrast; not causal; no inferential SE,False
+ROU,Romania,0,7725,171955.2169,ST438_four_valid,ST438_administered,READ,13.68240884,6876,7714,descriptive selection contrast; not causal; no inferential SE,False
+ROU,Romania,0,7725,171955.2169,ST438_four_valid,ST438_administered,MATH,13.69072711,6876,7714,descriptive selection contrast; not causal; no inferential SE,False
+ROU,Romania,0,7725,171955.2169,ST438_four_valid,ST438_administered,SCIE,13.41375892,6876,7714,descriptive selection contrast; not causal; no inferential SE,False
+RWA,Rwanda,0,6622,98957.08041,ST438_administered,ST438_not_administered,READ,,0,6622,descriptive selection contrast; not causal; no inferential SE,False
+RWA,Rwanda,0,6622,98957.08041,ST438_administered,ST438_not_administered,MATH,,0,6622,descriptive selection contrast; not causal; no inferential SE,False
+RWA,Rwanda,0,6622,98957.08041,ST438_administered,ST438_not_administered,SCIE,,0,6622,descriptive selection contrast; not causal; no inferential SE,False
+RWA,Rwanda,0,6622,98957.08041,CBA,PBA,READ,,0,6622,descriptive selection contrast; not causal; no inferential SE,False
+RWA,Rwanda,0,6622,98957.08041,CBA,PBA,MATH,,0,6622,descriptive selection contrast; not causal; no inferential SE,False
+RWA,Rwanda,0,6622,98957.08041,CBA,PBA,SCIE,,0,6622,descriptive selection contrast; not causal; no inferential SE,False
+RWA,Rwanda,0,6622,98957.08041,UH,CBA_standard,READ,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+RWA,Rwanda,0,6622,98957.08041,UH,CBA_standard,MATH,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+RWA,Rwanda,0,6622,98957.08041,UH,CBA_standard,SCIE,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+RWA,Rwanda,0,6622,98957.08041,ST438_four_valid,ST438_administered,READ,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+RWA,Rwanda,0,6622,98957.08041,ST438_four_valid,ST438_administered,MATH,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+RWA,Rwanda,0,6622,98957.08041,ST438_four_valid,ST438_administered,SCIE,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+SAU,Saudi Arabia,0,7272,348241.4494,ST438_administered,ST438_not_administered,READ,17.6409832,7240,32,descriptive selection contrast; not causal; no inferential SE,False
+SAU,Saudi Arabia,0,7272,348241.4494,ST438_administered,ST438_not_administered,MATH,3.091053672,7240,32,descriptive selection contrast; not causal; no inferential SE,False
+SAU,Saudi Arabia,0,7272,348241.4494,ST438_administered,ST438_not_administered,SCIE,36.99859066,7240,32,descriptive selection contrast; not causal; no inferential SE,False
+SAU,Saudi Arabia,0,7272,348241.4494,CBA,PBA,READ,,7272,0,descriptive selection contrast; not causal; no inferential SE,False
+SAU,Saudi Arabia,0,7272,348241.4494,CBA,PBA,MATH,,7272,0,descriptive selection contrast; not causal; no inferential SE,False
+SAU,Saudi Arabia,0,7272,348241.4494,CBA,PBA,SCIE,,7272,0,descriptive selection contrast; not causal; no inferential SE,False
+SAU,Saudi Arabia,0,7272,348241.4494,UH,CBA_standard,READ,,0,7272,descriptive selection contrast; not causal; no inferential SE,False
+SAU,Saudi Arabia,0,7272,348241.4494,UH,CBA_standard,MATH,,0,7272,descriptive selection contrast; not causal; no inferential SE,False
+SAU,Saudi Arabia,0,7272,348241.4494,UH,CBA_standard,SCIE,,0,7272,descriptive selection contrast; not causal; no inferential SE,False
+SAU,Saudi Arabia,0,7272,348241.4494,ST438_four_valid,ST438_administered,READ,6.982679766,6014,7240,descriptive selection contrast; not causal; no inferential SE,False
+SAU,Saudi Arabia,0,7272,348241.4494,ST438_four_valid,ST438_administered,MATH,4.329218715,6014,7240,descriptive selection contrast; not causal; no inferential SE,False
+SAU,Saudi Arabia,0,7272,348241.4494,ST438_four_valid,ST438_administered,SCIE,6.601604574,6014,7240,descriptive selection contrast; not causal; no inferential SE,False
+SGP,Singapore,0,6551,42468.83678,ST438_administered,ST438_not_administered,READ,119.0012311,6533,18,descriptive selection contrast; not causal; no inferential SE,False
+SGP,Singapore,0,6551,42468.83678,ST438_administered,ST438_not_administered,MATH,145.0452481,6533,18,descriptive selection contrast; not causal; no inferential SE,False
+SGP,Singapore,0,6551,42468.83678,ST438_administered,ST438_not_administered,SCIE,148.474728,6533,18,descriptive selection contrast; not causal; no inferential SE,False
+SGP,Singapore,0,6551,42468.83678,CBA,PBA,READ,,6551,0,descriptive selection contrast; not causal; no inferential SE,False
+SGP,Singapore,0,6551,42468.83678,CBA,PBA,MATH,,6551,0,descriptive selection contrast; not causal; no inferential SE,False
+SGP,Singapore,0,6551,42468.83678,CBA,PBA,SCIE,,6551,0,descriptive selection contrast; not causal; no inferential SE,False
+SGP,Singapore,0,6551,42468.83678,UH,CBA_standard,READ,,0,6551,descriptive selection contrast; not causal; no inferential SE,False
+SGP,Singapore,0,6551,42468.83678,UH,CBA_standard,MATH,,0,6551,descriptive selection contrast; not causal; no inferential SE,False
+SGP,Singapore,0,6551,42468.83678,UH,CBA_standard,SCIE,,0,6551,descriptive selection contrast; not causal; no inferential SE,False
+SGP,Singapore,0,6551,42468.83678,ST438_four_valid,ST438_administered,READ,2.366060917,6389,6533,descriptive selection contrast; not causal; no inferential SE,False
+SGP,Singapore,0,6551,42468.83678,ST438_four_valid,ST438_administered,MATH,2.140081509,6389,6533,descriptive selection contrast; not causal; no inferential SE,False
+SGP,Singapore,0,6551,42468.83678,ST438_four_valid,ST438_administered,SCIE,2.095305839,6389,6533,descriptive selection contrast; not causal; no inferential SE,False
+SLV,El Salvador,0,7073,76966.99762,ST438_administered,ST438_not_administered,READ,-1.693106165,6748,306,descriptive selection contrast; not causal; no inferential SE,False
+SLV,El Salvador,0,7073,76966.99762,ST438_administered,ST438_not_administered,MATH,-7.940349559,6748,306,descriptive selection contrast; not causal; no inferential SE,False
+SLV,El Salvador,0,7073,76966.99762,ST438_administered,ST438_not_administered,SCIE,-4.467446628,6748,306,descriptive selection contrast; not causal; no inferential SE,False
+SLV,El Salvador,0,7073,76966.99762,CBA,PBA,READ,,7073,0,descriptive selection contrast; not causal; no inferential SE,False
+SLV,El Salvador,0,7073,76966.99762,CBA,PBA,MATH,,7073,0,descriptive selection contrast; not causal; no inferential SE,False
+SLV,El Salvador,0,7073,76966.99762,CBA,PBA,SCIE,,7073,0,descriptive selection contrast; not causal; no inferential SE,False
+SLV,El Salvador,0,7073,76966.99762,UH,CBA_standard,READ,,0,7073,descriptive selection contrast; not causal; no inferential SE,False
+SLV,El Salvador,0,7073,76966.99762,UH,CBA_standard,MATH,,0,7073,descriptive selection contrast; not causal; no inferential SE,False
+SLV,El Salvador,0,7073,76966.99762,UH,CBA_standard,SCIE,,0,7073,descriptive selection contrast; not causal; no inferential SE,False
+SLV,El Salvador,0,7073,76966.99762,ST438_four_valid,ST438_administered,READ,8.747878954,5774,6748,descriptive selection contrast; not causal; no inferential SE,False
+SLV,El Salvador,0,7073,76966.99762,ST438_four_valid,ST438_administered,MATH,6.748178735,5774,6748,descriptive selection contrast; not causal; no inferential SE,False
+SLV,El Salvador,0,7073,76966.99762,ST438_four_valid,ST438_administered,SCIE,8.041940766,5774,6748,descriptive selection contrast; not causal; no inferential SE,False
+SRB,Serbia,0,7041,55288.28612,ST438_administered,ST438_not_administered,READ,35.67878949,6954,87,descriptive selection contrast; not causal; no inferential SE,False
+SRB,Serbia,0,7041,55288.28612,ST438_administered,ST438_not_administered,MATH,54.08456354,6954,87,descriptive selection contrast; not causal; no inferential SE,False
+SRB,Serbia,0,7041,55288.28612,ST438_administered,ST438_not_administered,SCIE,50.30085962,6954,87,descriptive selection contrast; not causal; no inferential SE,False
+SRB,Serbia,0,7041,55288.28612,CBA,PBA,READ,,7041,0,descriptive selection contrast; not causal; no inferential SE,False
+SRB,Serbia,0,7041,55288.28612,CBA,PBA,MATH,,7041,0,descriptive selection contrast; not causal; no inferential SE,False
+SRB,Serbia,0,7041,55288.28612,CBA,PBA,SCIE,,7041,0,descriptive selection contrast; not causal; no inferential SE,False
+SRB,Serbia,0,7041,55288.28612,UH,CBA_standard,READ,,0,7041,descriptive selection contrast; not causal; no inferential SE,False
+SRB,Serbia,0,7041,55288.28612,UH,CBA_standard,MATH,,0,7041,descriptive selection contrast; not causal; no inferential SE,False
+SRB,Serbia,0,7041,55288.28612,UH,CBA_standard,SCIE,,0,7041,descriptive selection contrast; not causal; no inferential SE,False
+SRB,Serbia,0,7041,55288.28612,ST438_four_valid,ST438_administered,READ,15.01743909,5554,6954,descriptive selection contrast; not causal; no inferential SE,False
+SRB,Serbia,0,7041,55288.28612,ST438_four_valid,ST438_administered,MATH,12.69049644,5554,6954,descriptive selection contrast; not causal; no inferential SE,False
+SRB,Serbia,0,7041,55288.28612,ST438_four_valid,ST438_administered,SCIE,12.65386122,5554,6954,descriptive selection contrast; not causal; no inferential SE,False
+SVK,Slovak Republic,1,6682,50243.12324,ST438_administered,ST438_not_administered,READ,80.72279954,6471,205,descriptive selection contrast; not causal; no inferential SE,False
+SVK,Slovak Republic,1,6682,50243.12324,ST438_administered,ST438_not_administered,MATH,85.0361743,6471,205,descriptive selection contrast; not causal; no inferential SE,False
+SVK,Slovak Republic,1,6682,50243.12324,ST438_administered,ST438_not_administered,SCIE,87.92090039,6471,205,descriptive selection contrast; not causal; no inferential SE,False
+SVK,Slovak Republic,1,6682,50243.12324,CBA,PBA,READ,,6682,0,descriptive selection contrast; not causal; no inferential SE,False
+SVK,Slovak Republic,1,6682,50243.12324,CBA,PBA,MATH,,6682,0,descriptive selection contrast; not causal; no inferential SE,False
+SVK,Slovak Republic,1,6682,50243.12324,CBA,PBA,SCIE,,6682,0,descriptive selection contrast; not causal; no inferential SE,False
+SVK,Slovak Republic,1,6682,50243.12324,UH,CBA_standard,READ,-89.02612958,155,6527,descriptive selection contrast; not causal; no inferential SE,False
+SVK,Slovak Republic,1,6682,50243.12324,UH,CBA_standard,MATH,-88.55400269,155,6527,descriptive selection contrast; not causal; no inferential SE,False
+SVK,Slovak Republic,1,6682,50243.12324,UH,CBA_standard,SCIE,-96.44675958,155,6527,descriptive selection contrast; not causal; no inferential SE,False
+SVK,Slovak Republic,1,6682,50243.12324,ST438_four_valid,ST438_administered,READ,6.361955272,6033,6471,descriptive selection contrast; not causal; no inferential SE,False
+SVK,Slovak Republic,1,6682,50243.12324,ST438_four_valid,ST438_administered,MATH,6.085997124,6033,6471,descriptive selection contrast; not causal; no inferential SE,False
+SVK,Slovak Republic,1,6682,50243.12324,ST438_four_valid,ST438_administered,SCIE,6.460468402,6033,6471,descriptive selection contrast; not causal; no inferential SE,False
+SVN,Slovenia,1,7366,21631.8223,ST438_administered,ST438_not_administered,READ,96.32318041,7065,300,descriptive selection contrast; not causal; no inferential SE,False
+SVN,Slovenia,1,7366,21631.8223,ST438_administered,ST438_not_administered,MATH,80.40602229,7065,300,descriptive selection contrast; not causal; no inferential SE,False
+SVN,Slovenia,1,7366,21631.8223,ST438_administered,ST438_not_administered,SCIE,113.9151359,7065,300,descriptive selection contrast; not causal; no inferential SE,False
+SVN,Slovenia,1,7366,21631.8223,CBA,PBA,READ,,7366,0,descriptive selection contrast; not causal; no inferential SE,False
+SVN,Slovenia,1,7366,21631.8223,CBA,PBA,MATH,,7366,0,descriptive selection contrast; not causal; no inferential SE,False
+SVN,Slovenia,1,7366,21631.8223,CBA,PBA,SCIE,,7366,0,descriptive selection contrast; not causal; no inferential SE,False
+SVN,Slovenia,1,7366,21631.8223,UH,CBA_standard,READ,-107.5263087,252,7114,descriptive selection contrast; not causal; no inferential SE,False
+SVN,Slovenia,1,7366,21631.8223,UH,CBA_standard,MATH,-101.303184,252,7114,descriptive selection contrast; not causal; no inferential SE,False
+SVN,Slovenia,1,7366,21631.8223,UH,CBA_standard,SCIE,-133.600055,252,7114,descriptive selection contrast; not causal; no inferential SE,False
+SVN,Slovenia,1,7366,21631.8223,ST438_four_valid,ST438_administered,READ,10.0851517,6347,7065,descriptive selection contrast; not causal; no inferential SE,False
+SVN,Slovenia,1,7366,21631.8223,ST438_four_valid,ST438_administered,MATH,7.384465099,6347,7065,descriptive selection contrast; not causal; no inferential SE,False
+SVN,Slovenia,1,7366,21631.8223,ST438_four_valid,ST438_administered,SCIE,9.091493683,6347,7065,descriptive selection contrast; not causal; no inferential SE,False
+SWE,Sweden,1,6688,115590.4337,ST438_administered,ST438_not_administered,READ,104.5565754,6565,91,descriptive selection contrast; not causal; no inferential SE,False
+SWE,Sweden,1,6688,115590.4337,ST438_administered,ST438_not_administered,MATH,96.86963453,6565,91,descriptive selection contrast; not causal; no inferential SE,False
+SWE,Sweden,1,6688,115590.4337,ST438_administered,ST438_not_administered,SCIE,98.93024998,6565,91,descriptive selection contrast; not causal; no inferential SE,False
+SWE,Sweden,1,6688,115590.4337,CBA,PBA,READ,,6688,0,descriptive selection contrast; not causal; no inferential SE,False
+SWE,Sweden,1,6688,115590.4337,CBA,PBA,MATH,,6688,0,descriptive selection contrast; not causal; no inferential SE,False
+SWE,Sweden,1,6688,115590.4337,CBA,PBA,SCIE,,6688,0,descriptive selection contrast; not causal; no inferential SE,False
+SWE,Sweden,1,6688,115590.4337,UH,CBA_standard,READ,,0,6688,descriptive selection contrast; not causal; no inferential SE,False
+SWE,Sweden,1,6688,115590.4337,UH,CBA_standard,MATH,,0,6688,descriptive selection contrast; not causal; no inferential SE,False
+SWE,Sweden,1,6688,115590.4337,UH,CBA_standard,SCIE,,0,6688,descriptive selection contrast; not causal; no inferential SE,False
+SWE,Sweden,1,6688,115590.4337,ST438_four_valid,ST438_administered,READ,18.39136999,5459,6565,descriptive selection contrast; not causal; no inferential SE,False
+SWE,Sweden,1,6688,115590.4337,ST438_four_valid,ST438_administered,MATH,13.91705633,5459,6565,descriptive selection contrast; not causal; no inferential SE,False
+SWE,Sweden,1,6688,115590.4337,ST438_four_valid,ST438_administered,SCIE,16.83105695,5459,6565,descriptive selection contrast; not causal; no inferential SE,False
+TAP,Chinese Taipei,0,7279,181048.7043,ST438_administered,ST438_not_administered,READ,118.7795099,7269,10,descriptive selection contrast; not causal; no inferential SE,False
+TAP,Chinese Taipei,0,7279,181048.7043,ST438_administered,ST438_not_administered,MATH,108.264715,7269,10,descriptive selection contrast; not causal; no inferential SE,False
+TAP,Chinese Taipei,0,7279,181048.7043,ST438_administered,ST438_not_administered,SCIE,119.4278111,7269,10,descriptive selection contrast; not causal; no inferential SE,False
+TAP,Chinese Taipei,0,7279,181048.7043,CBA,PBA,READ,,7279,0,descriptive selection contrast; not causal; no inferential SE,False
+TAP,Chinese Taipei,0,7279,181048.7043,CBA,PBA,MATH,,7279,0,descriptive selection contrast; not causal; no inferential SE,False
+TAP,Chinese Taipei,0,7279,181048.7043,CBA,PBA,SCIE,,7279,0,descriptive selection contrast; not causal; no inferential SE,False
+TAP,Chinese Taipei,0,7279,181048.7043,UH,CBA_standard,READ,,0,7279,descriptive selection contrast; not causal; no inferential SE,False
+TAP,Chinese Taipei,0,7279,181048.7043,UH,CBA_standard,MATH,,0,7279,descriptive selection contrast; not causal; no inferential SE,False
+TAP,Chinese Taipei,0,7279,181048.7043,UH,CBA_standard,SCIE,,0,7279,descriptive selection contrast; not causal; no inferential SE,False
+TAP,Chinese Taipei,0,7279,181048.7043,ST438_four_valid,ST438_administered,READ,2.386670357,7132,7269,descriptive selection contrast; not causal; no inferential SE,False
+TAP,Chinese Taipei,0,7279,181048.7043,ST438_four_valid,ST438_administered,MATH,1.887370745,7132,7269,descriptive selection contrast; not causal; no inferential SE,False
+TAP,Chinese Taipei,0,7279,181048.7043,ST438_four_valid,ST438_administered,SCIE,1.934118906,7132,7269,descriptive selection contrast; not causal; no inferential SE,False
+THA,Thailand,0,,,ST438_administered,ST438_not_administered,READ,,,,descriptive selection contrast; not causal; no inferential SE,True
+THA,Thailand,0,,,ST438_administered,ST438_not_administered,MATH,,,,descriptive selection contrast; not causal; no inferential SE,True
+THA,Thailand,0,,,ST438_administered,ST438_not_administered,SCIE,,,,descriptive selection contrast; not causal; no inferential SE,True
+THA,Thailand,0,8547,542708.6633,CBA,PBA,READ,,8547,0,descriptive selection contrast; not causal; no inferential SE,False
+THA,Thailand,0,8547,542708.6633,CBA,PBA,MATH,,8547,0,descriptive selection contrast; not causal; no inferential SE,False
+THA,Thailand,0,8547,542708.6633,CBA,PBA,SCIE,,8547,0,descriptive selection contrast; not causal; no inferential SE,False
+THA,Thailand,0,8547,542708.6633,UH,CBA_standard,READ,,0,8547,descriptive selection contrast; not causal; no inferential SE,False
+THA,Thailand,0,8547,542708.6633,UH,CBA_standard,MATH,,0,8547,descriptive selection contrast; not causal; no inferential SE,False
+THA,Thailand,0,8547,542708.6633,UH,CBA_standard,SCIE,,0,8547,descriptive selection contrast; not causal; no inferential SE,False
+THA,Thailand,0,8547,542708.6633,ST438_four_valid,ST438_administered,READ,1.807051193,8160,8546,descriptive selection contrast; not causal; no inferential SE,False
+THA,Thailand,0,8547,542708.6633,ST438_four_valid,ST438_administered,MATH,1.367289244,8160,8546,descriptive selection contrast; not causal; no inferential SE,False
+THA,Thailand,0,8547,542708.6633,ST438_four_valid,ST438_administered,SCIE,1.486837802,8160,8546,descriptive selection contrast; not causal; no inferential SE,False
+TUR,Türkiye,1,,,ST438_administered,ST438_not_administered,READ,,,,descriptive selection contrast; not causal; no inferential SE,True
+TUR,Türkiye,1,,,ST438_administered,ST438_not_administered,MATH,,,,descriptive selection contrast; not causal; no inferential SE,True
+TUR,Türkiye,1,,,ST438_administered,ST438_not_administered,SCIE,,,,descriptive selection contrast; not causal; no inferential SE,True
+TUR,Türkiye,1,7702,920900.0642,CBA,PBA,READ,,7702,0,descriptive selection contrast; not causal; no inferential SE,False
+TUR,Türkiye,1,7702,920900.0642,CBA,PBA,MATH,,7702,0,descriptive selection contrast; not causal; no inferential SE,False
+TUR,Türkiye,1,7702,920900.0642,CBA,PBA,SCIE,,7702,0,descriptive selection contrast; not causal; no inferential SE,False
+TUR,Türkiye,1,7702,920900.0642,UH,CBA_standard,READ,,0,7702,descriptive selection contrast; not causal; no inferential SE,False
+TUR,Türkiye,1,7702,920900.0642,UH,CBA_standard,MATH,,0,7702,descriptive selection contrast; not causal; no inferential SE,False
+TUR,Türkiye,1,7702,920900.0642,UH,CBA_standard,SCIE,,0,7702,descriptive selection contrast; not causal; no inferential SE,False
+TUR,Türkiye,1,7702,920900.0642,ST438_four_valid,ST438_administered,READ,2.486582987,7425,7695,descriptive selection contrast; not causal; no inferential SE,False
+TUR,Türkiye,1,7702,920900.0642,ST438_four_valid,ST438_administered,MATH,2.404643757,7425,7695,descriptive selection contrast; not causal; no inferential SE,False
+TUR,Türkiye,1,7702,920900.0642,ST438_four_valid,ST438_administered,SCIE,2.562089372,7425,7695,descriptive selection contrast; not causal; no inferential SE,False
+URY,Uruguay,0,6572,35693.57644,ST438_administered,ST438_not_administered,READ,17.28045524,6249,311,descriptive selection contrast; not causal; no inferential SE,False
+URY,Uruguay,0,6572,35693.57644,ST438_administered,ST438_not_administered,MATH,2.065757009,6249,311,descriptive selection contrast; not causal; no inferential SE,False
+URY,Uruguay,0,6572,35693.57644,ST438_administered,ST438_not_administered,SCIE,38.09414659,6249,311,descriptive selection contrast; not causal; no inferential SE,False
+URY,Uruguay,0,6572,35693.57644,CBA,PBA,READ,,6572,0,descriptive selection contrast; not causal; no inferential SE,False
+URY,Uruguay,0,6572,35693.57644,CBA,PBA,MATH,,6572,0,descriptive selection contrast; not causal; no inferential SE,False
+URY,Uruguay,0,6572,35693.57644,CBA,PBA,SCIE,,6572,0,descriptive selection contrast; not causal; no inferential SE,False
+URY,Uruguay,0,6572,35693.57644,UH,CBA_standard,READ,-14.95490262,297,6275,descriptive selection contrast; not causal; no inferential SE,False
+URY,Uruguay,0,6572,35693.57644,UH,CBA_standard,MATH,0.8335360576,297,6275,descriptive selection contrast; not causal; no inferential SE,False
+URY,Uruguay,0,6572,35693.57644,UH,CBA_standard,SCIE,-35.43513147,297,6275,descriptive selection contrast; not causal; no inferential SE,False
+URY,Uruguay,0,6572,35693.57644,ST438_four_valid,ST438_administered,READ,16.83376185,4688,6249,descriptive selection contrast; not causal; no inferential SE,False
+URY,Uruguay,0,6572,35693.57644,ST438_four_valid,ST438_administered,MATH,13.32023506,4688,6249,descriptive selection contrast; not causal; no inferential SE,False
+URY,Uruguay,0,6572,35693.57644,ST438_four_valid,ST438_administered,SCIE,14.86524215,4688,6249,descriptive selection contrast; not causal; no inferential SE,False
+USA,United States,1,4623,3578890.314,ST438_administered,ST438_not_administered,READ,14.29670887,2467,2146,descriptive selection contrast; not causal; no inferential SE,False
+USA,United States,1,4623,3578890.314,ST438_administered,ST438_not_administered,MATH,3.374695981,2467,2146,descriptive selection contrast; not causal; no inferential SE,False
+USA,United States,1,4623,3578890.314,ST438_administered,ST438_not_administered,SCIE,4.631215422,2467,2146,descriptive selection contrast; not causal; no inferential SE,False
+USA,United States,1,4623,3578890.314,CBA,PBA,READ,,4623,0,descriptive selection contrast; not causal; no inferential SE,False
+USA,United States,1,4623,3578890.314,CBA,PBA,MATH,,4623,0,descriptive selection contrast; not causal; no inferential SE,False
+USA,United States,1,4623,3578890.314,CBA,PBA,SCIE,,4623,0,descriptive selection contrast; not causal; no inferential SE,False
+USA,United States,1,4623,3578890.314,UH,CBA_standard,READ,-69.50286293,264,4359,descriptive selection contrast; not causal; no inferential SE,False
+USA,United States,1,4623,3578890.314,UH,CBA_standard,MATH,-38.10155547,264,4359,descriptive selection contrast; not causal; no inferential SE,False
+USA,United States,1,4623,3578890.314,UH,CBA_standard,SCIE,-52.00826484,264,4359,descriptive selection contrast; not causal; no inferential SE,False
+USA,United States,1,4623,3578890.314,ST438_four_valid,ST438_administered,READ,5.55994349,2310,2467,descriptive selection contrast; not causal; no inferential SE,False
+USA,United States,1,4623,3578890.314,ST438_four_valid,ST438_administered,MATH,3.805313662,2310,2467,descriptive selection contrast; not causal; no inferential SE,False
+USA,United States,1,4623,3578890.314,ST438_four_valid,ST438_administered,SCIE,4.677673462,2310,2467,descriptive selection contrast; not causal; no inferential SE,False
+UZB,Uzbekistan,0,,,ST438_administered,ST438_not_administered,READ,,,,descriptive selection contrast; not causal; no inferential SE,True
+UZB,Uzbekistan,0,,,ST438_administered,ST438_not_administered,MATH,,,,descriptive selection contrast; not causal; no inferential SE,True
+UZB,Uzbekistan,0,,,ST438_administered,ST438_not_administered,SCIE,,,,descriptive selection contrast; not causal; no inferential SE,True
+UZB,Uzbekistan,0,8652,557998.6075,CBA,PBA,READ,,8652,0,descriptive selection contrast; not causal; no inferential SE,False
+UZB,Uzbekistan,0,8652,557998.6075,CBA,PBA,MATH,,8652,0,descriptive selection contrast; not causal; no inferential SE,False
+UZB,Uzbekistan,0,8652,557998.6075,CBA,PBA,SCIE,,8652,0,descriptive selection contrast; not causal; no inferential SE,False
+UZB,Uzbekistan,0,8652,557998.6075,UH,CBA_standard,READ,,0,8652,descriptive selection contrast; not causal; no inferential SE,False
+UZB,Uzbekistan,0,8652,557998.6075,UH,CBA_standard,MATH,,0,8652,descriptive selection contrast; not causal; no inferential SE,False
+UZB,Uzbekistan,0,8652,557998.6075,UH,CBA_standard,SCIE,,0,8652,descriptive selection contrast; not causal; no inferential SE,False
+UZB,Uzbekistan,0,8652,557998.6075,ST438_four_valid,ST438_administered,READ,,7822,8649,descriptive selection contrast; not causal; no inferential SE,False
+UZB,Uzbekistan,0,8652,557998.6075,ST438_four_valid,ST438_administered,MATH,,7822,8649,descriptive selection contrast; not causal; no inferential SE,False
+UZB,Uzbekistan,0,8652,557998.6075,ST438_four_valid,ST438_administered,SCIE,2.322599059,7822,8649,descriptive selection contrast; not causal; no inferential SE,False
+VNM,Viet Nam,0,7368,1109072.636,ST438_administered,ST438_not_administered,READ,22.71332581,7354,14,descriptive selection contrast; not causal; no inferential SE,False
+VNM,Viet Nam,0,7368,1109072.636,ST438_administered,ST438_not_administered,MATH,38.42072484,7354,14,descriptive selection contrast; not causal; no inferential SE,False
+VNM,Viet Nam,0,7368,1109072.636,ST438_administered,ST438_not_administered,SCIE,44.42404544,7354,14,descriptive selection contrast; not causal; no inferential SE,False
+VNM,Viet Nam,0,7368,1109072.636,CBA,PBA,READ,,7368,0,descriptive selection contrast; not causal; no inferential SE,False
+VNM,Viet Nam,0,7368,1109072.636,CBA,PBA,MATH,,7368,0,descriptive selection contrast; not causal; no inferential SE,False
+VNM,Viet Nam,0,7368,1109072.636,CBA,PBA,SCIE,,7368,0,descriptive selection contrast; not causal; no inferential SE,False
+VNM,Viet Nam,0,7368,1109072.636,UH,CBA_standard,READ,,0,7368,descriptive selection contrast; not causal; no inferential SE,False
+VNM,Viet Nam,0,7368,1109072.636,UH,CBA_standard,MATH,,0,7368,descriptive selection contrast; not causal; no inferential SE,False
+VNM,Viet Nam,0,7368,1109072.636,UH,CBA_standard,SCIE,,0,7368,descriptive selection contrast; not causal; no inferential SE,False
+VNM,Viet Nam,0,7368,1109072.636,ST438_four_valid,ST438_administered,READ,1.478558554,7127,7354,descriptive selection contrast; not causal; no inferential SE,False
+VNM,Viet Nam,0,7368,1109072.636,ST438_four_valid,ST438_administered,MATH,1.730015145,7127,7354,descriptive selection contrast; not causal; no inferential SE,False
+VNM,Viet Nam,0,7368,1109072.636,ST438_four_valid,ST438_administered,SCIE,1.58094367,7127,7354,descriptive selection contrast; not causal; no inferential SE,False
+ZMB,Zambia,0,5735,457337.7124,ST438_administered,ST438_not_administered,READ,,0,5735,descriptive selection contrast; not causal; no inferential SE,False
+ZMB,Zambia,0,5735,457337.7124,ST438_administered,ST438_not_administered,MATH,,0,5735,descriptive selection contrast; not causal; no inferential SE,False
+ZMB,Zambia,0,5735,457337.7124,ST438_administered,ST438_not_administered,SCIE,,0,5735,descriptive selection contrast; not causal; no inferential SE,False
+ZMB,Zambia,0,5735,457337.7124,CBA,PBA,READ,,0,5735,descriptive selection contrast; not causal; no inferential SE,False
+ZMB,Zambia,0,5735,457337.7124,CBA,PBA,MATH,,0,5735,descriptive selection contrast; not causal; no inferential SE,False
+ZMB,Zambia,0,5735,457337.7124,CBA,PBA,SCIE,,0,5735,descriptive selection contrast; not causal; no inferential SE,False
+ZMB,Zambia,0,5735,457337.7124,UH,CBA_standard,READ,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+ZMB,Zambia,0,5735,457337.7124,UH,CBA_standard,MATH,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+ZMB,Zambia,0,5735,457337.7124,UH,CBA_standard,SCIE,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+ZMB,Zambia,0,5735,457337.7124,ST438_four_valid,ST438_administered,READ,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+ZMB,Zambia,0,5735,457337.7124,ST438_four_valid,ST438_administered,MATH,,0,0,descriptive selection contrast; not causal; no inferential SE,False
+ZMB,Zambia,0,5735,457337.7124,ST438_four_valid,ST438_administered,SCIE,,0,0,descriptive selection contrast; not causal; no inferential SE,False

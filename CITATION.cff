@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this research software and its archived release."
+type: software
+title: "Reproducible analysis of generative AI use and student achievement in PISA 2025"
+authors:
+  - family-names: "González Ali"
+    given-names: "Pedro Gustavo"
+    orcid: "https://orcid.org/0000-0003-0630-8703"
+version: 1.0.0
+date-released: 2026-10-12
+repository-code: "https://github.com/pegus/pisa2025-ai-use-achievement"
+url: "https://github.com/pegus/pisa2025-ai-use-achievement"
+license: MIT
+abstract: "Reproducible, noncausal analysis of self-reported AI use and PISA 2025 reading, mathematics and science achievement. Country-specific weighted categorical models, 10 plausible values, 80 Fay replicate weights, selection audits and sensitivity analyses. No individual microdata are redistributed."
+keywords:
+  - PISA 2025
+  - artificial intelligence
+  - educational achievement
+  - plausible values
+  - survey inference

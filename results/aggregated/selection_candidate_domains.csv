@@ -1,0 +1,451 @@
+country,country_name,OECD,N_total,weighted_N_total,candidate_domain,N,weighted_N,weighted_pct_total,coverage_75_pass,status,disclosure_suppressed
+ALB,Albania,0,5959,22810.59004,CBA_standard_intended_candidate,5959,22810.59004,100,True,candidate only; no modelling or silent exclusions,False
+ALB,Albania,0,5959,22810.59004,ST438_observed_admin_candidate,5956,22800.64783,99.95641405,True,candidate only; no modelling or silent exclusions,False
+ALB,Albania,0,5959,22810.59004,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+ALB,Albania,0,5959,22810.59004,four_AI_valid,5561,21391.12226,93.77715448,True,candidate only; no modelling or silent exclusions,False
+ALB,Albania,0,5959,22810.59004,four_AI_and_critical_valid,4760,18424.38541,80.77119168,True,candidate only; no modelling or silent exclusions,False
+ARE,United Arab Emirates,0,34639,84768.38105,CBA_standard_intended_candidate,34639,84768.38105,100,True,candidate only; no modelling or silent exclusions,False
+ARE,United Arab Emirates,0,34639,84768.38105,ST438_observed_admin_candidate,34469,84373.45999,99.5341175,True,candidate only; no modelling or silent exclusions,False
+ARE,United Arab Emirates,0,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+ARE,United Arab Emirates,0,34639,84768.38105,four_AI_valid,30801,75998.73446,89.65457818,True,candidate only; no modelling or silent exclusions,False
+ARE,United Arab Emirates,0,34639,84768.38105,four_AI_and_critical_valid,27657,68508.98356,80.81903029,True,candidate only; no modelling or silent exclusions,False
+ARG,Argentina,0,11092,609050.6163,CBA_standard_intended_candidate,11092,609050.6163,100,True,candidate only; no modelling or silent exclusions,False
+ARG,Argentina,0,11092,609050.6163,ST438_observed_admin_candidate,10546,564958.2683,92.76047887,True,candidate only; no modelling or silent exclusions,False
+ARG,Argentina,0,11092,609050.6163,ST438_unknown_admin,20,1816.787844,0.2982983345,False,candidate only; no modelling or silent exclusions,False
+ARG,Argentina,0,11092,609050.6163,four_AI_valid,7475,361720.134,59.39081651,False,candidate only; no modelling or silent exclusions,False
+ARG,Argentina,0,11092,609050.6163,four_AI_and_critical_valid,5932,273088.7979,44.83844045,False,candidate only; no modelling or silent exclusions,False
+ARM,Armenia,0,6804,23808.47293,CBA_standard_intended_candidate,6804,23808.47293,100,True,candidate only; no modelling or silent exclusions,False
+ARM,Armenia,0,6804,23808.47293,ST438_observed_admin_candidate,6799,23791.15946,99.92728022,True,candidate only; no modelling or silent exclusions,False
+ARM,Armenia,0,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+ARM,Armenia,0,6804,23808.47293,four_AI_valid,2566,9392.036942,39.44829629,False,candidate only; no modelling or silent exclusions,False
+ARM,Armenia,0,6804,23808.47293,four_AI_and_critical_valid,1451,5408.132481,22.715159,False,candidate only; no modelling or silent exclusions,False
+AUS,Australia,1,14658,275381.9803,CBA_standard_intended_candidate,14658,275381.9803,100,True,candidate only; no modelling or silent exclusions,False
+AUS,Australia,1,14658,275381.9803,ST438_observed_admin_candidate,14388,270692.8024,98.29720961,True,candidate only; no modelling or silent exclusions,False
+AUS,Australia,1,14658,275381.9803,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+AUS,Australia,1,14658,275381.9803,four_AI_valid,13463,254255.9111,92.32844895,True,candidate only; no modelling or silent exclusions,False
+AUS,Australia,1,14658,275381.9803,four_AI_and_critical_valid,12870,243313.754,88.35500194,True,candidate only; no modelling or silent exclusions,False
+AUT,Austria,1,6987,70075.09491,CBA_standard_intended_candidate,6974,69741.29283,99.5236509,True,candidate only; no modelling or silent exclusions,False
+AUT,Austria,1,6987,70075.09491,ST438_observed_admin_candidate,6929,69284.43946,98.87170263,True,candidate only; no modelling or silent exclusions,False
+AUT,Austria,1,6987,70075.09491,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+AUT,Austria,1,6987,70075.09491,four_AI_valid,6369,63333.88348,90.38001812,True,candidate only; no modelling or silent exclusions,False
+AUT,Austria,1,6987,70075.09491,four_AI_and_critical_valid,6048,60149.84212,85.83626208,True,candidate only; no modelling or silent exclusions,False
+AZE,Azerbaijan,0,7432,118322.8205,CBA_standard_intended_candidate,7432,118322.8205,100,True,candidate only; no modelling or silent exclusions,False
+AZE,Azerbaijan,0,7432,118322.8205,ST438_observed_admin_candidate,7421,118123.5184,99.83156066,True,candidate only; no modelling or silent exclusions,False
+AZE,Azerbaijan,0,7432,118322.8205,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+AZE,Azerbaijan,0,7432,118322.8205,four_AI_valid,5649,88992.17947,75.21134052,True,candidate only; no modelling or silent exclusions,False
+AZE,Azerbaijan,0,7432,118322.8205,four_AI_and_critical_valid,4075,63596.20023,53.7480428,False,candidate only; no modelling or silent exclusions,False
+BEL,Belgium,1,7456,127049.7603,CBA_standard_intended_candidate,7282,122374.6195,96.32022855,True,candidate only; no modelling or silent exclusions,False
+BEL,Belgium,1,7456,127049.7603,ST438_observed_admin_candidate,7210,121170.4087,95.3724024,True,candidate only; no modelling or silent exclusions,False
+BEL,Belgium,1,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+BEL,Belgium,1,7456,127049.7603,four_AI_valid,6428,107244.6448,84.41152863,True,candidate only; no modelling or silent exclusions,False
+BEL,Belgium,1,7456,127049.7603,four_AI_and_critical_valid,5959,99216.54041,78.09266239,True,candidate only; no modelling or silent exclusions,False
+BGR,Bulgaria,0,6830,58224.10099,CBA_standard_intended_candidate,6830,58224.10099,100,True,candidate only; no modelling or silent exclusions,False
+BGR,Bulgaria,0,6830,58224.10099,ST438_observed_admin_candidate,6784,57810.66353,99.2899204,True,candidate only; no modelling or silent exclusions,False
+BGR,Bulgaria,0,6830,58224.10099,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+BGR,Bulgaria,0,6830,58224.10099,four_AI_valid,4778,40273.59204,69.16996803,False,candidate only; no modelling or silent exclusions,False
+BGR,Bulgaria,0,6830,58224.10099,four_AI_and_critical_valid,3804,31896.99774,54.78315198,False,candidate only; no modelling or silent exclusions,False
+BRA,Brazil,0,30140,2184649.902,CBA_standard_intended_candidate,29816,2159866.463,98.86556475,True,candidate only; no modelling or silent exclusions,False
+BRA,Brazil,0,30140,2184649.902,ST438_observed_admin_candidate,29695,2154592.409,98.62415061,True,candidate only; no modelling or silent exclusions,False
+BRA,Brazil,0,30140,2184649.902,ST438_unknown_admin,29,643.5528108,0.02945793787,False,candidate only; no modelling or silent exclusions,False
+BRA,Brazil,0,30140,2184649.902,four_AI_valid,23462,1736882.249,79.5039172,True,candidate only; no modelling or silent exclusions,False
+BRA,Brazil,0,30140,2184649.902,four_AI_and_critical_valid,18741,1413841.539,64.71707609,False,candidate only; no modelling or silent exclusions,False
+BRN,Brunei Darussalam,0,5730,5864.982456,CBA_standard_intended_candidate,5730,5864.982456,100,True,candidate only; no modelling or silent exclusions,False
+BRN,Brunei Darussalam,0,5730,5864.982456,ST438_observed_admin_candidate,5565,5697.316292,97.14123333,True,candidate only; no modelling or silent exclusions,False
+BRN,Brunei Darussalam,0,5730,5864.982456,ST438_unknown_admin,84,85.26633166,1.453820745,False,candidate only; no modelling or silent exclusions,False
+BRN,Brunei Darussalam,0,5730,5864.982456,four_AI_valid,5242,5366.626019,91.50284863,True,candidate only; no modelling or silent exclusions,False
+BRN,Brunei Darussalam,0,5730,5864.982456,four_AI_and_critical_valid,4826,4940.38753,84.23533346,True,candidate only; no modelling or silent exclusions,False
+CAN,Canada,1,24601,389375.7236,CBA_standard_intended_candidate,23394,369012.7009,94.77034097,True,candidate only; no modelling or silent exclusions,False
+CAN,Canada,1,24601,389375.7236,ST438_observed_admin_candidate,22579,355909.92,91.40526705,True,candidate only; no modelling or silent exclusions,False
+CAN,Canada,1,24601,389375.7236,ST438_unknown_admin,38,829.5184873,0.2130380599,False,candidate only; no modelling or silent exclusions,False
+CAN,Canada,1,24601,389375.7236,four_AI_valid,18818,295903.0503,75.99422163,True,candidate only; no modelling or silent exclusions,False
+CAN,Canada,1,24601,389375.7236,four_AI_and_critical_valid,16798,264411.1384,67.9064262,False,candidate only; no modelling or silent exclusions,False
+CHE,Switzerland,1,7597,76899.85443,CBA_standard_intended_candidate,7597,76899.85443,100,True,candidate only; no modelling or silent exclusions,False
+CHE,Switzerland,1,7597,76899.85443,ST438_observed_admin_candidate,7509,76087.8321,98.94405219,True,candidate only; no modelling or silent exclusions,False
+CHE,Switzerland,1,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+CHE,Switzerland,1,7597,76899.85443,four_AI_valid,6385,64393.70489,83.73709594,True,candidate only; no modelling or silent exclusions,False
+CHE,Switzerland,1,7597,76899.85443,four_AI_and_critical_valid,5880,59157.3516,76.92778099,True,candidate only; no modelling or silent exclusions,False
+CHL,Chile,1,6573,248109.749,CBA_standard_intended_candidate,5993,225506.5767,90.88984919,True,candidate only; no modelling or silent exclusions,False
+CHL,Chile,1,6573,248109.749,ST438_observed_admin_candidate,5632,211031.6093,85.0557506,True,candidate only; no modelling or silent exclusions,False
+CHL,Chile,1,6573,248109.749,ST438_unknown_admin,25,1090.323784,0.4394522134,False,candidate only; no modelling or silent exclusions,False
+CHL,Chile,1,6573,248109.749,four_AI_valid,5050,187226.7743,75.46127272,True,candidate only; no modelling or silent exclusions,False
+CHL,Chile,1,6573,248109.749,four_AI_and_critical_valid,4596,169348.9775,68.25567242,False,candidate only; no modelling or silent exclusions,False
+COL,Colombia,1,7268,597452.1585,CBA_standard_intended_candidate,7268,597452.1585,100,True,candidate only; no modelling or silent exclusions,False
+COL,Colombia,1,7268,597452.1585,ST438_observed_admin_candidate,7175,589928.7269,98.74074743,True,candidate only; no modelling or silent exclusions,False
+COL,Colombia,1,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+COL,Colombia,1,7268,597452.1585,four_AI_valid,6292,513360.0122,85.92487363,True,candidate only; no modelling or silent exclusions,False
+COL,Colombia,1,7268,597452.1585,four_AI_and_critical_valid,5427,436484.8265,73.05770349,False,candidate only; no modelling or silent exclusions,False
+CRI,Costa Rica,1,6881,54313.40721,CBA_standard_intended_candidate,6349,50006.7314,92.07069483,True,candidate only; no modelling or silent exclusions,False
+CRI,Costa Rica,1,6881,54313.40721,ST438_observed_admin_candidate,6314,49728.46125,91.55835327,True,candidate only; no modelling or silent exclusions,False
+CRI,Costa Rica,1,6881,54313.40721,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+CRI,Costa Rica,1,6881,54313.40721,four_AI_valid,5722,45072.50445,82.9859638,True,candidate only; no modelling or silent exclusions,False
+CRI,Costa Rica,1,6881,54313.40721,four_AI_and_critical_valid,4900,38681.40762,71.21889348,False,candidate only; no modelling or silent exclusions,False
+CZE,Czechia,1,8462,113055.9998,CBA_standard_intended_candidate,8372,111203.0587,98.36104131,True,candidate only; no modelling or silent exclusions,False
+CZE,Czechia,1,8462,113055.9998,ST438_observed_admin_candidate,8223,109272.0838,96.65306037,True,candidate only; no modelling or silent exclusions,False
+CZE,Czechia,1,8462,113055.9998,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+CZE,Czechia,1,8462,113055.9998,four_AI_valid,7545,99891.3766,88.35566157,True,candidate only; no modelling or silent exclusions,False
+CZE,Czechia,1,8462,113055.9998,four_AI_and_critical_valid,7199,94894.68258,83.93599873,True,candidate only; no modelling or silent exclusions,False
+DEU,Germany,1,6659,717880.2912,CBA_standard_intended_candidate,6531,702062.7346,97.79663033,True,candidate only; no modelling or silent exclusions,False
+DEU,Germany,1,6659,717880.2912,ST438_observed_admin_candidate,5950,637385.5744,88.78716719,True,candidate only; no modelling or silent exclusions,False
+DEU,Germany,1,6659,717880.2912,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+DEU,Germany,1,6659,717880.2912,four_AI_valid,5351,569432.4585,79.32136673,True,candidate only; no modelling or silent exclusions,False
+DEU,Germany,1,6659,717880.2912,four_AI_and_critical_valid,5035,534643.3562,74.4752799,False,candidate only; no modelling or silent exclusions,False
+DNK,Denmark,1,5098,56465.96988,CBA_standard_intended_candidate,4538,51175.21915,90.63019595,True,candidate only; no modelling or silent exclusions,False
+DNK,Denmark,1,5098,56465.96988,ST438_observed_admin_candidate,4422,50006.77953,88.5609149,True,candidate only; no modelling or silent exclusions,False
+DNK,Denmark,1,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+DNK,Denmark,1,5098,56465.96988,four_AI_valid,3973,45525.91797,80.62540689,True,candidate only; no modelling or silent exclusions,False
+DNK,Denmark,1,5098,56465.96988,four_AI_and_critical_valid,3662,42375.34171,75.04580511,True,candidate only; no modelling or silent exclusions,False
+DOM,Dominican Republic,0,7080,127852.2364,CBA_standard_intended_candidate,7080,127852.2364,100,True,candidate only; no modelling or silent exclusions,False
+DOM,Dominican Republic,0,7080,127852.2364,ST438_observed_admin_candidate,6878,124466.937,97.35217822,True,candidate only; no modelling or silent exclusions,False
+DOM,Dominican Republic,0,7080,127852.2364,ST438_unknown_admin,99,1714.934873,1.341341318,False,candidate only; no modelling or silent exclusions,False
+DOM,Dominican Republic,0,7080,127852.2364,four_AI_valid,5143,92135.01204,72.06366868,False,candidate only; no modelling or silent exclusions,False
+DOM,Dominican Republic,0,7080,127852.2364,four_AI_and_critical_valid,4271,76222.46897,59.61762666,False,candidate only; no modelling or silent exclusions,False
+ECU,Ecuador,0,9128,267923.776,CBA_standard_intended_candidate,9128,267923.776,100,True,candidate only; no modelling or silent exclusions,False
+ECU,Ecuador,0,9128,267923.776,ST438_observed_admin_candidate,9038,264327.2199,98.65761966,True,candidate only; no modelling or silent exclusions,False
+ECU,Ecuador,0,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+ECU,Ecuador,0,9128,267923.776,four_AI_valid,8356,241701.493,90.2127824,True,candidate only; no modelling or silent exclusions,False
+ECU,Ecuador,0,9128,267923.776,four_AI_and_critical_valid,7142,202939.937,75.74540043,True,candidate only; no modelling or silent exclusions,False
+ESP,Spain,1,29966,459747.2438,CBA_standard_intended_candidate,29966,459747.2438,100,True,candidate only; no modelling or silent exclusions,False
+ESP,Spain,1,29966,459747.2438,ST438_observed_admin_candidate,29836,458367.918,99.69998172,True,candidate only; no modelling or silent exclusions,False
+ESP,Spain,1,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+ESP,Spain,1,29966,459747.2438,four_AI_valid,26242,406274.8245,88.36917024,True,candidate only; no modelling or silent exclusions,False
+ESP,Spain,1,29966,459747.2438,four_AI_and_critical_valid,24305,375459.2851,81.66645699,True,candidate only; no modelling or silent exclusions,False
+EST,Estonia,1,6304,14582.39046,CBA_standard_intended_candidate,6304,14582.39046,100,True,candidate only; no modelling or silent exclusions,False
+EST,Estonia,1,6304,14582.39046,ST438_observed_admin_candidate,6272,14504.18954,99.46373044,True,candidate only; no modelling or silent exclusions,False
+EST,Estonia,1,6304,14582.39046,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+EST,Estonia,1,6304,14582.39046,four_AI_valid,6047,13984.70616,95.90132833,True,candidate only; no modelling or silent exclusions,False
+EST,Estonia,1,6304,14582.39046,four_AI_and_critical_valid,5855,13554.54808,92.9514822,True,candidate only; no modelling or silent exclusions,False
+FIN,Finland,1,7668,59891.23278,CBA_standard_intended_candidate,7668,59891.23278,100,True,candidate only; no modelling or silent exclusions,False
+FIN,Finland,1,7668,59891.23278,ST438_observed_admin_candidate,7540,58899.95393,98.34486818,True,candidate only; no modelling or silent exclusions,False
+FIN,Finland,1,7668,59891.23278,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+FIN,Finland,1,7668,59891.23278,four_AI_valid,6868,53582.26576,89.46595899,True,candidate only; no modelling or silent exclusions,False
+FIN,Finland,1,7668,59891.23278,four_AI_and_critical_valid,6361,49492.95335,82.63806078,True,candidate only; no modelling or silent exclusions,False
+FRA,France,1,6501,768249.3201,CBA_standard_intended_candidate,6501,768249.3201,100,True,candidate only; no modelling or silent exclusions,False
+FRA,France,1,6501,768249.3201,ST438_observed_admin_candidate,6391,758225.997,98.69530337,True,candidate only; no modelling or silent exclusions,False
+FRA,France,1,6501,768249.3201,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+FRA,France,1,6501,768249.3201,four_AI_valid,5138,609381.4957,79.32079857,True,candidate only; no modelling or silent exclusions,False
+FRA,France,1,6501,768249.3201,four_AI_and_critical_valid,4403,522046.7018,67.95277108,False,candidate only; no modelling or silent exclusions,False
+GBR,United Kingdom,1,15546,704602.8138,CBA_standard_intended_candidate,15546,704602.8138,100,True,candidate only; no modelling or silent exclusions,False
+GBR,United Kingdom,1,15546,704602.8138,ST438_observed_admin_candidate,14962,670132.7101,95.10786744,True,candidate only; no modelling or silent exclusions,False
+GBR,United Kingdom,1,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+GBR,United Kingdom,1,15546,704602.8138,four_AI_valid,13422,604768.9858,85.83119085,True,candidate only; no modelling or silent exclusions,False
+GBR,United Kingdom,1,15546,704602.8138,four_AI_and_critical_valid,12307,558224.5332,79.22541924,True,candidate only; no modelling or silent exclusions,False
+GEO,Georgia,0,6855,53880.17033,CBA_standard_intended_candidate,6855,53880.17033,100,True,candidate only; no modelling or silent exclusions,False
+GEO,Georgia,0,6855,53880.17033,ST438_observed_admin_candidate,6826,53649.98558,99.57278391,True,candidate only; no modelling or silent exclusions,False
+GEO,Georgia,0,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+GEO,Georgia,0,6855,53880.17033,four_AI_valid,5141,40781.92238,75.69003982,True,candidate only; no modelling or silent exclusions,False
+GEO,Georgia,0,6855,53880.17033,four_AI_and_critical_valid,3789,30180.88604,56.01483041,False,candidate only; no modelling or silent exclusions,False
+GRC,Greece,1,6858,101833.8451,CBA_standard_intended_candidate,6858,101833.8451,100,True,candidate only; no modelling or silent exclusions,False
+GRC,Greece,1,6858,101833.8451,ST438_observed_admin_candidate,6831,101396.8076,99.57083273,True,candidate only; no modelling or silent exclusions,False
+GRC,Greece,1,6858,101833.8451,ST438_unknown_admin,11,131.7894712,0.129416179,False,candidate only; no modelling or silent exclusions,False
+GRC,Greece,1,6858,101833.8451,four_AI_valid,6248,91890.70561,90.23591863,True,candidate only; no modelling or silent exclusions,False
+GRC,Greece,1,6858,101833.8451,four_AI_and_critical_valid,5565,81312.52609,79.84823318,True,candidate only; no modelling or silent exclusions,False
+GTM,Guatemala,0,7014,193512.0552,CBA_standard_intended_candidate,7014,193512.0552,100,True,candidate only; no modelling or silent exclusions,False
+GTM,Guatemala,0,7014,193512.0552,ST438_observed_admin_candidate,6973,192215.4666,99.32997014,True,candidate only; no modelling or silent exclusions,False
+GTM,Guatemala,0,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+GTM,Guatemala,0,7014,193512.0552,four_AI_valid,5097,140189.1856,72.4446782,False,candidate only; no modelling or silent exclusions,False
+GTM,Guatemala,0,7014,193512.0552,four_AI_and_critical_valid,3723,102590.3656,53.01497393,False,candidate only; no modelling or silent exclusions,False
+HKG,Hong Kong (China),0,6445,49834.94306,CBA_standard_intended_candidate,6445,49834.94306,100,True,candidate only; no modelling or silent exclusions,False
+HKG,Hong Kong (China),0,6445,49834.94306,ST438_observed_admin_candidate,6418,49642.72343,99.61428743,True,candidate only; no modelling or silent exclusions,False
+HKG,Hong Kong (China),0,6445,49834.94306,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+HKG,Hong Kong (China),0,6445,49834.94306,four_AI_valid,6209,47988.20521,96.29429124,True,candidate only; no modelling or silent exclusions,False
+HKG,Hong Kong (China),0,6445,49834.94306,four_AI_and_critical_valid,5955,46028.5774,92.36205476,True,candidate only; no modelling or silent exclusions,False
+HRV,Croatia,0,6424,37146.03715,CBA_standard_intended_candidate,6424,37146.03715,100,True,candidate only; no modelling or silent exclusions,False
+HRV,Croatia,0,6424,37146.03715,ST438_observed_admin_candidate,6369,36795.72462,99.05693163,True,candidate only; no modelling or silent exclusions,False
+HRV,Croatia,0,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+HRV,Croatia,0,6424,37146.03715,four_AI_valid,5697,32982.85268,88.79238597,True,candidate only; no modelling or silent exclusions,False
+HRV,Croatia,0,6424,37146.03715,four_AI_and_critical_valid,5095,29544.63142,79.53642889,True,candidate only; no modelling or silent exclusions,False
+HUN,Hungary,1,6387,86042.03755,CBA_standard_intended_candidate,6387,86042.03755,100,True,candidate only; no modelling or silent exclusions,False
+HUN,Hungary,1,6387,86042.03755,ST438_observed_admin_candidate,6315,85062.90582,98.86203099,True,candidate only; no modelling or silent exclusions,False
+HUN,Hungary,1,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+HUN,Hungary,1,6387,86042.03755,four_AI_valid,6044,81134.25369,94.29606271,True,candidate only; no modelling or silent exclusions,False
+HUN,Hungary,1,6387,86042.03755,four_AI_and_critical_valid,5766,77264.35592,89.79838009,True,candidate only; no modelling or silent exclusions,False
+IDN,Indonesia,0,14168,3995221.933,CBA_standard_intended_candidate,14168,3995221.933,100,True,candidate only; no modelling or silent exclusions,False
+IDN,Indonesia,0,14168,3995221.933,ST438_observed_admin_candidate,14110,3983498.08,99.70655315,True,candidate only; no modelling or silent exclusions,False
+IDN,Indonesia,0,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+IDN,Indonesia,0,14168,3995221.933,four_AI_valid,13314,3712958.194,92.93496723,True,candidate only; no modelling or silent exclusions,False
+IDN,Indonesia,0,14168,3995221.933,four_AI_and_critical_valid,11220,3003157.216,75.1687207,True,candidate only; no modelling or silent exclusions,False
+IRL,Ireland,1,6356,74150.16745,CBA_standard_intended_candidate,6356,74150.16745,100,True,candidate only; no modelling or silent exclusions,False
+IRL,Ireland,1,6356,74150.16745,ST438_observed_admin_candidate,6309,73578.14055,99.22855615,True,candidate only; no modelling or silent exclusions,False
+IRL,Ireland,1,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+IRL,Ireland,1,6356,74150.16745,four_AI_valid,5985,69791.20408,94.12143827,True,candidate only; no modelling or silent exclusions,False
+IRL,Ireland,1,6356,74150.16745,four_AI_and_critical_valid,5545,64688.25871,87.23953152,True,candidate only; no modelling or silent exclusions,False
+ISL,Iceland,1,3974,4805.621546,CBA_standard_intended_candidate,3854,4662.103013,97.01352819,True,candidate only; no modelling or silent exclusions,False
+ISL,Iceland,1,3974,4805.621546,ST438_observed_admin_candidate,3789,4582.774826,95.36279089,True,candidate only; no modelling or silent exclusions,False
+ISL,Iceland,1,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+ISL,Iceland,1,3974,4805.621546,four_AI_valid,3211,3880.709818,80.75354626,True,candidate only; no modelling or silent exclusions,False
+ISL,Iceland,1,3974,4805.621546,four_AI_and_critical_valid,2937,3546.43248,73.79758157,False,candidate only; no modelling or silent exclusions,False
+ISR,Israel,1,7330,141264.1908,CBA_standard_intended_candidate,6372,119248.3292,84.41511511,True,candidate only; no modelling or silent exclusions,False
+ISR,Israel,1,7330,141264.1908,ST438_observed_admin_candidate,5981,111859.8051,79.18482703,True,candidate only; no modelling or silent exclusions,False
+ISR,Israel,1,7330,141264.1908,ST438_unknown_admin,31,491.3999891,0.3478588498,False,candidate only; no modelling or silent exclusions,False
+ISR,Israel,1,7330,141264.1908,four_AI_valid,4263,78893.62958,55.84828621,False,candidate only; no modelling or silent exclusions,False
+ISR,Israel,1,7330,141264.1908,four_AI_and_critical_valid,3646,67209.20772,47.57696013,False,candidate only; no modelling or silent exclusions,False
+ITA,Italy,1,8946,507002.5021,CBA_standard_intended_candidate,8946,507002.5021,100,True,candidate only; no modelling or silent exclusions,False
+ITA,Italy,1,8946,507002.5021,ST438_observed_admin_candidate,8936,506614.7292,99.92351658,True,candidate only; no modelling or silent exclusions,False
+ITA,Italy,1,8946,507002.5021,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+ITA,Italy,1,8946,507002.5021,four_AI_valid,8474,480016.3795,94.67731964,True,candidate only; no modelling or silent exclusions,False
+ITA,Italy,1,8946,507002.5021,four_AI_and_critical_valid,7862,442397.9608,87.25754982,True,candidate only; no modelling or silent exclusions,False
+JOR,Jordan,0,8290,153822.9325,CBA_standard_intended_candidate,8290,153822.9325,100,True,candidate only; no modelling or silent exclusions,False
+JOR,Jordan,0,8290,153822.9325,ST438_observed_admin_candidate,8289,153803.9123,99.98763501,True,candidate only; no modelling or silent exclusions,False
+JOR,Jordan,0,8290,153822.9325,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+JOR,Jordan,0,8290,153822.9325,four_AI_valid,6845,126353.637,82.14226246,True,candidate only; no modelling or silent exclusions,False
+JOR,Jordan,0,8290,153822.9325,four_AI_and_critical_valid,4198,75583.90612,49.13695564,False,candidate only; no modelling or silent exclusions,False
+JPN,Japan,1,6554,951150.6306,CBA_standard_intended_candidate,6554,951150.6306,100,True,candidate only; no modelling or silent exclusions,False
+JPN,Japan,1,6554,951150.6306,ST438_observed_admin_candidate,6482,940752.9035,98.90682645,True,candidate only; no modelling or silent exclusions,False
+JPN,Japan,1,6554,951150.6306,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+JPN,Japan,1,6554,951150.6306,four_AI_valid,6267,909475.9041,95.61849352,True,candidate only; no modelling or silent exclusions,False
+JPN,Japan,1,6554,951150.6306,four_AI_and_critical_valid,5988,868901.4933,91.35266963,True,candidate only; no modelling or silent exclusions,False
+KAZ,Kazakhstan,0,22680,324605.6073,CBA_standard_intended_candidate,22680,324605.6073,100,True,candidate only; no modelling or silent exclusions,False
+KAZ,Kazakhstan,0,22680,324605.6073,ST438_observed_admin_candidate,22634,323405.5365,99.6302988,True,candidate only; no modelling or silent exclusions,False
+KAZ,Kazakhstan,0,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+KAZ,Kazakhstan,0,22680,324605.6073,four_AI_valid,20582,290917.516,89.62183939,True,candidate only; no modelling or silent exclusions,False
+KAZ,Kazakhstan,0,22680,324605.6073,four_AI_and_critical_valid,17841,247643.1293,76.29046564,True,candidate only; no modelling or silent exclusions,False
+KEN,Kenya,0,6459,1098702.325,CBA_standard_intended_candidate,6459,1098702.325,100,True,candidate only; no modelling or silent exclusions,False
+KEN,Kenya,0,6459,1098702.325,ST438_observed_admin_candidate,6199,1054543.569,95.98082613,True,candidate only; no modelling or silent exclusions,False
+KEN,Kenya,0,6459,1098702.325,ST438_unknown_admin,189,29082.05261,2.646945578,False,candidate only; no modelling or silent exclusions,False
+KEN,Kenya,0,6459,1098702.325,four_AI_valid,4736,804766.172,73.24697085,False,candidate only; no modelling or silent exclusions,False
+KEN,Kenya,0,6459,1098702.325,four_AI_and_critical_valid,3126,527191.2624,47.98308425,False,candidate only; no modelling or silent exclusions,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,CBA_standard_intended_candidate,6645,98869.84925,100,True,candidate only; no modelling or silent exclusions,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,ST438_observed_admin_candidate,6640,98792.97039,99.92224236,True,candidate only; no modelling or silent exclusions,False
+KGZ,Kyrgyzstan,0,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+KGZ,Kyrgyzstan,0,6645,98869.84925,four_AI_valid,5442,80949.6546,81.87496514,True,candidate only; no modelling or silent exclusions,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,four_AI_and_critical_valid,4499,67035.192,67.80145061,False,candidate only; no modelling or silent exclusions,False
+KHM,Cambodia,0,5464,136848.9736,CBA_standard_intended_candidate,0,0,0,False,candidate only; no modelling or silent exclusions,False
+KHM,Cambodia,0,5464,136848.9736,ST438_observed_admin_candidate,0,0,0,False,candidate only; no modelling or silent exclusions,False
+KHM,Cambodia,0,5464,136848.9736,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+KHM,Cambodia,0,5464,136848.9736,four_AI_valid,0,0,0,False,candidate only; no modelling or silent exclusions,False
+KHM,Cambodia,0,5464,136848.9736,four_AI_and_critical_valid,0,0,0,False,candidate only; no modelling or silent exclusions,False
+KOR,Korea,1,6859,418075.5649,CBA_standard_intended_candidate,6859,418075.5649,100,True,candidate only; no modelling or silent exclusions,False
+KOR,Korea,1,6859,418075.5649,ST438_observed_admin_candidate,6835,416652.5513,99.65962764,True,candidate only; no modelling or silent exclusions,False
+KOR,Korea,1,6859,418075.5649,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+KOR,Korea,1,6859,418075.5649,four_AI_valid,6689,406764.6622,97.29453149,True,candidate only; no modelling or silent exclusions,False
+KOR,Korea,1,6859,418075.5649,four_AI_and_critical_valid,6594,400394.923,95.77094588,True,candidate only; no modelling or silent exclusions,False
+KSV,Kosovo,0,6632,19883.91593,CBA_standard_intended_candidate,6632,19883.91593,100,True,candidate only; no modelling or silent exclusions,False
+KSV,Kosovo,0,6632,19883.91593,ST438_observed_admin_candidate,6585,19718.52454,99.16821521,True,candidate only; no modelling or silent exclusions,False
+KSV,Kosovo,0,6632,19883.91593,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+KSV,Kosovo,0,6632,19883.91593,four_AI_valid,4568,13793.02493,69.36774915,False,candidate only; no modelling or silent exclusions,False
+KSV,Kosovo,0,6632,19883.91593,four_AI_and_critical_valid,3325,9955.729449,50.06925941,False,candidate only; no modelling or silent exclusions,False
+LBN,Lebanon,0,7382,56706.55227,CBA_standard_intended_candidate,7382,56706.55227,100,True,candidate only; no modelling or silent exclusions,False
+LBN,Lebanon,0,7382,56706.55227,ST438_observed_admin_candidate,7330,56271.85494,99.23342663,True,candidate only; no modelling or silent exclusions,False
+LBN,Lebanon,0,7382,56706.55227,ST438_unknown_admin,17,131.9187082,0.2326339778,False,candidate only; no modelling or silent exclusions,False
+LBN,Lebanon,0,7382,56706.55227,four_AI_valid,3608,28293.79053,49.89509924,False,candidate only; no modelling or silent exclusions,False
+LBN,Lebanon,0,7382,56706.55227,four_AI_and_critical_valid,2107,16285.89491,28.71959987,False,candidate only; no modelling or silent exclusions,False
+LTU,Lithuania,1,7718,28734.60046,CBA_standard_intended_candidate,7718,28734.60046,100,True,candidate only; no modelling or silent exclusions,False
+LTU,Lithuania,1,7718,28734.60046,ST438_observed_admin_candidate,7581,28162.95239,98.01059328,True,candidate only; no modelling or silent exclusions,False
+LTU,Lithuania,1,7718,28734.60046,ST438_unknown_admin,11,36.65431249,0.1275615874,False,candidate only; no modelling or silent exclusions,False
+LTU,Lithuania,1,7718,28734.60046,four_AI_valid,6775,25415.41437,88.44881765,True,candidate only; no modelling or silent exclusions,False
+LTU,Lithuania,1,7718,28734.60046,four_AI_and_critical_valid,6207,23399.81918,81.43429455,True,candidate only; no modelling or silent exclusions,False
+LUX,Luxembourg,1,6078,6469,CBA_standard_intended_candidate,6078,6469,100,True,candidate only; no modelling or silent exclusions,False
+LUX,Luxembourg,1,6078,6469,ST438_observed_admin_candidate,6050,6438.599685,99.5300616,True,candidate only; no modelling or silent exclusions,False
+LUX,Luxembourg,1,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+LUX,Luxembourg,1,6078,6469,four_AI_valid,5201,5531.714559,85.51112319,True,candidate only; no modelling or silent exclusions,False
+LUX,Luxembourg,1,6078,6469,four_AI_and_critical_valid,4755,5056.123886,78.15928096,True,candidate only; no modelling or silent exclusions,False
+LVA,Latvia,1,6968,17681.24721,CBA_standard_intended_candidate,6968,17681.24721,100,True,candidate only; no modelling or silent exclusions,False
+LVA,Latvia,1,6968,17681.24721,ST438_observed_admin_candidate,6869,17431.55747,98.58782733,True,candidate only; no modelling or silent exclusions,False
+LVA,Latvia,1,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+LVA,Latvia,1,6968,17681.24721,four_AI_valid,6116,15598.439,88.22024154,True,candidate only; no modelling or silent exclusions,False
+LVA,Latvia,1,6968,17681.24721,four_AI_and_critical_valid,5731,14656.36109,82.89212247,True,candidate only; no modelling or silent exclusions,False
+MAC,Macao (China),0,4953,5026,CBA_standard_intended_candidate,4953,5026,100,True,candidate only; no modelling or silent exclusions,False
+MAC,Macao (China),0,4953,5026,ST438_observed_admin_candidate,4952,5025,99.98010346,True,candidate only; no modelling or silent exclusions,False
+MAC,Macao (China),0,4953,5026,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+MAC,Macao (China),0,4953,5026,four_AI_valid,4890,4961.871119,98.72405728,True,candidate only; no modelling or silent exclusions,False
+MAC,Macao (China),0,4953,5026,four_AI_and_critical_valid,4770,4840.264176,96.30450012,True,candidate only; no modelling or silent exclusions,False
+MAR,Morocco,0,6978,535788.9837,CBA_standard_intended_candidate,6978,535788.9837,100,True,candidate only; no modelling or silent exclusions,False
+MAR,Morocco,0,6978,535788.9837,ST438_observed_admin_candidate,6944,533621.7331,99.59550294,True,candidate only; no modelling or silent exclusions,False
+MAR,Morocco,0,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+MAR,Morocco,0,6978,535788.9837,four_AI_valid,5555,436088.3563,81.39181086,True,candidate only; no modelling or silent exclusions,False
+MAR,Morocco,0,6978,535788.9837,four_AI_and_critical_valid,4230,338592.6273,63.1951454,False,candidate only; no modelling or silent exclusions,False
+MDA,Moldova,0,6640,30420.65546,CBA_standard_intended_candidate,6640,30420.65546,100,True,candidate only; no modelling or silent exclusions,False
+MDA,Moldova,0,6640,30420.65546,ST438_observed_admin_candidate,6615,30308.51694,99.63137374,True,candidate only; no modelling or silent exclusions,False
+MDA,Moldova,0,6640,30420.65546,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+MDA,Moldova,0,6640,30420.65546,four_AI_valid,5790,26551.3198,87.28056447,True,candidate only; no modelling or silent exclusions,False
+MDA,Moldova,0,6640,30420.65546,four_AI_and_critical_valid,4828,22119.64867,72.71259721,False,candidate only; no modelling or silent exclusions,False
+MEX,Mexico,1,7843,1580936.696,CBA_standard_intended_candidate,7843,1580936.696,100,True,candidate only; no modelling or silent exclusions,False
+MEX,Mexico,1,7843,1580936.696,ST438_observed_admin_candidate,7809,1572055.63,99.43824028,True,candidate only; no modelling or silent exclusions,False
+MEX,Mexico,1,7843,1580936.696,ST438_unknown_admin,18,5319.824303,0.3364982492,False,candidate only; no modelling or silent exclusions,False
+MEX,Mexico,1,7843,1580936.696,four_AI_valid,7316,1460659.558,92.39203327,True,candidate only; no modelling or silent exclusions,False
+MEX,Mexico,1,7843,1580936.696,four_AI_and_critical_valid,6520,1300628.861,82.26950926,True,candidate only; no modelling or silent exclusions,False
+MKD,North Macedonia,0,6977,16657.03603,CBA_standard_intended_candidate,6977,16657.03603,100,True,candidate only; no modelling or silent exclusions,False
+MKD,North Macedonia,0,6977,16657.03603,ST438_observed_admin_candidate,6888,16455.33738,98.78910838,True,candidate only; no modelling or silent exclusions,False
+MKD,North Macedonia,0,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+MKD,North Macedonia,0,6977,16657.03603,four_AI_valid,4814,11664.492,70.02741652,False,candidate only; no modelling or silent exclusions,False
+MKD,North Macedonia,0,6977,16657.03603,four_AI_and_critical_valid,3827,9276.409005,55.6906342,False,candidate only; no modelling or silent exclusions,False
+MLT,Malta,0,3680,4341,CBA_standard_intended_candidate,3680,4341,100,True,candidate only; no modelling or silent exclusions,False
+MLT,Malta,0,3680,4341,ST438_observed_admin_candidate,3621,4271.62486,98.4018627,True,candidate only; no modelling or silent exclusions,False
+MLT,Malta,0,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+MLT,Malta,0,3680,4341,four_AI_valid,2945,3447.155255,79.40924337,True,candidate only; no modelling or silent exclusions,False
+MLT,Malta,0,3680,4341,four_AI_and_critical_valid,2630,3074.560902,70.82609772,False,candidate only; no modelling or silent exclusions,False
+MNE,Montenegro,0,6436,7349.341507,CBA_standard_intended_candidate,6436,7349.341507,100,True,candidate only; no modelling or silent exclusions,False
+MNE,Montenegro,0,6436,7349.341507,ST438_observed_admin_candidate,6421,7333.746182,99.78779969,True,candidate only; no modelling or silent exclusions,False
+MNE,Montenegro,0,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+MNE,Montenegro,0,6436,7349.341507,four_AI_valid,5400,6163.147735,83.85986322,True,candidate only; no modelling or silent exclusions,False
+MNE,Montenegro,0,6436,7349.341507,four_AI_and_critical_valid,4422,5070.879096,68.9977339,False,candidate only; no modelling or silent exclusions,False
+MNG,Mongolia,0,7146,59870.69313,CBA_standard_intended_candidate,7146,59870.69313,100,True,candidate only; no modelling or silent exclusions,False
+MNG,Mongolia,0,7146,59870.69313,ST438_observed_admin_candidate,7144,59853.74606,99.97169388,True,candidate only; no modelling or silent exclusions,False
+MNG,Mongolia,0,7146,59870.69313,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+MNG,Mongolia,0,7146,59870.69313,four_AI_valid,6892,57666.85002,96.31899516,True,candidate only; no modelling or silent exclusions,False
+MNG,Mongolia,0,7146,59870.69313,four_AI_and_critical_valid,6132,51145.30289,85.42627489,True,candidate only; no modelling or silent exclusions,False
+MUS,Mauritius,0,5360,11663.45915,CBA_standard_intended_candidate,0,0,0,False,candidate only; no modelling or silent exclusions,False
+MUS,Mauritius,0,5360,11663.45915,ST438_observed_admin_candidate,0,0,0,False,candidate only; no modelling or silent exclusions,False
+MUS,Mauritius,0,5360,11663.45915,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+MUS,Mauritius,0,5360,11663.45915,four_AI_valid,0,0,0,False,candidate only; no modelling or silent exclusions,False
+MUS,Mauritius,0,5360,11663.45915,four_AI_and_critical_valid,0,0,0,False,candidate only; no modelling or silent exclusions,False
+MYS,Malaysia,0,7624,413411.0618,CBA_standard_intended_candidate,7624,413411.0618,100,True,candidate only; no modelling or silent exclusions,False
+MYS,Malaysia,0,7624,413411.0618,ST438_observed_admin_candidate,7619,413134.1214,99.9330109,True,candidate only; no modelling or silent exclusions,False
+MYS,Malaysia,0,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+MYS,Malaysia,0,7624,413411.0618,four_AI_valid,7441,403449.8186,97.59047492,True,candidate only; no modelling or silent exclusions,False
+MYS,Malaysia,0,7624,413411.0618,four_AI_and_critical_valid,7103,384900.2865,93.10352868,True,candidate only; no modelling or silent exclusions,False
+NLD,Netherlands,1,6636,165897.4833,CBA_standard_intended_candidate,6320,156428.1402,94.29205139,True,candidate only; no modelling or silent exclusions,False
+NLD,Netherlands,1,6636,165897.4833,ST438_observed_admin_candidate,6122,152169.0935,91.72477508,True,candidate only; no modelling or silent exclusions,False
+NLD,Netherlands,1,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+NLD,Netherlands,1,6636,165897.4833,four_AI_valid,5656,140844.1295,84.8982918,True,candidate only; no modelling or silent exclusions,False
+NLD,Netherlands,1,6636,165897.4833,four_AI_and_critical_valid,5292,131789.1946,79.44014095,True,candidate only; no modelling or silent exclusions,False
+NOR,Norway,1,6469,61734.44823,CBA_standard_intended_candidate,6469,61734.44823,100,True,candidate only; no modelling or silent exclusions,False
+NOR,Norway,1,6469,61734.44823,ST438_observed_admin_candidate,6231,59367.99636,96.16672386,True,candidate only; no modelling or silent exclusions,False
+NOR,Norway,1,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+NOR,Norway,1,6469,61734.44823,four_AI_valid,5353,50889.18819,82.43240144,True,candidate only; no modelling or silent exclusions,False
+NOR,Norway,1,6469,61734.44823,four_AI_and_critical_valid,4850,46044.00322,74.58397142,False,candidate only; no modelling or silent exclusions,False
+NZL,New Zealand,1,5004,61187.14014,CBA_standard_intended_candidate,4912,60153.85895,98.31127719,True,candidate only; no modelling or silent exclusions,False
+NZL,New Zealand,1,5004,61187.14014,ST438_observed_admin_candidate,4795,58544.20135,95.68056493,True,candidate only; no modelling or silent exclusions,False
+NZL,New Zealand,1,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+NZL,New Zealand,1,5004,61187.14014,four_AI_valid,4250,51719.37883,84.52655037,True,candidate only; no modelling or silent exclusions,False
+NZL,New Zealand,1,5004,61187.14014,four_AI_and_critical_valid,3902,47357.58046,77.39793093,True,candidate only; no modelling or silent exclusions,False
+PER,Peru,0,6991,519745.1024,CBA_standard_intended_candidate,6991,519745.1024,100,True,candidate only; no modelling or silent exclusions,False
+PER,Peru,0,6991,519745.1024,ST438_observed_admin_candidate,6545,485282.8969,93.36940254,True,candidate only; no modelling or silent exclusions,False
+PER,Peru,0,6991,519745.1024,ST438_unknown_admin,419,33045.73645,6.358065962,False,candidate only; no modelling or silent exclusions,False
+PER,Peru,0,6991,519745.1024,four_AI_valid,5801,428581.7911,82.45999608,True,candidate only; no modelling or silent exclusions,False
+PER,Peru,0,6991,519745.1024,four_AI_and_critical_valid,4726,348203.5004,66.99505176,False,candidate only; no modelling or silent exclusions,False
+PHL,Philippines,0,8072,1749989.475,CBA_standard_intended_candidate,8072,1749989.475,100,True,candidate only; no modelling or silent exclusions,False
+PHL,Philippines,0,8072,1749989.475,ST438_observed_admin_candidate,8072,1749989.475,100,True,candidate only; no modelling or silent exclusions,False
+PHL,Philippines,0,8072,1749989.475,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+PHL,Philippines,0,8072,1749989.475,four_AI_valid,7738,1669045.828,95.37462097,True,candidate only; no modelling or silent exclusions,False
+PHL,Philippines,0,8072,1749989.475,four_AI_and_critical_valid,6858,1459369.813,83.39306231,True,candidate only; no modelling or silent exclusions,False
+POL,Poland,1,7103,384668.4152,CBA_standard_intended_candidate,7103,384668.4152,100,True,candidate only; no modelling or silent exclusions,False
+POL,Poland,1,7103,384668.4152,ST438_observed_admin_candidate,7048,381765.2438,99.24527949,True,candidate only; no modelling or silent exclusions,False
+POL,Poland,1,7103,384668.4152,ST438_unknown_admin,17,783.3351423,0.2036390594,False,candidate only; no modelling or silent exclusions,False
+POL,Poland,1,7103,384668.4152,four_AI_valid,6417,346599.1294,90.10335025,True,candidate only; no modelling or silent exclusions,False
+POL,Poland,1,7103,384668.4152,four_AI_and_critical_valid,5933,319719.487,83.11560667,True,candidate only; no modelling or silent exclusions,False
+PRT,Portugal,1,6945,97370.91653,CBA_standard_intended_candidate,6945,97370.91653,100,True,candidate only; no modelling or silent exclusions,False
+PRT,Portugal,1,6945,97370.91653,ST438_observed_admin_candidate,6854,96050.21082,98.6436343,True,candidate only; no modelling or silent exclusions,False
+PRT,Portugal,1,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+PRT,Portugal,1,6945,97370.91653,four_AI_valid,6346,88603.82282,90.99618857,True,candidate only; no modelling or silent exclusions,False
+PRT,Portugal,1,6945,97370.91653,four_AI_and_critical_valid,5784,80463.38209,82.6359502,True,candidate only; no modelling or silent exclusions,False
+PRY,Paraguay,0,6507,82401.12837,CBA_standard_intended_candidate,6507,82401.12837,100,True,candidate only; no modelling or silent exclusions,False
+PRY,Paraguay,0,6507,82401.12837,ST438_observed_admin_candidate,6260,79297.09117,96.23301615,True,candidate only; no modelling or silent exclusions,False
+PRY,Paraguay,0,6507,82401.12837,ST438_unknown_admin,72,910.7555242,1.105270695,False,candidate only; no modelling or silent exclusions,False
+PRY,Paraguay,0,6507,82401.12837,four_AI_valid,4443,55118.8874,66.89093765,False,candidate only; no modelling or silent exclusions,False
+PRY,Paraguay,0,6507,82401.12837,four_AI_and_critical_valid,3114,38143.54692,46.29007839,False,candidate only; no modelling or silent exclusions,False
+PSE,Palestinian Authority,0,9647,50392.59376,CBA_standard_intended_candidate,9647,50392.59376,100,True,candidate only; no modelling or silent exclusions,False
+PSE,Palestinian Authority,0,9647,50392.59376,ST438_observed_admin_candidate,9546,49763.85653,98.75232216,True,candidate only; no modelling or silent exclusions,False
+PSE,Palestinian Authority,0,9647,50392.59376,ST438_unknown_admin,90,565.9583569,1.123098286,False,candidate only; no modelling or silent exclusions,False
+PSE,Palestinian Authority,0,9647,50392.59376,four_AI_valid,7188,37033.80553,73.49057226,False,candidate only; no modelling or silent exclusions,False
+PSE,Palestinian Authority,0,9647,50392.59376,four_AI_and_critical_valid,4973,26001.27901,51.5974215,False,candidate only; no modelling or silent exclusions,False
+QAT,Qatar,0,6674,22318.82325,CBA_standard_intended_candidate,6674,22318.82325,100,True,candidate only; no modelling or silent exclusions,False
+QAT,Qatar,0,6674,22318.82325,ST438_observed_admin_candidate,6670,22303.53823,99.93151511,True,candidate only; no modelling or silent exclusions,False
+QAT,Qatar,0,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+QAT,Qatar,0,6674,22318.82325,four_AI_valid,5323,18036.26483,80.81189869,True,candidate only; no modelling or silent exclusions,False
+QAT,Qatar,0,6674,22318.82325,four_AI_and_critical_valid,4167,14270.07518,63.93739949,False,candidate only; no modelling or silent exclusions,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,CBA_standard_intended_candidate,12385,1433562.229,100,True,candidate only; no modelling or silent exclusions,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,ST438_observed_admin_candidate,12381,1433143.827,99.97081378,True,candidate only; no modelling or silent exclusions,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,four_AI_valid,12293,1420753.531,99.10651258,True,candidate only; no modelling or silent exclusions,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,four_AI_and_critical_valid,11844,1352432.813,94.34071194,True,candidate only; no modelling or silent exclusions,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,CBA_standard_intended_candidate,0,0,0,False,candidate only; no modelling or silent exclusions,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,ST438_observed_admin_candidate,0,0,0,False,candidate only; no modelling or silent exclusions,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,four_AI_valid,0,0,0,False,candidate only; no modelling or silent exclusions,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,four_AI_and_critical_valid,0,0,0,False,candidate only; no modelling or silent exclusions,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,CBA_standard_intended_candidate,0,0,0,False,candidate only; no modelling or silent exclusions,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,ST438_observed_admin_candidate,0,0,0,False,candidate only; no modelling or silent exclusions,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,four_AI_valid,0,0,0,False,candidate only; no modelling or silent exclusions,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,four_AI_and_critical_valid,0,0,0,False,candidate only; no modelling or silent exclusions,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,CBA_standard_intended_candidate,7089,255539.8695,99.81984617,True,candidate only; no modelling or silent exclusions,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,ST438_observed_admin_candidate,7072,255019.8407,99.61671075,True,candidate only; no modelling or silent exclusions,False
+QUA,Ukrainian regions (17 of 27),0,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,four_AI_valid,6339,228071.4386,89.09003498,True,candidate only; no modelling or silent exclusions,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,four_AI_and_critical_valid,5537,199108.6738,77.77650206,True,candidate only; no modelling or silent exclusions,False
+ROU,Romania,0,7725,171955.2169,CBA_standard_intended_candidate,7725,171955.2169,100,True,candidate only; no modelling or silent exclusions,False
+ROU,Romania,0,7725,171955.2169,ST438_observed_admin_candidate,7714,171720.4371,99.86346457,True,candidate only; no modelling or silent exclusions,False
+ROU,Romania,0,7725,171955.2169,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+ROU,Romania,0,7725,171955.2169,four_AI_valid,6876,149738.2971,87.07982222,True,candidate only; no modelling or silent exclusions,False
+ROU,Romania,0,7725,171955.2169,four_AI_and_critical_valid,6167,132290.0378,76.93284342,True,candidate only; no modelling or silent exclusions,False
+RWA,Rwanda,0,6622,98957.08041,CBA_standard_intended_candidate,0,0,0,False,candidate only; no modelling or silent exclusions,False
+RWA,Rwanda,0,6622,98957.08041,ST438_observed_admin_candidate,0,0,0,False,candidate only; no modelling or silent exclusions,False
+RWA,Rwanda,0,6622,98957.08041,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+RWA,Rwanda,0,6622,98957.08041,four_AI_valid,0,0,0,False,candidate only; no modelling or silent exclusions,False
+RWA,Rwanda,0,6622,98957.08041,four_AI_and_critical_valid,0,0,0,False,candidate only; no modelling or silent exclusions,False
+SAU,Saudi Arabia,0,7272,348241.4494,CBA_standard_intended_candidate,7272,348241.4494,100,True,candidate only; no modelling or silent exclusions,False
+SAU,Saudi Arabia,0,7272,348241.4494,ST438_observed_admin_candidate,7240,346634.9869,99.53869293,True,candidate only; no modelling or silent exclusions,False
+SAU,Saudi Arabia,0,7272,348241.4494,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+SAU,Saudi Arabia,0,7272,348241.4494,four_AI_valid,6014,289105.6804,83.01874489,True,candidate only; no modelling or silent exclusions,False
+SAU,Saudi Arabia,0,7272,348241.4494,four_AI_and_critical_valid,4835,231657.525,66.52209994,False,candidate only; no modelling or silent exclusions,False
+SGP,Singapore,0,6551,42468.83678,CBA_standard_intended_candidate,6551,42468.83678,100,True,candidate only; no modelling or silent exclusions,False
+SGP,Singapore,0,6551,42468.83678,ST438_observed_admin_candidate,6533,42349.06818,99.71798474,True,candidate only; no modelling or silent exclusions,False
+SGP,Singapore,0,6551,42468.83678,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+SGP,Singapore,0,6551,42468.83678,four_AI_valid,6389,41409.2574,97.50504263,True,candidate only; no modelling or silent exclusions,False
+SGP,Singapore,0,6551,42468.83678,four_AI_and_critical_valid,6162,39978.728,94.13662118,True,candidate only; no modelling or silent exclusions,False
+SLV,El Salvador,0,7073,76966.99762,CBA_standard_intended_candidate,7073,76966.99762,100,True,candidate only; no modelling or silent exclusions,False
+SLV,El Salvador,0,7073,76966.99762,ST438_observed_admin_candidate,6748,73343.23387,95.29179537,True,candidate only; no modelling or silent exclusions,False
+SLV,El Salvador,0,7073,76966.99762,ST438_unknown_admin,19,202.2317564,0.2627512605,False,candidate only; no modelling or silent exclusions,False
+SLV,El Salvador,0,7073,76966.99762,four_AI_valid,5774,62573.842,81.29957505,True,candidate only; no modelling or silent exclusions,False
+SLV,El Salvador,0,7073,76966.99762,four_AI_and_critical_valid,4585,49634.48703,64.48801247,False,candidate only; no modelling or silent exclusions,False
+SRB,Serbia,0,7041,55288.28612,CBA_standard_intended_candidate,7041,55288.28612,100,True,candidate only; no modelling or silent exclusions,False
+SRB,Serbia,0,7041,55288.28612,ST438_observed_admin_candidate,6954,54547.76902,98.66062569,True,candidate only; no modelling or silent exclusions,False
+SRB,Serbia,0,7041,55288.28612,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+SRB,Serbia,0,7041,55288.28612,four_AI_valid,5554,43997.26445,79.57791339,True,candidate only; no modelling or silent exclusions,False
+SRB,Serbia,0,7041,55288.28612,four_AI_and_critical_valid,4570,36376.07202,65.79345205,False,candidate only; no modelling or silent exclusions,False
+SVK,Slovak Republic,1,6682,50243.12324,CBA_standard_intended_candidate,6527,48707.33422,96.94328514,True,candidate only; no modelling or silent exclusions,False
+SVK,Slovak Republic,1,6682,50243.12324,ST438_observed_admin_candidate,6471,48162.8394,95.85956505,True,candidate only; no modelling or silent exclusions,False
+SVK,Slovak Republic,1,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+SVK,Slovak Republic,1,6682,50243.12324,four_AI_valid,6033,44849.94272,89.26583347,True,candidate only; no modelling or silent exclusions,False
+SVK,Slovak Republic,1,6682,50243.12324,four_AI_and_critical_valid,5697,42332.70076,84.2557111,True,candidate only; no modelling or silent exclusions,False
+SVN,Slovenia,1,7366,21631.8223,CBA_standard_intended_candidate,7114,21263.3223,98.29649118,True,candidate only; no modelling or silent exclusions,False
+SVN,Slovenia,1,7366,21631.8223,ST438_observed_admin_candidate,7065,21106.19345,97.57011295,True,candidate only; no modelling or silent exclusions,False
+SVN,Slovenia,1,,,ST438_unknown_admin,,,,False,candidate only; no modelling or silent exclusions,True
+SVN,Slovenia,1,7366,21631.8223,four_AI_valid,6347,19273.83356,89.09944476,True,candidate only; no modelling or silent exclusions,False
+SVN,Slovenia,1,7366,21631.8223,four_AI_and_critical_valid,5867,17961.83258,83.03430161,True,candidate only; no modelling or silent exclusions,False
+SWE,Sweden,1,6688,115590.4337,CBA_standard_intended_candidate,6688,115590.4337,100,True,candidate only; no modelling or silent exclusions,False
+SWE,Sweden,1,6688,115590.4337,ST438_observed_admin_candidate,6565,113390.7419,98.09699494,True,candidate only; no modelling or silent exclusions,False
+SWE,Sweden,1,6688,115590.4337,ST438_unknown_admin,32,627.2996313,0.5426916494,False,candidate only; no modelling or silent exclusions,False
+SWE,Sweden,1,6688,115590.4337,four_AI_valid,5459,94326.46252,81.60403892,True,candidate only; no modelling or silent exclusions,False
+SWE,Sweden,1,6688,115590.4337,four_AI_and_critical_valid,5106,88349.90342,76.43357723,True,candidate only; no modelling or silent exclusions,False
+TAP,Chinese Taipei,0,7279,181048.7043,CBA_standard_intended_candidate,7279,181048.7043,100,True,candidate only; no modelling or silent exclusions,False
+TAP,Chinese Taipei,0,7279,181048.7043,ST438_observed_admin_candidate,7269,180798.1308,99.86159882,True,candidate only; no modelling or silent exclusions,False
+TAP,Chinese Taipei,0,7279,181048.7043,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+TAP,Chinese Taipei,0,7279,181048.7043,four_AI_valid,7132,177357.5047,97.9612118,True,candidate only; no modelling or silent exclusions,False
+TAP,Chinese Taipei,0,7279,181048.7043,four_AI_and_critical_valid,7027,174667.5337,96.47543979,True,candidate only; no modelling or silent exclusions,False
+THA,Thailand,0,8547,542708.6633,CBA_standard_intended_candidate,8547,542708.6633,100,True,candidate only; no modelling or silent exclusions,False
+THA,Thailand,0,8547,542708.6633,ST438_observed_admin_candidate,8546,542614.1797,99.98259036,True,candidate only; no modelling or silent exclusions,False
+THA,Thailand,0,8547,542708.6633,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+THA,Thailand,0,8547,542708.6633,four_AI_valid,8160,518133.455,95.47174941,True,candidate only; no modelling or silent exclusions,False
+THA,Thailand,0,8547,542708.6633,four_AI_and_critical_valid,7583,477328.4576,87.95298287,True,candidate only; no modelling or silent exclusions,False
+TUR,Türkiye,1,7702,920900.0642,CBA_standard_intended_candidate,7702,920900.0642,100,True,candidate only; no modelling or silent exclusions,False
+TUR,Türkiye,1,7702,920900.0642,ST438_observed_admin_candidate,7695,920001.2341,99.90239656,True,candidate only; no modelling or silent exclusions,False
+TUR,Türkiye,1,7702,920900.0642,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+TUR,Türkiye,1,7702,920900.0642,four_AI_valid,7425,886960.3122,96.31450216,True,candidate only; no modelling or silent exclusions,False
+TUR,Türkiye,1,7702,920900.0642,four_AI_and_critical_valid,6779,811101.132,88.07699809,True,candidate only; no modelling or silent exclusions,False
+URY,Uruguay,0,6572,35693.57644,CBA_standard_intended_candidate,6275,34049.63017,95.39427975,True,candidate only; no modelling or silent exclusions,False
+URY,Uruguay,0,6572,35693.57644,ST438_observed_admin_candidate,6249,33894.67155,94.96014389,True,candidate only; no modelling or silent exclusions,False
+URY,Uruguay,0,6572,35693.57644,ST438_unknown_admin,12,72.04183235,0.2018341661,False,candidate only; no modelling or silent exclusions,False
+URY,Uruguay,0,6572,35693.57644,four_AI_valid,4688,25523.97955,71.50860769,False,candidate only; no modelling or silent exclusions,False
+URY,Uruguay,0,6572,35693.57644,four_AI_and_critical_valid,3980,21656.01722,60.67202948,False,candidate only; no modelling or silent exclusions,False
+USA,United States,1,4623,3578890.314,CBA_standard_intended_candidate,4359,3403214.809,95.09134146,True,candidate only; no modelling or silent exclusions,False
+USA,United States,1,4623,3578890.314,ST438_observed_admin_candidate,2467,2001345.623,55.92084272,False,candidate only; no modelling or silent exclusions,False
+USA,United States,1,4623,3578890.314,ST438_unknown_admin,10,8381.122372,0.2341821525,False,candidate only; no modelling or silent exclusions,False
+USA,United States,1,4623,3578890.314,four_AI_valid,2310,1882708.685,52.60593424,False,candidate only; no modelling or silent exclusions,False
+USA,United States,1,4623,3578890.314,four_AI_and_critical_valid,2164,1764757.144,49.31017687,False,candidate only; no modelling or silent exclusions,False
+UZB,Uzbekistan,0,8652,557998.6075,CBA_standard_intended_candidate,8652,557998.6075,100,True,candidate only; no modelling or silent exclusions,False
+UZB,Uzbekistan,0,8652,557998.6075,ST438_observed_admin_candidate,8649,557794.7283,99.96346242,True,candidate only; no modelling or silent exclusions,False
+UZB,Uzbekistan,0,8652,557998.6075,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+UZB,Uzbekistan,0,8652,557998.6075,four_AI_valid,7822,503319.8939,90.20092292,True,candidate only; no modelling or silent exclusions,False
+UZB,Uzbekistan,0,8652,557998.6075,four_AI_and_critical_valid,6545,414404.5147,74.26622739,False,candidate only; no modelling or silent exclusions,False
+VNM,Viet Nam,0,7368,1109072.636,CBA_standard_intended_candidate,7368,1109072.636,100,True,candidate only; no modelling or silent exclusions,False
+VNM,Viet Nam,0,7368,1109072.636,ST438_observed_admin_candidate,7354,1107268.742,99.83735116,True,candidate only; no modelling or silent exclusions,False
+VNM,Viet Nam,0,7368,1109072.636,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+VNM,Viet Nam,0,7368,1109072.636,four_AI_valid,7127,1070864.207,96.55492097,True,candidate only; no modelling or silent exclusions,False
+VNM,Viet Nam,0,7368,1109072.636,four_AI_and_critical_valid,5878,879864.4374,79.33334649,True,candidate only; no modelling or silent exclusions,False
+ZMB,Zambia,0,5735,457337.7124,CBA_standard_intended_candidate,0,0,0,False,candidate only; no modelling or silent exclusions,False
+ZMB,Zambia,0,5735,457337.7124,ST438_observed_admin_candidate,0,0,0,False,candidate only; no modelling or silent exclusions,False
+ZMB,Zambia,0,5735,457337.7124,ST438_unknown_admin,0,0,0,False,candidate only; no modelling or silent exclusions,False
+ZMB,Zambia,0,5735,457337.7124,four_AI_valid,0,0,0,False,candidate only; no modelling or silent exclusions,False
+ZMB,Zambia,0,5735,457337.7124,four_AI_and_critical_valid,0,0,0,False,candidate only; no modelling or silent exclusions,False

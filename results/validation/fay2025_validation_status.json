@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "message": "FAY VALIDATION PASS — k=0.5 empirically reproduces published PISA 2025 SEs",
+  "checks": 18,
+  "passed": 18,
+  "criterion": "same display rounding as official workbook cells, before any regression",
+  "max_abs_mean_diff": 4.894058974969084e-06,
+  "max_abs_SE_diff": 4.49443314565201e-06,
+  "k": 0.5,
+  "R": 80,
+  "M": 10,
+  "source": "OECD I.B1.2a.1–3, StatLink mrq53f"
+}

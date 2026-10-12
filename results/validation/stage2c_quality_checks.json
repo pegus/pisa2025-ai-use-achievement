@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "full_M2_reproduction_rows": 1260,
+  "max_full_beta_error": 4.99902341744e-11,
+  "max_full_SE_error": 4.99777996765e-12,
+  "independent_real_school_dummy_QR_checks": 9,
+  "max_QR_error": 7.069900220812997e-13,
+  "synthetic_replica_absorption_check": {
+    "max_abs_error_correct_absorption": 4.876099524153688e-13,
+    "max_error_reusing_final_weight_transformation": 0.29486884723482376,
+    "deliberately_nonproportional_within_school_replica_weights": true
+  },
+  "max_equal_country_summary_error": 5.000089231543825e-11,
+  "FDR_independent_scipy_check": "PASS",
+  "coverage_missing_and_country_flags": "PASS",
+  "domain_conservative_bound_vs_paired": "PASS",
+  "progression_exact_decomposition": "PASS",
+  "LDW": false
+}

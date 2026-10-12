@@ -1,0 +1,16 @@
+{
+  "student_rows": 755721,
+  "student_columns": 885,
+  "countries": 90,
+  "OECD_countries": 38,
+  "CORE_K": 32,
+  "FULL_K": 21,
+  "FE_CORE_K": 30,
+  "FE_FULL_K": 21,
+  "R": 80,
+  "M": 10,
+  "fay": 0.5,
+  "zip_sha256": "ef5a76cc20215c09308a541cb3c6ee66583d068ede8535c0b735288e0a71f985",
+  "sav_bytes": 2168666883,
+  "sav_crc32": "8ce13fd4"
+}

@@ -1,0 +1,58 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "file": "stage2c_all_national_models.csv",
+      "rows": 42840,
+      "max_abs_difference": 0.0,
+      "pass": true
+    },
+    {
+      "file": "stage2c_equal_weight_summary.csv",
+      "rows": 720,
+      "max_abs_difference": 0.0,
+      "pass": true
+    },
+    {
+      "file": "country_effects_M1.csv",
+      "rows": 2160,
+      "max_abs_difference": 0.0,
+      "pass": true
+    },
+    {
+      "file": "country_effects_M2.csv",
+      "rows": 2160,
+      "max_abs_difference": 0.0,
+      "pass": true
+    },
+    {
+      "file": "domain_specificity_tests.csv",
+      "rows": 176,
+      "max_abs_difference": 0.0,
+      "pass": true
+    },
+    {
+      "file": "model_progression_same_sample.csv",
+      "rows": 60,
+      "max_abs_difference": 0.0,
+      "pass": true
+    },
+    {
+      "file": "digital_comparison_same_sample_summary.csv",
+      "rows": 528,
+      "max_abs_difference": 0.0,
+      "pass": true
+    },
+    {
+      "file": "fay2025_validation.csv",
+      "rows": 18,
+      "max_abs_difference": 0.0,
+      "pass": true
+    }
+  ],
+  "CORE_K": 32,
+  "FULL_K": 21,
+  "M": 10,
+  "R": 80,
+  "fay": 0.5
+}

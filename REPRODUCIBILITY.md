@@ -1,0 +1,13 @@
+# Reproducibilidad
+
+Ejecutar `python scripts/11_reproduce_all.py` desde un checkout limpio con dependencias instaladas y ZIP oficial local. El script no depende de rutas del equipo original ni de memorias/conversaciones. Usa `.reproduction/outputs` como ROOT, con SAV en `.reproduction/work/raw`. `PISA_RUN_ROOT` permite otro directorio local. No publicar carpetas de ejecución.
+
+El controlador valida SHA256 y CRC, extrae metadatos del PUF, construye reducido y auditoría sin modelos, reproduce compendio ST438 (1680 porcentajes, denominador1–5+99), ejecuta gate Fay18 antes de regresiones, M0/M1/FULL2B, CORE/FE/M3/conjuntos2C, diagnósticos, comparadores digitales, síntesis, verificaciones independientes y figuras/informe. Las cifras oficiales están separadas en fixtures; no se utilizan coeficientes de referencia como entradas de ajustes. Los resultados publicados se usan solo al final para comparaciones numéricas.
+
+Secuencia: prepare -> selection -> validation -> main -> diagnostics -> digital -> synthesis -> verify -> figures -> report. FE/conjunto se ajustan en el mismo motor que CORE; los scripts conservan esa dependencia. Una etapa aislada necesita que se hayan ejecutado sus precedentes. Para reiniciar todo se extrae de nuevo el ZIP y se recomputan modelos; no se reciclan los NPZ originales. Reruns de síntesis y comparadores son idempotentes en las uniones públicas adaptadas.
+
+Archivos públicos con supresión se distinguen mediante `disclosure_suppressed`; las tablas locales completas pueden diferir solo en esa divulgación. La verificación compara tablas nacionales/síntesis no suprimidas, ocho familias de resultados, forma y tolerancia abs1e-7/rel1e-9; se recomprueban países/75%/32 CORE/21 FULL. Pruebas QR/SVD y sintéticas verifican las ecuaciones, no solo reflejan la implementación. Figuras son regeneradas pero no se exige hash idéntico de PNG/PDF (metadatos de render/versión pueden variar).
+
+El estado y evidencia de la prueba de publicación se conservan en `results/validation/public_reproduction_check.json` y `PUBLICATION_TEST_REPORT.md`, cuando completa. El entorno ya instalado se usa en el equipo de publicación; la instalación desde cero en otra plataforma queda separada de la prueba de cálculos. GitHub Actions ejecuta tests sin microdatos: no afirma reestimar modelos completos en CI.
+
+Históricos 2A documentan STOP cuando Fay no estaba confirmado; 2B validó y aprobó el estimando restringido. El controlador reproduce ese historial pero no mantiene un STOP ya superado tras gate PASS. El contexto ecológico inicial no tiene script/tabla disponible; no se reproduce. SCH/LDW no analizados, sin necesidad de descargarlos. Los capítulos técnicos inaccesibles se documentan, sin afirmar lectura completa.

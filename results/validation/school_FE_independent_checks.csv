@@ -1,0 +1,10 @@
+﻿country,exposure,base_controls,domain,PV,replica,max_abs_beta_difference,method,pass
+AUT,ST438Q01DA,CORE,READ,1,0,2.59348098552e-13,independent QR with explicit full school indicators,True
+AUT,ST438Q01DA,CORE,READ,7,17,7.06990022081e-13,independent QR with explicit full school indicators,True
+AUT,ST438Q01DA,CORE,READ,2,80,6.96331881045e-13,independent QR with explicit full school indicators,True
+MEX,ST438Q03DA,FULL,READ,1,0,4.28101998295e-13,independent QR with explicit full school indicators,True
+MEX,ST438Q03DA,FULL,READ,7,17,6.27053964308e-13,independent QR with explicit full school indicators,True
+MEX,ST438Q03DA,FULL,READ,2,80,4.61852778244e-13,independent QR with explicit full school indicators,True
+FRA,ST438Q04DA,CORE,READ,1,0,5.6310511809e-13,independent QR with explicit full school indicators,True
+FRA,ST438Q04DA,CORE,READ,7,17,4.67181848762e-13,independent QR with explicit full school indicators,True
+FRA,ST438Q04DA,CORE,READ,2,80,4.1566750042e-13,independent QR with explicit full school indicators,True

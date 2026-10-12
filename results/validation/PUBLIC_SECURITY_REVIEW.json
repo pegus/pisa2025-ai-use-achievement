@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "files_scanned": 160,
+  "microdata_extensions_absent": true,
+  "credentials_patterns_absent": true,
+  "private_paths_absent": true,
+  "private_emails_absent": true,
+  "identifier_columns_absent": true,
+  "findings": [],
+  "scan_scope": "All allowlisted public code/text/CSV plus extension checks for binary figures; excluded runtime directories never staged",
+  "disclosure_policy": "See docs/DISCLOSURE_REVIEW.md"
+}

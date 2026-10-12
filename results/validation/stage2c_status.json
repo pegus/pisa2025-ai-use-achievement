@@ -1,0 +1,19 @@
+{
+  "status": "COMPLETE — PASS WITH RESTRICTED ESTIMAND",
+  "M2_core_K": 32,
+  "M2_full_K": 21,
+  "school_FE_core_K": 30,
+  "school_FE_full_K": 21,
+  "hypotheses": {
+    "H10": "supported",
+    "H11": "supported",
+    "H12": "mixed",
+    "H13": "mixed",
+    "H14": "mixed",
+    "H15": "supported"
+  },
+  "mechanism_conclusion": "INDETERMINATE relative to selection/reverse causality",
+  "quality_checks": "PASS",
+  "LDW": false,
+  "final_article": false
+}

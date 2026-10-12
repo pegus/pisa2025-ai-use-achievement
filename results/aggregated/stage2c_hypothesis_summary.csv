@@ -1,0 +1,7 @@
+﻿hypothesis,result,evidence,limits
+H10,supported,8/8 contrastes centrales negativos con FDR; FE conserva diario-nunca,"No elimina confusión individual, selección ni causalidad inversa"
+H11,supported,"16/16 contrastes negativos después de M3; acceso cambia poco, bloque actual atenúa",El bloque actual incluye variables ambiguas/mediadoras; no porcentaje causal explicado
+H12,mixed,7/8 contrastes centrales; diario-nunca de ambos usos permanece negativo; diario-semanal redactar FULL q=.067,Frecuencias correlacionadas y ajuste por otras conductas contemporáneas; asociación condicional
+H13,mixed,"17/32 diferencias respaldan especificidad; READ-MATH más negativo, READ-SCIE no robusto en FULL",PV emparejado como sensibilidad; inferencia principal conservadora; escalas de dominio diferentes
+H14,mixed,Patrones difieren en todas las pruebas Wald; FE vuelve semanal ligeramente negativo y diario-nunca ~-10 puntos,"La comparación sigue distinta, pero la firma completa de 2B no permanece"
+H15,supported,"16/16 equivalencias +/-5 puntos en contrastes centrales, con IC90 emparejados",Regla de magnitud absoluta para READ resumir/redactar; no equivale a todos los usos/dominios; M3 temporal sí atenúa

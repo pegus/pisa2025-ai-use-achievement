@@ -1,0 +1,27 @@
+{
+  "title": "Reproducible analysis of generative AI use and student achievement in PISA 2025",
+  "upload_type": "software",
+  "description": "Analysis accompanying the study Entre apoyo y automatización: uso de inteligencia artificial y rendimiento en PISA 2025. Reproducible country-specific weighted categorical associations with 10 plausible values and 80 BRR-Fay replicate weights. Primary CORE specification covers 32 OECD systems; full covariate specification is sensitivity. Includes methods, code, aggregate results and figures; excludes all individual microdata, weights and school identifiers. Cognitive substitution remains plausible but unproven.",
+  "creators": [
+    {
+      "name": "González Ali, Pedro Gustavo",
+      "orcid": "0000-0003-0630-8703"
+    }
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "publication_date": "2026-10-12",
+  "keywords": [
+    "PISA 2025",
+    "artificial intelligence",
+    "education",
+    "survey inference"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/pegus/pisa2025-ai-use-achievement",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

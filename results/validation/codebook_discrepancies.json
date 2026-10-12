@@ -1,0 +1,86 @@
+[
+  {
+    "code": "CNT",
+    "label_match": true,
+    "values_match": false,
+    "metadata_label": "Country code 3-character",
+    "codebook_label": "Country code 3-character"
+  },
+  {
+    "code": "CNTRYID",
+    "label_match": true,
+    "values_match": false,
+    "metadata_label": "3-digit country code",
+    "codebook_label": "3-digit country code"
+  },
+  {
+    "code": "NatCen",
+    "label_match": true,
+    "values_match": false,
+    "metadata_label": "National Centre 6-digit Code",
+    "codebook_label": "National Centre 6-digit Code"
+  },
+  {
+    "code": "STRATUM",
+    "label_match": true,
+    "values_match": false,
+    "metadata_label": "Stratum ID 5-character (cnt + original stratum ID)",
+    "codebook_label": "Stratum ID 5-character (cnt + original stratum ID)"
+  },
+  {
+    "code": "SUBNATIO",
+    "label_match": true,
+    "values_match": false,
+    "metadata_label": "Adjudicated sub-region code 7-digit code (3-digit country code + region ID + stratum ID)",
+    "codebook_label": "Adjudicated sub-region code 7-digit code (3-digit country code + region ID + stratum ID)"
+  },
+  {
+    "code": "REGION",
+    "label_match": true,
+    "values_match": false,
+    "metadata_label": "REGION",
+    "codebook_label": "REGION"
+  },
+  {
+    "code": "ST251D08JA",
+    "label_match": true,
+    "values_match": false,
+    "metadata_label": "How many of these items are there at your <home>? - <country-specific>",
+    "codebook_label": "How many of these items are there at your <home>? - <country-specific>"
+  },
+  {
+    "code": "ST251D09JA",
+    "label_match": true,
+    "values_match": false,
+    "metadata_label": "How many of these items are there at your <home>? - <country-specific>",
+    "codebook_label": "How many of these items are there at your <home>? - <country-specific>"
+  },
+  {
+    "code": "OCOD3",
+    "label_match": true,
+    "values_match": false,
+    "metadata_label": "Expected occupation ISCO code",
+    "codebook_label": "Expected occupation ISCO code"
+  },
+  {
+    "code": "OCOP1",
+    "label_match": true,
+    "values_match": false,
+    "metadata_label": "Parent 1 occupational ISCO code (2-digits)",
+    "codebook_label": "Parent 1 occupational ISCO code (2-digits)"
+  },
+  {
+    "code": "OCOP2",
+    "label_match": true,
+    "values_match": false,
+    "metadata_label": "Parent 2 occupational ISCO code (2-digits)",
+    "codebook_label": "Parent 2 occupational ISCO code (2-digits)"
+  },
+  {
+    "code": "PROGN",
+    "label_match": true,
+    "values_match": false,
+    "metadata_label": "Unique national study programme code",
+    "codebook_label": "Unique national study programme code"
+  }
+]

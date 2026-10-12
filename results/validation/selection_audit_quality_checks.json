@@ -1,0 +1,22 @@
+{
+  "data_checks": "PASS",
+  "audit_decision": "STOP",
+  "coverage_rows": 540,
+  "student_rows": 755721,
+  "subset_columns": 156,
+  "countries": 90,
+  "OECD_countries": 38,
+  "official_ST438_checks": 1680,
+  "official_example_checks": 2,
+  "coverage_partitions_reconcile": true,
+  "PV_partition_means_reconcile": true,
+  "SENWT_formula_pass": true,
+  "CBA_PBA_within_country_contrasts": "not identifiable; all NA",
+  "inference": "NOT_EXECUTED",
+  "sha256": {
+    "results/selection_audit.md": "ec733ec522eaea9146245c69e061f4bd14b5370e85be8043a19ebd88468e86b9",
+    "results/ai_coverage_by_country.csv": "f0f0fc36c712109c1b57df08a3f3407ff7c399354eb4505d5facc592bbbdd7b5",
+    "results/selection_official_reproduction.csv": "1803fccfca1aed5614756d2b441f0adc5a50d82cf7db53cac570933f9babd53d",
+    "results/selection_performance_by_country.csv": "5630e730ecd12ef0272fc3510a5284723123fcc243da38c94545f2c2beb27e28"
+  }
+}

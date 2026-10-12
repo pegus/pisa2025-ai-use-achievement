@@ -1,0 +1,111 @@
+{
+  "candidate_countries": [
+    "AUS",
+    "AUT",
+    "BEL",
+    "CAN",
+    "CHE",
+    "CHL",
+    "COL",
+    "CRI",
+    "CZE",
+    "DEU",
+    "DNK",
+    "ESP",
+    "EST",
+    "FIN",
+    "FRA",
+    "GBR",
+    "GRC",
+    "HUN",
+    "IRL",
+    "ISL",
+    "ITA",
+    "JPN",
+    "KOR",
+    "LTU",
+    "LUX",
+    "LVA",
+    "MEX",
+    "NLD",
+    "NOR",
+    "NZL",
+    "POL",
+    "PRT",
+    "SVK",
+    "SVN",
+    "SWE",
+    "TUR"
+  ],
+  "full21": [
+    "AUT",
+    "CHE",
+    "CZE",
+    "EST",
+    "FIN",
+    "FRA",
+    "GBR",
+    "GRC",
+    "HUN",
+    "ITA",
+    "JPN",
+    "KOR",
+    "LTU",
+    "LVA",
+    "MEX",
+    "POL",
+    "PRT",
+    "SVK",
+    "SVN",
+    "SWE",
+    "TUR"
+  ],
+  "M2_CORE": [
+    "ESCS",
+    "IMMIG",
+    "ST022Q01TA"
+  ],
+  "M2_FULL": [
+    "ESCS",
+    "ST004D01T",
+    "AGE",
+    "IMMIG",
+    "ST022Q01TA"
+  ],
+  "M3_CONFOUNDERS": [
+    "ST250Q02JA",
+    "ST250Q05JA"
+  ],
+  "M3_AMBIGUOUS_POTENTIAL_MEDIATORS": [
+    "ST326Q01JA",
+    "ST326Q02JA",
+    "ST326Q04JA",
+    "ST326Q05JA",
+    "ST097Q06DA"
+  ],
+  "digital_comparison_exposures": [
+    "IC171Q01JA",
+    "IC171Q05JA",
+    "IC171Q06JA",
+    "ST322Q07JA"
+  ],
+  "CORE_decision": "Keep three prioritized background confounders; do not make sex or age mandatory. Maximization subject to conceptual adequacy, not ESCS-only deletion of migration/home language.",
+  "decision_basis": "Availability and official item wording only; no new AI coefficients examined before this file.",
+  "primary_joint_coverage_threshold": 75,
+  "school_support": {
+    "minimum_informative_schools": 30,
+    "minimum_N_per_category": 30,
+    "max_gram_condition": 1000000000000.0
+  },
+  "joint_support": {
+    "minimum_N_per_category": 30,
+    "minimum_effective_N_per_category": 10,
+    "max_VIF_ai_dummy": 10,
+    "max_standardized_design_condition": 30
+  },
+  "comparison_intensive_group_IC": "categories 4/5 daily; reference 1 never; category 6 unavailable retained as separate nuisance category",
+  "cross_domain_inference": "Common sample and matching replicate weights. Paired-PV covariance provided as sensitivity until joint PV draw alignment is documented; primary inference uses conservative between-PV covariance bound.",
+  "H15_comparable_rule": "paired beta change within +/-5 PISA points by 90% CI (equivalence); sign alone insufficient",
+  "FDR": "BH60 separately for each model/base; BH16 specificity per model; BH9 learn pattern per model/base; all stage2c tests secondary/exploratory",
+  "no_LDW_no_final_article": true
+}

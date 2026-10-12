@@ -1,0 +1,901 @@
+country,country_name,OECD,N_total,weighted_N_total,classification,mode,N,weighted_N,weighted_pct,disclosure_suppressed
+ALB,Albania,0,5959,22810.59004,ADMINMODE,1.0,5959,22810.59004,100,False
+ALB,Albania,0,5959,22810.59004,ADMINMODE,2.0,0,0,0,False
+ALB,Albania,0,5959,22810.59004,ADMINMODE,other,0,0,0,False
+ALB,Albania,0,5959,22810.59004,ADMINMODE,missing,0,0,0,False
+ALB,Albania,0,5959,22810.59004,validated_form,CBA_standard,5959,22810.59004,100,False
+ALB,Albania,0,5959,22810.59004,validated_form,CBA_FLA,0,0,0,False
+ALB,Albania,0,5959,22810.59004,validated_form,CBA_UO_labelled,0,0,0,False
+ALB,Albania,0,5959,22810.59004,validated_form,UH,0,0,0,False
+ALB,Albania,0,5959,22810.59004,validated_form,PBA,0,0,0,False
+ALB,Albania,0,5959,22810.59004,validated_form,unresolved_form,0,0,0,False
+ARE,United Arab Emirates,0,34639,84768.38105,ADMINMODE,1.0,34639,84768.38105,100,False
+ARE,United Arab Emirates,0,34639,84768.38105,ADMINMODE,2.0,0,0,0,False
+ARE,United Arab Emirates,0,34639,84768.38105,ADMINMODE,other,0,0,0,False
+ARE,United Arab Emirates,0,34639,84768.38105,ADMINMODE,missing,0,0,0,False
+ARE,United Arab Emirates,0,34639,84768.38105,validated_form,CBA_standard,34639,84768.38105,100,False
+ARE,United Arab Emirates,0,34639,84768.38105,validated_form,CBA_FLA,0,0,0,False
+ARE,United Arab Emirates,0,34639,84768.38105,validated_form,CBA_UO_labelled,0,0,0,False
+ARE,United Arab Emirates,0,34639,84768.38105,validated_form,UH,0,0,0,False
+ARE,United Arab Emirates,0,34639,84768.38105,validated_form,PBA,0,0,0,False
+ARE,United Arab Emirates,0,34639,84768.38105,validated_form,unresolved_form,0,0,0,False
+ARG,Argentina,0,11092,609050.6163,ADMINMODE,1.0,11092,609050.6163,100,False
+ARG,Argentina,0,11092,609050.6163,ADMINMODE,2.0,0,0,0,False
+ARG,Argentina,0,11092,609050.6163,ADMINMODE,other,0,0,0,False
+ARG,Argentina,0,11092,609050.6163,ADMINMODE,missing,0,0,0,False
+ARG,Argentina,0,11092,609050.6163,validated_form,CBA_standard,11092,609050.6163,100,False
+ARG,Argentina,0,11092,609050.6163,validated_form,CBA_FLA,0,0,0,False
+ARG,Argentina,0,11092,609050.6163,validated_form,CBA_UO_labelled,0,0,0,False
+ARG,Argentina,0,11092,609050.6163,validated_form,UH,0,0,0,False
+ARG,Argentina,0,11092,609050.6163,validated_form,PBA,0,0,0,False
+ARG,Argentina,0,11092,609050.6163,validated_form,unresolved_form,0,0,0,False
+ARM,Armenia,0,6804,23808.47293,ADMINMODE,1.0,6804,23808.47293,100,False
+ARM,Armenia,0,6804,23808.47293,ADMINMODE,2.0,0,0,0,False
+ARM,Armenia,0,6804,23808.47293,ADMINMODE,other,0,0,0,False
+ARM,Armenia,0,6804,23808.47293,ADMINMODE,missing,0,0,0,False
+ARM,Armenia,0,6804,23808.47293,validated_form,CBA_standard,6804,23808.47293,100,False
+ARM,Armenia,0,6804,23808.47293,validated_form,CBA_FLA,0,0,0,False
+ARM,Armenia,0,6804,23808.47293,validated_form,CBA_UO_labelled,0,0,0,False
+ARM,Armenia,0,6804,23808.47293,validated_form,UH,0,0,0,False
+ARM,Armenia,0,6804,23808.47293,validated_form,PBA,0,0,0,False
+ARM,Armenia,0,6804,23808.47293,validated_form,unresolved_form,0,0,0,False
+AUS,Australia,1,14658,275381.9803,ADMINMODE,1.0,14658,275381.9803,100,False
+AUS,Australia,1,14658,275381.9803,ADMINMODE,2.0,0,0,0,False
+AUS,Australia,1,14658,275381.9803,ADMINMODE,other,0,0,0,False
+AUS,Australia,1,14658,275381.9803,ADMINMODE,missing,0,0,0,False
+AUS,Australia,1,14658,275381.9803,validated_form,CBA_standard,14658,275381.9803,100,False
+AUS,Australia,1,14658,275381.9803,validated_form,CBA_FLA,0,0,0,False
+AUS,Australia,1,14658,275381.9803,validated_form,CBA_UO_labelled,0,0,0,False
+AUS,Australia,1,14658,275381.9803,validated_form,UH,0,0,0,False
+AUS,Australia,1,14658,275381.9803,validated_form,PBA,0,0,0,False
+AUS,Australia,1,14658,275381.9803,validated_form,unresolved_form,0,0,0,False
+AUT,Austria,1,6987,70075.09491,ADMINMODE,1.0,6987,70075.09491,100,False
+AUT,Austria,1,6987,70075.09491,ADMINMODE,2.0,0,0,0,False
+AUT,Austria,1,6987,70075.09491,ADMINMODE,other,0,0,0,False
+AUT,Austria,1,6987,70075.09491,ADMINMODE,missing,0,0,0,False
+AUT,Austria,1,6987,70075.09491,validated_form,CBA_standard,6974,69741.29283,99.5236509,False
+AUT,Austria,1,6987,70075.09491,validated_form,CBA_FLA,0,0,0,False
+AUT,Austria,1,6987,70075.09491,validated_form,CBA_UO_labelled,0,0,0,False
+AUT,Austria,1,6987,70075.09491,validated_form,UH,13,333.8020833,0.4763490991,False
+AUT,Austria,1,6987,70075.09491,validated_form,PBA,0,0,0,False
+AUT,Austria,1,6987,70075.09491,validated_form,unresolved_form,0,0,0,False
+AZE,Azerbaijan,0,7432,118322.8205,ADMINMODE,1.0,7432,118322.8205,100,False
+AZE,Azerbaijan,0,7432,118322.8205,ADMINMODE,2.0,0,0,0,False
+AZE,Azerbaijan,0,7432,118322.8205,ADMINMODE,other,0,0,0,False
+AZE,Azerbaijan,0,7432,118322.8205,ADMINMODE,missing,0,0,0,False
+AZE,Azerbaijan,0,7432,118322.8205,validated_form,CBA_standard,7432,118322.8205,100,False
+AZE,Azerbaijan,0,7432,118322.8205,validated_form,CBA_FLA,0,0,0,False
+AZE,Azerbaijan,0,7432,118322.8205,validated_form,CBA_UO_labelled,0,0,0,False
+AZE,Azerbaijan,0,7432,118322.8205,validated_form,UH,0,0,0,False
+AZE,Azerbaijan,0,7432,118322.8205,validated_form,PBA,0,0,0,False
+AZE,Azerbaijan,0,7432,118322.8205,validated_form,unresolved_form,0,0,0,False
+BEL,Belgium,1,7456,127049.7603,ADMINMODE,1.0,7456,127049.7603,100,False
+BEL,Belgium,1,7456,127049.7603,ADMINMODE,2.0,0,0,0,False
+BEL,Belgium,1,7456,127049.7603,ADMINMODE,other,0,0,0,False
+BEL,Belgium,1,7456,127049.7603,ADMINMODE,missing,0,0,0,False
+BEL,Belgium,1,7456,127049.7603,validated_form,CBA_standard,7282,122374.6195,96.32022855,False
+BEL,Belgium,1,7456,127049.7603,validated_form,CBA_FLA,0,0,0,False
+BEL,Belgium,1,7456,127049.7603,validated_form,CBA_UO_labelled,0,0,0,False
+BEL,Belgium,1,7456,127049.7603,validated_form,UH,173,4650.261774,3.660189331,False
+BEL,Belgium,1,7456,127049.7603,validated_form,PBA,0,0,0,False
+BEL,Belgium,1,,,validated_form,unresolved_form,,,,True
+BGR,Bulgaria,0,6830,58224.10099,ADMINMODE,1.0,6830,58224.10099,100,False
+BGR,Bulgaria,0,6830,58224.10099,ADMINMODE,2.0,0,0,0,False
+BGR,Bulgaria,0,6830,58224.10099,ADMINMODE,other,0,0,0,False
+BGR,Bulgaria,0,6830,58224.10099,ADMINMODE,missing,0,0,0,False
+BGR,Bulgaria,0,6830,58224.10099,validated_form,CBA_standard,6830,58224.10099,100,False
+BGR,Bulgaria,0,6830,58224.10099,validated_form,CBA_FLA,0,0,0,False
+BGR,Bulgaria,0,6830,58224.10099,validated_form,CBA_UO_labelled,0,0,0,False
+BGR,Bulgaria,0,6830,58224.10099,validated_form,UH,0,0,0,False
+BGR,Bulgaria,0,6830,58224.10099,validated_form,PBA,0,0,0,False
+BGR,Bulgaria,0,6830,58224.10099,validated_form,unresolved_form,0,0,0,False
+BRA,Brazil,0,30140,2184649.902,ADMINMODE,1.0,30140,2184649.902,100,False
+BRA,Brazil,0,30140,2184649.902,ADMINMODE,2.0,0,0,0,False
+BRA,Brazil,0,30140,2184649.902,ADMINMODE,other,0,0,0,False
+BRA,Brazil,0,30140,2184649.902,ADMINMODE,missing,0,0,0,False
+BRA,Brazil,0,30140,2184649.902,validated_form,CBA_standard,29816,2159866.463,98.86556475,False
+BRA,Brazil,0,30140,2184649.902,validated_form,CBA_FLA,0,0,0,False
+BRA,Brazil,0,30140,2184649.902,validated_form,CBA_UO_labelled,0,0,0,False
+BRA,Brazil,0,30140,2184649.902,validated_form,UH,324,24783.43849,1.134435246,False
+BRA,Brazil,0,30140,2184649.902,validated_form,PBA,0,0,0,False
+BRA,Brazil,0,30140,2184649.902,validated_form,unresolved_form,0,0,0,False
+BRN,Brunei Darussalam,0,5730,5864.982456,ADMINMODE,1.0,5730,5864.982456,100,False
+BRN,Brunei Darussalam,0,5730,5864.982456,ADMINMODE,2.0,0,0,0,False
+BRN,Brunei Darussalam,0,5730,5864.982456,ADMINMODE,other,0,0,0,False
+BRN,Brunei Darussalam,0,5730,5864.982456,ADMINMODE,missing,0,0,0,False
+BRN,Brunei Darussalam,0,5730,5864.982456,validated_form,CBA_standard,5730,5864.982456,100,False
+BRN,Brunei Darussalam,0,5730,5864.982456,validated_form,CBA_FLA,0,0,0,False
+BRN,Brunei Darussalam,0,5730,5864.982456,validated_form,CBA_UO_labelled,0,0,0,False
+BRN,Brunei Darussalam,0,5730,5864.982456,validated_form,UH,0,0,0,False
+BRN,Brunei Darussalam,0,5730,5864.982456,validated_form,PBA,0,0,0,False
+BRN,Brunei Darussalam,0,5730,5864.982456,validated_form,unresolved_form,0,0,0,False
+CAN,Canada,1,24601,389375.7236,ADMINMODE,1.0,24601,389375.7236,100,False
+CAN,Canada,1,24601,389375.7236,ADMINMODE,2.0,0,0,0,False
+CAN,Canada,1,24601,389375.7236,ADMINMODE,other,0,0,0,False
+CAN,Canada,1,24601,389375.7236,ADMINMODE,missing,0,0,0,False
+CAN,Canada,1,24601,389375.7236,validated_form,CBA_standard,23394,369012.7009,94.77034097,False
+CAN,Canada,1,24601,389375.7236,validated_form,CBA_FLA,0,0,0,False
+CAN,Canada,1,24601,389375.7236,validated_form,CBA_UO_labelled,0,0,0,False
+CAN,Canada,1,24601,389375.7236,validated_form,UH,1207,20363.02267,5.229659026,False
+CAN,Canada,1,24601,389375.7236,validated_form,PBA,0,0,0,False
+CAN,Canada,1,24601,389375.7236,validated_form,unresolved_form,0,0,0,False
+CHE,Switzerland,1,7597,76899.85443,ADMINMODE,1.0,7597,76899.85443,100,False
+CHE,Switzerland,1,7597,76899.85443,ADMINMODE,2.0,0,0,0,False
+CHE,Switzerland,1,7597,76899.85443,ADMINMODE,other,0,0,0,False
+CHE,Switzerland,1,7597,76899.85443,ADMINMODE,missing,0,0,0,False
+CHE,Switzerland,1,7597,76899.85443,validated_form,CBA_standard,7597,76899.85443,100,False
+CHE,Switzerland,1,7597,76899.85443,validated_form,CBA_FLA,0,0,0,False
+CHE,Switzerland,1,7597,76899.85443,validated_form,CBA_UO_labelled,0,0,0,False
+CHE,Switzerland,1,7597,76899.85443,validated_form,UH,0,0,0,False
+CHE,Switzerland,1,7597,76899.85443,validated_form,PBA,0,0,0,False
+CHE,Switzerland,1,7597,76899.85443,validated_form,unresolved_form,0,0,0,False
+CHL,Chile,1,6573,248109.749,ADMINMODE,1.0,6573,248109.749,100,False
+CHL,Chile,1,6573,248109.749,ADMINMODE,2.0,0,0,0,False
+CHL,Chile,1,6573,248109.749,ADMINMODE,other,0,0,0,False
+CHL,Chile,1,6573,248109.749,ADMINMODE,missing,0,0,0,False
+CHL,Chile,1,6573,248109.749,validated_form,CBA_standard,5993,225506.5767,90.88984919,False
+CHL,Chile,1,6573,248109.749,validated_form,CBA_FLA,0,0,0,False
+CHL,Chile,1,6573,248109.749,validated_form,CBA_UO_labelled,0,0,0,False
+CHL,Chile,1,6573,248109.749,validated_form,UH,580,22603.17231,9.110150809,False
+CHL,Chile,1,6573,248109.749,validated_form,PBA,0,0,0,False
+CHL,Chile,1,6573,248109.749,validated_form,unresolved_form,0,0,0,False
+COL,Colombia,1,7268,597452.1585,ADMINMODE,1.0,7268,597452.1585,100,False
+COL,Colombia,1,7268,597452.1585,ADMINMODE,2.0,0,0,0,False
+COL,Colombia,1,7268,597452.1585,ADMINMODE,other,0,0,0,False
+COL,Colombia,1,7268,597452.1585,ADMINMODE,missing,0,0,0,False
+COL,Colombia,1,7268,597452.1585,validated_form,CBA_standard,7268,597452.1585,100,False
+COL,Colombia,1,7268,597452.1585,validated_form,CBA_FLA,0,0,0,False
+COL,Colombia,1,7268,597452.1585,validated_form,CBA_UO_labelled,0,0,0,False
+COL,Colombia,1,7268,597452.1585,validated_form,UH,0,0,0,False
+COL,Colombia,1,7268,597452.1585,validated_form,PBA,0,0,0,False
+COL,Colombia,1,7268,597452.1585,validated_form,unresolved_form,0,0,0,False
+CRI,Costa Rica,1,6881,54313.40721,ADMINMODE,1.0,6881,54313.40721,100,False
+CRI,Costa Rica,1,6881,54313.40721,ADMINMODE,2.0,0,0,0,False
+CRI,Costa Rica,1,6881,54313.40721,ADMINMODE,other,0,0,0,False
+CRI,Costa Rica,1,6881,54313.40721,ADMINMODE,missing,0,0,0,False
+CRI,Costa Rica,1,6881,54313.40721,validated_form,CBA_standard,6349,50006.7314,92.07069483,False
+CRI,Costa Rica,1,6881,54313.40721,validated_form,CBA_FLA,0,0,0,False
+CRI,Costa Rica,1,6881,54313.40721,validated_form,CBA_UO_labelled,0,0,0,False
+CRI,Costa Rica,1,6881,54313.40721,validated_form,UH,532,4306.675806,7.929305171,False
+CRI,Costa Rica,1,6881,54313.40721,validated_form,PBA,0,0,0,False
+CRI,Costa Rica,1,6881,54313.40721,validated_form,unresolved_form,0,0,0,False
+CZE,Czechia,1,8462,113055.9998,ADMINMODE,1.0,8462,113055.9998,100,False
+CZE,Czechia,1,8462,113055.9998,ADMINMODE,2.0,0,0,0,False
+CZE,Czechia,1,8462,113055.9998,ADMINMODE,other,0,0,0,False
+CZE,Czechia,1,8462,113055.9998,ADMINMODE,missing,0,0,0,False
+CZE,Czechia,1,8462,113055.9998,validated_form,CBA_standard,8372,111203.0587,98.36104131,False
+CZE,Czechia,1,8462,113055.9998,validated_form,CBA_FLA,0,0,0,False
+CZE,Czechia,1,8462,113055.9998,validated_form,CBA_UO_labelled,0,0,0,False
+CZE,Czechia,1,8462,113055.9998,validated_form,UH,90,1852.941132,1.638958688,False
+CZE,Czechia,1,8462,113055.9998,validated_form,PBA,0,0,0,False
+CZE,Czechia,1,8462,113055.9998,validated_form,unresolved_form,0,0,0,False
+DEU,Germany,1,6659,717880.2912,ADMINMODE,1.0,6659,717880.2912,100,False
+DEU,Germany,1,6659,717880.2912,ADMINMODE,2.0,0,0,0,False
+DEU,Germany,1,6659,717880.2912,ADMINMODE,other,0,0,0,False
+DEU,Germany,1,6659,717880.2912,ADMINMODE,missing,0,0,0,False
+DEU,Germany,1,6659,717880.2912,validated_form,CBA_standard,6531,702062.7346,97.79663033,False
+DEU,Germany,1,6659,717880.2912,validated_form,CBA_FLA,0,0,0,False
+DEU,Germany,1,6659,717880.2912,validated_form,CBA_UO_labelled,0,0,0,False
+DEU,Germany,1,6659,717880.2912,validated_form,UH,128,15817.5566,2.203369669,False
+DEU,Germany,1,6659,717880.2912,validated_form,PBA,0,0,0,False
+DEU,Germany,1,6659,717880.2912,validated_form,unresolved_form,0,0,0,False
+DNK,Denmark,1,5098,56465.96988,ADMINMODE,1.0,5098,56465.96988,100,False
+DNK,Denmark,1,5098,56465.96988,ADMINMODE,2.0,0,0,0,False
+DNK,Denmark,1,5098,56465.96988,ADMINMODE,other,0,0,0,False
+DNK,Denmark,1,5098,56465.96988,ADMINMODE,missing,0,0,0,False
+DNK,Denmark,1,5098,56465.96988,validated_form,CBA_standard,4538,51175.21915,90.63019595,False
+DNK,Denmark,1,5098,56465.96988,validated_form,CBA_FLA,0,0,0,False
+DNK,Denmark,1,5098,56465.96988,validated_form,CBA_UO_labelled,0,0,0,False
+DNK,Denmark,1,5098,56465.96988,validated_form,UH,560,5290.75073,9.369804045,False
+DNK,Denmark,1,5098,56465.96988,validated_form,PBA,0,0,0,False
+DNK,Denmark,1,5098,56465.96988,validated_form,unresolved_form,0,0,0,False
+DOM,Dominican Republic,0,7080,127852.2364,ADMINMODE,1.0,7080,127852.2364,100,False
+DOM,Dominican Republic,0,7080,127852.2364,ADMINMODE,2.0,0,0,0,False
+DOM,Dominican Republic,0,7080,127852.2364,ADMINMODE,other,0,0,0,False
+DOM,Dominican Republic,0,7080,127852.2364,ADMINMODE,missing,0,0,0,False
+DOM,Dominican Republic,0,7080,127852.2364,validated_form,CBA_standard,7080,127852.2364,100,False
+DOM,Dominican Republic,0,7080,127852.2364,validated_form,CBA_FLA,0,0,0,False
+DOM,Dominican Republic,0,7080,127852.2364,validated_form,CBA_UO_labelled,0,0,0,False
+DOM,Dominican Republic,0,7080,127852.2364,validated_form,UH,0,0,0,False
+DOM,Dominican Republic,0,7080,127852.2364,validated_form,PBA,0,0,0,False
+DOM,Dominican Republic,0,7080,127852.2364,validated_form,unresolved_form,0,0,0,False
+ECU,Ecuador,0,9128,267923.776,ADMINMODE,1.0,9128,267923.776,100,False
+ECU,Ecuador,0,9128,267923.776,ADMINMODE,2.0,0,0,0,False
+ECU,Ecuador,0,9128,267923.776,ADMINMODE,other,0,0,0,False
+ECU,Ecuador,0,9128,267923.776,ADMINMODE,missing,0,0,0,False
+ECU,Ecuador,0,9128,267923.776,validated_form,CBA_standard,9128,267923.776,100,False
+ECU,Ecuador,0,9128,267923.776,validated_form,CBA_FLA,0,0,0,False
+ECU,Ecuador,0,9128,267923.776,validated_form,CBA_UO_labelled,0,0,0,False
+ECU,Ecuador,0,9128,267923.776,validated_form,UH,0,0,0,False
+ECU,Ecuador,0,9128,267923.776,validated_form,PBA,0,0,0,False
+ECU,Ecuador,0,9128,267923.776,validated_form,unresolved_form,0,0,0,False
+ESP,Spain,1,29966,459747.2438,ADMINMODE,1.0,29966,459747.2438,100,False
+ESP,Spain,1,29966,459747.2438,ADMINMODE,2.0,0,0,0,False
+ESP,Spain,1,29966,459747.2438,ADMINMODE,other,0,0,0,False
+ESP,Spain,1,29966,459747.2438,ADMINMODE,missing,0,0,0,False
+ESP,Spain,1,29966,459747.2438,validated_form,CBA_standard,29966,459747.2438,100,False
+ESP,Spain,1,29966,459747.2438,validated_form,CBA_FLA,0,0,0,False
+ESP,Spain,1,29966,459747.2438,validated_form,CBA_UO_labelled,0,0,0,False
+ESP,Spain,1,29966,459747.2438,validated_form,UH,0,0,0,False
+ESP,Spain,1,29966,459747.2438,validated_form,PBA,0,0,0,False
+ESP,Spain,1,29966,459747.2438,validated_form,unresolved_form,0,0,0,False
+EST,Estonia,1,6304,14582.39046,ADMINMODE,1.0,6304,14582.39046,100,False
+EST,Estonia,1,6304,14582.39046,ADMINMODE,2.0,0,0,0,False
+EST,Estonia,1,6304,14582.39046,ADMINMODE,other,0,0,0,False
+EST,Estonia,1,6304,14582.39046,ADMINMODE,missing,0,0,0,False
+EST,Estonia,1,6304,14582.39046,validated_form,CBA_standard,6304,14582.39046,100,False
+EST,Estonia,1,6304,14582.39046,validated_form,CBA_FLA,0,0,0,False
+EST,Estonia,1,6304,14582.39046,validated_form,CBA_UO_labelled,0,0,0,False
+EST,Estonia,1,6304,14582.39046,validated_form,UH,0,0,0,False
+EST,Estonia,1,6304,14582.39046,validated_form,PBA,0,0,0,False
+EST,Estonia,1,6304,14582.39046,validated_form,unresolved_form,0,0,0,False
+FIN,Finland,1,7668,59891.23278,ADMINMODE,1.0,7668,59891.23278,100,False
+FIN,Finland,1,7668,59891.23278,ADMINMODE,2.0,0,0,0,False
+FIN,Finland,1,7668,59891.23278,ADMINMODE,other,0,0,0,False
+FIN,Finland,1,7668,59891.23278,ADMINMODE,missing,0,0,0,False
+FIN,Finland,1,7668,59891.23278,validated_form,CBA_standard,7668,59891.23278,100,False
+FIN,Finland,1,7668,59891.23278,validated_form,CBA_FLA,0,0,0,False
+FIN,Finland,1,7668,59891.23278,validated_form,CBA_UO_labelled,0,0,0,False
+FIN,Finland,1,7668,59891.23278,validated_form,UH,0,0,0,False
+FIN,Finland,1,7668,59891.23278,validated_form,PBA,0,0,0,False
+FIN,Finland,1,7668,59891.23278,validated_form,unresolved_form,0,0,0,False
+FRA,France,1,6501,768249.3201,ADMINMODE,1.0,6501,768249.3201,100,False
+FRA,France,1,6501,768249.3201,ADMINMODE,2.0,0,0,0,False
+FRA,France,1,6501,768249.3201,ADMINMODE,other,0,0,0,False
+FRA,France,1,6501,768249.3201,ADMINMODE,missing,0,0,0,False
+FRA,France,1,6501,768249.3201,validated_form,CBA_standard,6501,768249.3201,100,False
+FRA,France,1,6501,768249.3201,validated_form,CBA_FLA,0,0,0,False
+FRA,France,1,6501,768249.3201,validated_form,CBA_UO_labelled,0,0,0,False
+FRA,France,1,6501,768249.3201,validated_form,UH,0,0,0,False
+FRA,France,1,6501,768249.3201,validated_form,PBA,0,0,0,False
+FRA,France,1,6501,768249.3201,validated_form,unresolved_form,0,0,0,False
+GBR,United Kingdom,1,15546,704602.8138,ADMINMODE,1.0,15546,704602.8138,100,False
+GBR,United Kingdom,1,15546,704602.8138,ADMINMODE,2.0,0,0,0,False
+GBR,United Kingdom,1,15546,704602.8138,ADMINMODE,other,0,0,0,False
+GBR,United Kingdom,1,15546,704602.8138,ADMINMODE,missing,0,0,0,False
+GBR,United Kingdom,1,15546,704602.8138,validated_form,CBA_standard,15546,704602.8138,100,False
+GBR,United Kingdom,1,15546,704602.8138,validated_form,CBA_FLA,0,0,0,False
+GBR,United Kingdom,1,15546,704602.8138,validated_form,CBA_UO_labelled,0,0,0,False
+GBR,United Kingdom,1,15546,704602.8138,validated_form,UH,0,0,0,False
+GBR,United Kingdom,1,15546,704602.8138,validated_form,PBA,0,0,0,False
+GBR,United Kingdom,1,15546,704602.8138,validated_form,unresolved_form,0,0,0,False
+GEO,Georgia,0,6855,53880.17033,ADMINMODE,1.0,6855,53880.17033,100,False
+GEO,Georgia,0,6855,53880.17033,ADMINMODE,2.0,0,0,0,False
+GEO,Georgia,0,6855,53880.17033,ADMINMODE,other,0,0,0,False
+GEO,Georgia,0,6855,53880.17033,ADMINMODE,missing,0,0,0,False
+GEO,Georgia,0,6855,53880.17033,validated_form,CBA_standard,6855,53880.17033,100,False
+GEO,Georgia,0,6855,53880.17033,validated_form,CBA_FLA,0,0,0,False
+GEO,Georgia,0,6855,53880.17033,validated_form,CBA_UO_labelled,0,0,0,False
+GEO,Georgia,0,6855,53880.17033,validated_form,UH,0,0,0,False
+GEO,Georgia,0,6855,53880.17033,validated_form,PBA,0,0,0,False
+GEO,Georgia,0,6855,53880.17033,validated_form,unresolved_form,0,0,0,False
+GRC,Greece,1,6858,101833.8451,ADMINMODE,1.0,6858,101833.8451,100,False
+GRC,Greece,1,6858,101833.8451,ADMINMODE,2.0,0,0,0,False
+GRC,Greece,1,6858,101833.8451,ADMINMODE,other,0,0,0,False
+GRC,Greece,1,6858,101833.8451,ADMINMODE,missing,0,0,0,False
+GRC,Greece,1,6858,101833.8451,validated_form,CBA_standard,6858,101833.8451,100,False
+GRC,Greece,1,6858,101833.8451,validated_form,CBA_FLA,0,0,0,False
+GRC,Greece,1,6858,101833.8451,validated_form,CBA_UO_labelled,0,0,0,False
+GRC,Greece,1,6858,101833.8451,validated_form,UH,0,0,0,False
+GRC,Greece,1,6858,101833.8451,validated_form,PBA,0,0,0,False
+GRC,Greece,1,6858,101833.8451,validated_form,unresolved_form,0,0,0,False
+GTM,Guatemala,0,7014,193512.0552,ADMINMODE,1.0,7014,193512.0552,100,False
+GTM,Guatemala,0,7014,193512.0552,ADMINMODE,2.0,0,0,0,False
+GTM,Guatemala,0,7014,193512.0552,ADMINMODE,other,0,0,0,False
+GTM,Guatemala,0,7014,193512.0552,ADMINMODE,missing,0,0,0,False
+GTM,Guatemala,0,7014,193512.0552,validated_form,CBA_standard,7014,193512.0552,100,False
+GTM,Guatemala,0,7014,193512.0552,validated_form,CBA_FLA,0,0,0,False
+GTM,Guatemala,0,7014,193512.0552,validated_form,CBA_UO_labelled,0,0,0,False
+GTM,Guatemala,0,7014,193512.0552,validated_form,UH,0,0,0,False
+GTM,Guatemala,0,7014,193512.0552,validated_form,PBA,0,0,0,False
+GTM,Guatemala,0,7014,193512.0552,validated_form,unresolved_form,0,0,0,False
+HKG,Hong Kong (China),0,6445,49834.94306,ADMINMODE,1.0,6445,49834.94306,100,False
+HKG,Hong Kong (China),0,6445,49834.94306,ADMINMODE,2.0,0,0,0,False
+HKG,Hong Kong (China),0,6445,49834.94306,ADMINMODE,other,0,0,0,False
+HKG,Hong Kong (China),0,6445,49834.94306,ADMINMODE,missing,0,0,0,False
+HKG,Hong Kong (China),0,6445,49834.94306,validated_form,CBA_standard,6445,49834.94306,100,False
+HKG,Hong Kong (China),0,6445,49834.94306,validated_form,CBA_FLA,0,0,0,False
+HKG,Hong Kong (China),0,6445,49834.94306,validated_form,CBA_UO_labelled,0,0,0,False
+HKG,Hong Kong (China),0,6445,49834.94306,validated_form,UH,0,0,0,False
+HKG,Hong Kong (China),0,6445,49834.94306,validated_form,PBA,0,0,0,False
+HKG,Hong Kong (China),0,6445,49834.94306,validated_form,unresolved_form,0,0,0,False
+HRV,Croatia,0,6424,37146.03715,ADMINMODE,1.0,6424,37146.03715,100,False
+HRV,Croatia,0,6424,37146.03715,ADMINMODE,2.0,0,0,0,False
+HRV,Croatia,0,6424,37146.03715,ADMINMODE,other,0,0,0,False
+HRV,Croatia,0,6424,37146.03715,ADMINMODE,missing,0,0,0,False
+HRV,Croatia,0,6424,37146.03715,validated_form,CBA_standard,6424,37146.03715,100,False
+HRV,Croatia,0,6424,37146.03715,validated_form,CBA_FLA,0,0,0,False
+HRV,Croatia,0,6424,37146.03715,validated_form,CBA_UO_labelled,0,0,0,False
+HRV,Croatia,0,6424,37146.03715,validated_form,UH,0,0,0,False
+HRV,Croatia,0,6424,37146.03715,validated_form,PBA,0,0,0,False
+HRV,Croatia,0,6424,37146.03715,validated_form,unresolved_form,0,0,0,False
+HUN,Hungary,1,6387,86042.03755,ADMINMODE,1.0,6387,86042.03755,100,False
+HUN,Hungary,1,6387,86042.03755,ADMINMODE,2.0,0,0,0,False
+HUN,Hungary,1,6387,86042.03755,ADMINMODE,other,0,0,0,False
+HUN,Hungary,1,6387,86042.03755,ADMINMODE,missing,0,0,0,False
+HUN,Hungary,1,6387,86042.03755,validated_form,CBA_standard,6387,86042.03755,100,False
+HUN,Hungary,1,6387,86042.03755,validated_form,CBA_FLA,0,0,0,False
+HUN,Hungary,1,6387,86042.03755,validated_form,CBA_UO_labelled,0,0,0,False
+HUN,Hungary,1,6387,86042.03755,validated_form,UH,0,0,0,False
+HUN,Hungary,1,6387,86042.03755,validated_form,PBA,0,0,0,False
+HUN,Hungary,1,6387,86042.03755,validated_form,unresolved_form,0,0,0,False
+IDN,Indonesia,0,14168,3995221.933,ADMINMODE,1.0,14168,3995221.933,100,False
+IDN,Indonesia,0,14168,3995221.933,ADMINMODE,2.0,0,0,0,False
+IDN,Indonesia,0,14168,3995221.933,ADMINMODE,other,0,0,0,False
+IDN,Indonesia,0,14168,3995221.933,ADMINMODE,missing,0,0,0,False
+IDN,Indonesia,0,14168,3995221.933,validated_form,CBA_standard,14168,3995221.933,100,False
+IDN,Indonesia,0,14168,3995221.933,validated_form,CBA_FLA,0,0,0,False
+IDN,Indonesia,0,14168,3995221.933,validated_form,CBA_UO_labelled,0,0,0,False
+IDN,Indonesia,0,14168,3995221.933,validated_form,UH,0,0,0,False
+IDN,Indonesia,0,14168,3995221.933,validated_form,PBA,0,0,0,False
+IDN,Indonesia,0,14168,3995221.933,validated_form,unresolved_form,0,0,0,False
+IRL,Ireland,1,6356,74150.16745,ADMINMODE,1.0,6356,74150.16745,100,False
+IRL,Ireland,1,6356,74150.16745,ADMINMODE,2.0,0,0,0,False
+IRL,Ireland,1,6356,74150.16745,ADMINMODE,other,0,0,0,False
+IRL,Ireland,1,6356,74150.16745,ADMINMODE,missing,0,0,0,False
+IRL,Ireland,1,6356,74150.16745,validated_form,CBA_standard,6356,74150.16745,100,False
+IRL,Ireland,1,6356,74150.16745,validated_form,CBA_FLA,0,0,0,False
+IRL,Ireland,1,6356,74150.16745,validated_form,CBA_UO_labelled,0,0,0,False
+IRL,Ireland,1,6356,74150.16745,validated_form,UH,0,0,0,False
+IRL,Ireland,1,6356,74150.16745,validated_form,PBA,0,0,0,False
+IRL,Ireland,1,6356,74150.16745,validated_form,unresolved_form,0,0,0,False
+ISL,Iceland,1,3974,4805.621546,ADMINMODE,1.0,3974,4805.621546,100,False
+ISL,Iceland,1,3974,4805.621546,ADMINMODE,2.0,0,0,0,False
+ISL,Iceland,1,3974,4805.621546,ADMINMODE,other,0,0,0,False
+ISL,Iceland,1,3974,4805.621546,ADMINMODE,missing,0,0,0,False
+ISL,Iceland,1,3974,4805.621546,validated_form,CBA_standard,3854,4662.103013,97.01352819,False
+ISL,Iceland,1,3974,4805.621546,validated_form,CBA_FLA,0,0,0,False
+ISL,Iceland,1,3974,4805.621546,validated_form,CBA_UO_labelled,0,0,0,False
+ISL,Iceland,1,3974,4805.621546,validated_form,UH,120,143.5185329,2.986471813,False
+ISL,Iceland,1,3974,4805.621546,validated_form,PBA,0,0,0,False
+ISL,Iceland,1,3974,4805.621546,validated_form,unresolved_form,0,0,0,False
+ISR,Israel,1,7330,141264.1908,ADMINMODE,1.0,7330,141264.1908,100,False
+ISR,Israel,1,7330,141264.1908,ADMINMODE,2.0,0,0,0,False
+ISR,Israel,1,7330,141264.1908,ADMINMODE,other,0,0,0,False
+ISR,Israel,1,7330,141264.1908,ADMINMODE,missing,0,0,0,False
+ISR,Israel,1,7330,141264.1908,validated_form,CBA_standard,6372,119248.3292,84.41511511,False
+ISR,Israel,1,7330,141264.1908,validated_form,CBA_FLA,0,0,0,False
+ISR,Israel,1,7330,141264.1908,validated_form,CBA_UO_labelled,958,22015.86151,15.58488489,False
+ISR,Israel,1,7330,141264.1908,validated_form,UH,0,0,0,False
+ISR,Israel,1,7330,141264.1908,validated_form,PBA,0,0,0,False
+ISR,Israel,1,7330,141264.1908,validated_form,unresolved_form,0,0,0,False
+ITA,Italy,1,8946,507002.5021,ADMINMODE,1.0,8946,507002.5021,100,False
+ITA,Italy,1,8946,507002.5021,ADMINMODE,2.0,0,0,0,False
+ITA,Italy,1,8946,507002.5021,ADMINMODE,other,0,0,0,False
+ITA,Italy,1,8946,507002.5021,ADMINMODE,missing,0,0,0,False
+ITA,Italy,1,8946,507002.5021,validated_form,CBA_standard,8946,507002.5021,100,False
+ITA,Italy,1,8946,507002.5021,validated_form,CBA_FLA,0,0,0,False
+ITA,Italy,1,8946,507002.5021,validated_form,CBA_UO_labelled,0,0,0,False
+ITA,Italy,1,8946,507002.5021,validated_form,UH,0,0,0,False
+ITA,Italy,1,8946,507002.5021,validated_form,PBA,0,0,0,False
+ITA,Italy,1,8946,507002.5021,validated_form,unresolved_form,0,0,0,False
+JOR,Jordan,0,8290,153822.9325,ADMINMODE,1.0,8290,153822.9325,100,False
+JOR,Jordan,0,8290,153822.9325,ADMINMODE,2.0,0,0,0,False
+JOR,Jordan,0,8290,153822.9325,ADMINMODE,other,0,0,0,False
+JOR,Jordan,0,8290,153822.9325,ADMINMODE,missing,0,0,0,False
+JOR,Jordan,0,8290,153822.9325,validated_form,CBA_standard,8290,153822.9325,100,False
+JOR,Jordan,0,8290,153822.9325,validated_form,CBA_FLA,0,0,0,False
+JOR,Jordan,0,8290,153822.9325,validated_form,CBA_UO_labelled,0,0,0,False
+JOR,Jordan,0,8290,153822.9325,validated_form,UH,0,0,0,False
+JOR,Jordan,0,8290,153822.9325,validated_form,PBA,0,0,0,False
+JOR,Jordan,0,8290,153822.9325,validated_form,unresolved_form,0,0,0,False
+JPN,Japan,1,6554,951150.6306,ADMINMODE,1.0,6554,951150.6306,100,False
+JPN,Japan,1,6554,951150.6306,ADMINMODE,2.0,0,0,0,False
+JPN,Japan,1,6554,951150.6306,ADMINMODE,other,0,0,0,False
+JPN,Japan,1,6554,951150.6306,ADMINMODE,missing,0,0,0,False
+JPN,Japan,1,6554,951150.6306,validated_form,CBA_standard,6554,951150.6306,100,False
+JPN,Japan,1,6554,951150.6306,validated_form,CBA_FLA,0,0,0,False
+JPN,Japan,1,6554,951150.6306,validated_form,CBA_UO_labelled,0,0,0,False
+JPN,Japan,1,6554,951150.6306,validated_form,UH,0,0,0,False
+JPN,Japan,1,6554,951150.6306,validated_form,PBA,0,0,0,False
+JPN,Japan,1,6554,951150.6306,validated_form,unresolved_form,0,0,0,False
+KAZ,Kazakhstan,0,22680,324605.6073,ADMINMODE,1.0,22680,324605.6073,100,False
+KAZ,Kazakhstan,0,22680,324605.6073,ADMINMODE,2.0,0,0,0,False
+KAZ,Kazakhstan,0,22680,324605.6073,ADMINMODE,other,0,0,0,False
+KAZ,Kazakhstan,0,22680,324605.6073,ADMINMODE,missing,0,0,0,False
+KAZ,Kazakhstan,0,22680,324605.6073,validated_form,CBA_standard,22680,324605.6073,100,False
+KAZ,Kazakhstan,0,22680,324605.6073,validated_form,CBA_FLA,0,0,0,False
+KAZ,Kazakhstan,0,22680,324605.6073,validated_form,CBA_UO_labelled,0,0,0,False
+KAZ,Kazakhstan,0,22680,324605.6073,validated_form,UH,0,0,0,False
+KAZ,Kazakhstan,0,22680,324605.6073,validated_form,PBA,0,0,0,False
+KAZ,Kazakhstan,0,22680,324605.6073,validated_form,unresolved_form,0,0,0,False
+KEN,Kenya,0,6459,1098702.325,ADMINMODE,1.0,6459,1098702.325,100,False
+KEN,Kenya,0,6459,1098702.325,ADMINMODE,2.0,0,0,0,False
+KEN,Kenya,0,6459,1098702.325,ADMINMODE,other,0,0,0,False
+KEN,Kenya,0,6459,1098702.325,ADMINMODE,missing,0,0,0,False
+KEN,Kenya,0,6459,1098702.325,validated_form,CBA_standard,6459,1098702.325,100,False
+KEN,Kenya,0,6459,1098702.325,validated_form,CBA_FLA,0,0,0,False
+KEN,Kenya,0,6459,1098702.325,validated_form,CBA_UO_labelled,0,0,0,False
+KEN,Kenya,0,6459,1098702.325,validated_form,UH,0,0,0,False
+KEN,Kenya,0,6459,1098702.325,validated_form,PBA,0,0,0,False
+KEN,Kenya,0,6459,1098702.325,validated_form,unresolved_form,0,0,0,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,ADMINMODE,1.0,6645,98869.84925,100,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,ADMINMODE,2.0,0,0,0,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,ADMINMODE,other,0,0,0,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,ADMINMODE,missing,0,0,0,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,validated_form,CBA_standard,6645,98869.84925,100,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,validated_form,CBA_FLA,0,0,0,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,validated_form,CBA_UO_labelled,0,0,0,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,validated_form,UH,0,0,0,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,validated_form,PBA,0,0,0,False
+KGZ,Kyrgyzstan,0,6645,98869.84925,validated_form,unresolved_form,0,0,0,False
+KHM,Cambodia,0,5464,136848.9736,ADMINMODE,1.0,0,0,0,False
+KHM,Cambodia,0,5464,136848.9736,ADMINMODE,2.0,5464,136848.9736,100,False
+KHM,Cambodia,0,5464,136848.9736,ADMINMODE,other,0,0,0,False
+KHM,Cambodia,0,5464,136848.9736,ADMINMODE,missing,0,0,0,False
+KHM,Cambodia,0,5464,136848.9736,validated_form,CBA_standard,0,0,0,False
+KHM,Cambodia,0,5464,136848.9736,validated_form,CBA_FLA,0,0,0,False
+KHM,Cambodia,0,5464,136848.9736,validated_form,CBA_UO_labelled,0,0,0,False
+KHM,Cambodia,0,5464,136848.9736,validated_form,UH,0,0,0,False
+KHM,Cambodia,0,5464,136848.9736,validated_form,PBA,5464,136848.9736,100,False
+KHM,Cambodia,0,5464,136848.9736,validated_form,unresolved_form,0,0,0,False
+KOR,Korea,1,6859,418075.5649,ADMINMODE,1.0,6859,418075.5649,100,False
+KOR,Korea,1,6859,418075.5649,ADMINMODE,2.0,0,0,0,False
+KOR,Korea,1,6859,418075.5649,ADMINMODE,other,0,0,0,False
+KOR,Korea,1,6859,418075.5649,ADMINMODE,missing,0,0,0,False
+KOR,Korea,1,6859,418075.5649,validated_form,CBA_standard,6859,418075.5649,100,False
+KOR,Korea,1,6859,418075.5649,validated_form,CBA_FLA,0,0,0,False
+KOR,Korea,1,6859,418075.5649,validated_form,CBA_UO_labelled,0,0,0,False
+KOR,Korea,1,6859,418075.5649,validated_form,UH,0,0,0,False
+KOR,Korea,1,6859,418075.5649,validated_form,PBA,0,0,0,False
+KOR,Korea,1,6859,418075.5649,validated_form,unresolved_form,0,0,0,False
+KSV,Kosovo,0,6632,19883.91593,ADMINMODE,1.0,6632,19883.91593,100,False
+KSV,Kosovo,0,6632,19883.91593,ADMINMODE,2.0,0,0,0,False
+KSV,Kosovo,0,6632,19883.91593,ADMINMODE,other,0,0,0,False
+KSV,Kosovo,0,6632,19883.91593,ADMINMODE,missing,0,0,0,False
+KSV,Kosovo,0,6632,19883.91593,validated_form,CBA_standard,6632,19883.91593,100,False
+KSV,Kosovo,0,6632,19883.91593,validated_form,CBA_FLA,0,0,0,False
+KSV,Kosovo,0,6632,19883.91593,validated_form,CBA_UO_labelled,0,0,0,False
+KSV,Kosovo,0,6632,19883.91593,validated_form,UH,0,0,0,False
+KSV,Kosovo,0,6632,19883.91593,validated_form,PBA,0,0,0,False
+KSV,Kosovo,0,6632,19883.91593,validated_form,unresolved_form,0,0,0,False
+LBN,Lebanon,0,7382,56706.55227,ADMINMODE,1.0,7382,56706.55227,100,False
+LBN,Lebanon,0,7382,56706.55227,ADMINMODE,2.0,0,0,0,False
+LBN,Lebanon,0,7382,56706.55227,ADMINMODE,other,0,0,0,False
+LBN,Lebanon,0,7382,56706.55227,ADMINMODE,missing,0,0,0,False
+LBN,Lebanon,0,7382,56706.55227,validated_form,CBA_standard,7382,56706.55227,100,False
+LBN,Lebanon,0,7382,56706.55227,validated_form,CBA_FLA,0,0,0,False
+LBN,Lebanon,0,7382,56706.55227,validated_form,CBA_UO_labelled,0,0,0,False
+LBN,Lebanon,0,7382,56706.55227,validated_form,UH,0,0,0,False
+LBN,Lebanon,0,7382,56706.55227,validated_form,PBA,0,0,0,False
+LBN,Lebanon,0,7382,56706.55227,validated_form,unresolved_form,0,0,0,False
+LTU,Lithuania,1,7718,28734.60046,ADMINMODE,1.0,7718,28734.60046,100,False
+LTU,Lithuania,1,7718,28734.60046,ADMINMODE,2.0,0,0,0,False
+LTU,Lithuania,1,7718,28734.60046,ADMINMODE,other,0,0,0,False
+LTU,Lithuania,1,7718,28734.60046,ADMINMODE,missing,0,0,0,False
+LTU,Lithuania,1,7718,28734.60046,validated_form,CBA_standard,7718,28734.60046,100,False
+LTU,Lithuania,1,7718,28734.60046,validated_form,CBA_FLA,0,0,0,False
+LTU,Lithuania,1,7718,28734.60046,validated_form,CBA_UO_labelled,0,0,0,False
+LTU,Lithuania,1,7718,28734.60046,validated_form,UH,0,0,0,False
+LTU,Lithuania,1,7718,28734.60046,validated_form,PBA,0,0,0,False
+LTU,Lithuania,1,7718,28734.60046,validated_form,unresolved_form,0,0,0,False
+LUX,Luxembourg,1,6078,6469,ADMINMODE,1.0,6078,6469,100,False
+LUX,Luxembourg,1,6078,6469,ADMINMODE,2.0,0,0,0,False
+LUX,Luxembourg,1,6078,6469,ADMINMODE,other,0,0,0,False
+LUX,Luxembourg,1,6078,6469,ADMINMODE,missing,0,0,0,False
+LUX,Luxembourg,1,6078,6469,validated_form,CBA_standard,6078,6469,100,False
+LUX,Luxembourg,1,6078,6469,validated_form,CBA_FLA,0,0,0,False
+LUX,Luxembourg,1,6078,6469,validated_form,CBA_UO_labelled,0,0,0,False
+LUX,Luxembourg,1,6078,6469,validated_form,UH,0,0,0,False
+LUX,Luxembourg,1,6078,6469,validated_form,PBA,0,0,0,False
+LUX,Luxembourg,1,6078,6469,validated_form,unresolved_form,0,0,0,False
+LVA,Latvia,1,6968,17681.24721,ADMINMODE,1.0,6968,17681.24721,100,False
+LVA,Latvia,1,6968,17681.24721,ADMINMODE,2.0,0,0,0,False
+LVA,Latvia,1,6968,17681.24721,ADMINMODE,other,0,0,0,False
+LVA,Latvia,1,6968,17681.24721,ADMINMODE,missing,0,0,0,False
+LVA,Latvia,1,6968,17681.24721,validated_form,CBA_standard,6968,17681.24721,100,False
+LVA,Latvia,1,6968,17681.24721,validated_form,CBA_FLA,0,0,0,False
+LVA,Latvia,1,6968,17681.24721,validated_form,CBA_UO_labelled,0,0,0,False
+LVA,Latvia,1,6968,17681.24721,validated_form,UH,0,0,0,False
+LVA,Latvia,1,6968,17681.24721,validated_form,PBA,0,0,0,False
+LVA,Latvia,1,6968,17681.24721,validated_form,unresolved_form,0,0,0,False
+MAC,Macao (China),0,4953,5026,ADMINMODE,1.0,4953,5026,100,False
+MAC,Macao (China),0,4953,5026,ADMINMODE,2.0,0,0,0,False
+MAC,Macao (China),0,4953,5026,ADMINMODE,other,0,0,0,False
+MAC,Macao (China),0,4953,5026,ADMINMODE,missing,0,0,0,False
+MAC,Macao (China),0,4953,5026,validated_form,CBA_standard,4953,5026,100,False
+MAC,Macao (China),0,4953,5026,validated_form,CBA_FLA,0,0,0,False
+MAC,Macao (China),0,4953,5026,validated_form,CBA_UO_labelled,0,0,0,False
+MAC,Macao (China),0,4953,5026,validated_form,UH,0,0,0,False
+MAC,Macao (China),0,4953,5026,validated_form,PBA,0,0,0,False
+MAC,Macao (China),0,4953,5026,validated_form,unresolved_form,0,0,0,False
+MAR,Morocco,0,6978,535788.9837,ADMINMODE,1.0,6978,535788.9837,100,False
+MAR,Morocco,0,6978,535788.9837,ADMINMODE,2.0,0,0,0,False
+MAR,Morocco,0,6978,535788.9837,ADMINMODE,other,0,0,0,False
+MAR,Morocco,0,6978,535788.9837,ADMINMODE,missing,0,0,0,False
+MAR,Morocco,0,6978,535788.9837,validated_form,CBA_standard,6978,535788.9837,100,False
+MAR,Morocco,0,6978,535788.9837,validated_form,CBA_FLA,0,0,0,False
+MAR,Morocco,0,6978,535788.9837,validated_form,CBA_UO_labelled,0,0,0,False
+MAR,Morocco,0,6978,535788.9837,validated_form,UH,0,0,0,False
+MAR,Morocco,0,6978,535788.9837,validated_form,PBA,0,0,0,False
+MAR,Morocco,0,6978,535788.9837,validated_form,unresolved_form,0,0,0,False
+MDA,Moldova,0,6640,30420.65546,ADMINMODE,1.0,6640,30420.65546,100,False
+MDA,Moldova,0,6640,30420.65546,ADMINMODE,2.0,0,0,0,False
+MDA,Moldova,0,6640,30420.65546,ADMINMODE,other,0,0,0,False
+MDA,Moldova,0,6640,30420.65546,ADMINMODE,missing,0,0,0,False
+MDA,Moldova,0,6640,30420.65546,validated_form,CBA_standard,6640,30420.65546,100,False
+MDA,Moldova,0,6640,30420.65546,validated_form,CBA_FLA,0,0,0,False
+MDA,Moldova,0,6640,30420.65546,validated_form,CBA_UO_labelled,0,0,0,False
+MDA,Moldova,0,6640,30420.65546,validated_form,UH,0,0,0,False
+MDA,Moldova,0,6640,30420.65546,validated_form,PBA,0,0,0,False
+MDA,Moldova,0,6640,30420.65546,validated_form,unresolved_form,0,0,0,False
+MEX,Mexico,1,7843,1580936.696,ADMINMODE,1.0,7843,1580936.696,100,False
+MEX,Mexico,1,7843,1580936.696,ADMINMODE,2.0,0,0,0,False
+MEX,Mexico,1,7843,1580936.696,ADMINMODE,other,0,0,0,False
+MEX,Mexico,1,7843,1580936.696,ADMINMODE,missing,0,0,0,False
+MEX,Mexico,1,7843,1580936.696,validated_form,CBA_standard,7843,1580936.696,100,False
+MEX,Mexico,1,7843,1580936.696,validated_form,CBA_FLA,0,0,0,False
+MEX,Mexico,1,7843,1580936.696,validated_form,CBA_UO_labelled,0,0,0,False
+MEX,Mexico,1,7843,1580936.696,validated_form,UH,0,0,0,False
+MEX,Mexico,1,7843,1580936.696,validated_form,PBA,0,0,0,False
+MEX,Mexico,1,7843,1580936.696,validated_form,unresolved_form,0,0,0,False
+MKD,North Macedonia,0,6977,16657.03603,ADMINMODE,1.0,6977,16657.03603,100,False
+MKD,North Macedonia,0,6977,16657.03603,ADMINMODE,2.0,0,0,0,False
+MKD,North Macedonia,0,6977,16657.03603,ADMINMODE,other,0,0,0,False
+MKD,North Macedonia,0,6977,16657.03603,ADMINMODE,missing,0,0,0,False
+MKD,North Macedonia,0,6977,16657.03603,validated_form,CBA_standard,6977,16657.03603,100,False
+MKD,North Macedonia,0,6977,16657.03603,validated_form,CBA_FLA,0,0,0,False
+MKD,North Macedonia,0,6977,16657.03603,validated_form,CBA_UO_labelled,0,0,0,False
+MKD,North Macedonia,0,6977,16657.03603,validated_form,UH,0,0,0,False
+MKD,North Macedonia,0,6977,16657.03603,validated_form,PBA,0,0,0,False
+MKD,North Macedonia,0,6977,16657.03603,validated_form,unresolved_form,0,0,0,False
+MLT,Malta,0,3680,4341,ADMINMODE,1.0,3680,4341,100,False
+MLT,Malta,0,3680,4341,ADMINMODE,2.0,0,0,0,False
+MLT,Malta,0,3680,4341,ADMINMODE,other,0,0,0,False
+MLT,Malta,0,3680,4341,ADMINMODE,missing,0,0,0,False
+MLT,Malta,0,3680,4341,validated_form,CBA_standard,3680,4341,100,False
+MLT,Malta,0,3680,4341,validated_form,CBA_FLA,0,0,0,False
+MLT,Malta,0,3680,4341,validated_form,CBA_UO_labelled,0,0,0,False
+MLT,Malta,0,3680,4341,validated_form,UH,0,0,0,False
+MLT,Malta,0,3680,4341,validated_form,PBA,0,0,0,False
+MLT,Malta,0,3680,4341,validated_form,unresolved_form,0,0,0,False
+MNE,Montenegro,0,6436,7349.341507,ADMINMODE,1.0,6436,7349.341507,100,False
+MNE,Montenegro,0,6436,7349.341507,ADMINMODE,2.0,0,0,0,False
+MNE,Montenegro,0,6436,7349.341507,ADMINMODE,other,0,0,0,False
+MNE,Montenegro,0,6436,7349.341507,ADMINMODE,missing,0,0,0,False
+MNE,Montenegro,0,6436,7349.341507,validated_form,CBA_standard,6436,7349.341507,100,False
+MNE,Montenegro,0,6436,7349.341507,validated_form,CBA_FLA,0,0,0,False
+MNE,Montenegro,0,6436,7349.341507,validated_form,CBA_UO_labelled,0,0,0,False
+MNE,Montenegro,0,6436,7349.341507,validated_form,UH,0,0,0,False
+MNE,Montenegro,0,6436,7349.341507,validated_form,PBA,0,0,0,False
+MNE,Montenegro,0,6436,7349.341507,validated_form,unresolved_form,0,0,0,False
+MNG,Mongolia,0,7146,59870.69313,ADMINMODE,1.0,7146,59870.69313,100,False
+MNG,Mongolia,0,7146,59870.69313,ADMINMODE,2.0,0,0,0,False
+MNG,Mongolia,0,7146,59870.69313,ADMINMODE,other,0,0,0,False
+MNG,Mongolia,0,7146,59870.69313,ADMINMODE,missing,0,0,0,False
+MNG,Mongolia,0,7146,59870.69313,validated_form,CBA_standard,7146,59870.69313,100,False
+MNG,Mongolia,0,7146,59870.69313,validated_form,CBA_FLA,0,0,0,False
+MNG,Mongolia,0,7146,59870.69313,validated_form,CBA_UO_labelled,0,0,0,False
+MNG,Mongolia,0,7146,59870.69313,validated_form,UH,0,0,0,False
+MNG,Mongolia,0,7146,59870.69313,validated_form,PBA,0,0,0,False
+MNG,Mongolia,0,7146,59870.69313,validated_form,unresolved_form,0,0,0,False
+MUS,Mauritius,0,5360,11663.45915,ADMINMODE,1.0,0,0,0,False
+MUS,Mauritius,0,5360,11663.45915,ADMINMODE,2.0,5360,11663.45915,100,False
+MUS,Mauritius,0,5360,11663.45915,ADMINMODE,other,0,0,0,False
+MUS,Mauritius,0,5360,11663.45915,ADMINMODE,missing,0,0,0,False
+MUS,Mauritius,0,5360,11663.45915,validated_form,CBA_standard,0,0,0,False
+MUS,Mauritius,0,5360,11663.45915,validated_form,CBA_FLA,0,0,0,False
+MUS,Mauritius,0,5360,11663.45915,validated_form,CBA_UO_labelled,0,0,0,False
+MUS,Mauritius,0,5360,11663.45915,validated_form,UH,0,0,0,False
+MUS,Mauritius,0,5360,11663.45915,validated_form,PBA,5360,11663.45915,100,False
+MUS,Mauritius,0,5360,11663.45915,validated_form,unresolved_form,0,0,0,False
+MYS,Malaysia,0,7624,413411.0618,ADMINMODE,1.0,7624,413411.0618,100,False
+MYS,Malaysia,0,7624,413411.0618,ADMINMODE,2.0,0,0,0,False
+MYS,Malaysia,0,7624,413411.0618,ADMINMODE,other,0,0,0,False
+MYS,Malaysia,0,7624,413411.0618,ADMINMODE,missing,0,0,0,False
+MYS,Malaysia,0,7624,413411.0618,validated_form,CBA_standard,7624,413411.0618,100,False
+MYS,Malaysia,0,7624,413411.0618,validated_form,CBA_FLA,0,0,0,False
+MYS,Malaysia,0,7624,413411.0618,validated_form,CBA_UO_labelled,0,0,0,False
+MYS,Malaysia,0,7624,413411.0618,validated_form,UH,0,0,0,False
+MYS,Malaysia,0,7624,413411.0618,validated_form,PBA,0,0,0,False
+MYS,Malaysia,0,7624,413411.0618,validated_form,unresolved_form,0,0,0,False
+NLD,Netherlands,1,6636,165897.4833,ADMINMODE,1.0,6636,165897.4833,100,False
+NLD,Netherlands,1,6636,165897.4833,ADMINMODE,2.0,0,0,0,False
+NLD,Netherlands,1,6636,165897.4833,ADMINMODE,other,0,0,0,False
+NLD,Netherlands,1,6636,165897.4833,ADMINMODE,missing,0,0,0,False
+NLD,Netherlands,1,6636,165897.4833,validated_form,CBA_standard,6320,156428.1402,94.29205139,False
+NLD,Netherlands,1,6636,165897.4833,validated_form,CBA_FLA,0,0,0,False
+NLD,Netherlands,1,6636,165897.4833,validated_form,CBA_UO_labelled,0,0,0,False
+NLD,Netherlands,1,6636,165897.4833,validated_form,UH,316,9469.343093,5.707948609,False
+NLD,Netherlands,1,6636,165897.4833,validated_form,PBA,0,0,0,False
+NLD,Netherlands,1,6636,165897.4833,validated_form,unresolved_form,0,0,0,False
+NOR,Norway,1,6469,61734.44823,ADMINMODE,1.0,6469,61734.44823,100,False
+NOR,Norway,1,6469,61734.44823,ADMINMODE,2.0,0,0,0,False
+NOR,Norway,1,6469,61734.44823,ADMINMODE,other,0,0,0,False
+NOR,Norway,1,6469,61734.44823,ADMINMODE,missing,0,0,0,False
+NOR,Norway,1,6469,61734.44823,validated_form,CBA_standard,6469,61734.44823,100,False
+NOR,Norway,1,6469,61734.44823,validated_form,CBA_FLA,0,0,0,False
+NOR,Norway,1,6469,61734.44823,validated_form,CBA_UO_labelled,0,0,0,False
+NOR,Norway,1,6469,61734.44823,validated_form,UH,0,0,0,False
+NOR,Norway,1,6469,61734.44823,validated_form,PBA,0,0,0,False
+NOR,Norway,1,6469,61734.44823,validated_form,unresolved_form,0,0,0,False
+NZL,New Zealand,1,5004,61187.14014,ADMINMODE,1.0,5004,61187.14014,100,False
+NZL,New Zealand,1,5004,61187.14014,ADMINMODE,2.0,0,0,0,False
+NZL,New Zealand,1,5004,61187.14014,ADMINMODE,other,0,0,0,False
+NZL,New Zealand,1,5004,61187.14014,ADMINMODE,missing,0,0,0,False
+NZL,New Zealand,1,5004,61187.14014,validated_form,CBA_standard,4912,60153.85895,98.31127719,False
+NZL,New Zealand,1,5004,61187.14014,validated_form,CBA_FLA,0,0,0,False
+NZL,New Zealand,1,5004,61187.14014,validated_form,CBA_UO_labelled,0,0,0,False
+NZL,New Zealand,1,5004,61187.14014,validated_form,UH,92,1033.281194,1.688722813,False
+NZL,New Zealand,1,5004,61187.14014,validated_form,PBA,0,0,0,False
+NZL,New Zealand,1,5004,61187.14014,validated_form,unresolved_form,0,0,0,False
+PER,Peru,0,6991,519745.1024,ADMINMODE,1.0,6991,519745.1024,100,False
+PER,Peru,0,6991,519745.1024,ADMINMODE,2.0,0,0,0,False
+PER,Peru,0,6991,519745.1024,ADMINMODE,other,0,0,0,False
+PER,Peru,0,6991,519745.1024,ADMINMODE,missing,0,0,0,False
+PER,Peru,0,6991,519745.1024,validated_form,CBA_standard,6991,519745.1024,100,False
+PER,Peru,0,6991,519745.1024,validated_form,CBA_FLA,0,0,0,False
+PER,Peru,0,6991,519745.1024,validated_form,CBA_UO_labelled,0,0,0,False
+PER,Peru,0,6991,519745.1024,validated_form,UH,0,0,0,False
+PER,Peru,0,6991,519745.1024,validated_form,PBA,0,0,0,False
+PER,Peru,0,6991,519745.1024,validated_form,unresolved_form,0,0,0,False
+PHL,Philippines,0,8072,1749989.475,ADMINMODE,1.0,8072,1749989.475,100,False
+PHL,Philippines,0,8072,1749989.475,ADMINMODE,2.0,0,0,0,False
+PHL,Philippines,0,8072,1749989.475,ADMINMODE,other,0,0,0,False
+PHL,Philippines,0,8072,1749989.475,ADMINMODE,missing,0,0,0,False
+PHL,Philippines,0,8072,1749989.475,validated_form,CBA_standard,8072,1749989.475,100,False
+PHL,Philippines,0,8072,1749989.475,validated_form,CBA_FLA,0,0,0,False
+PHL,Philippines,0,8072,1749989.475,validated_form,CBA_UO_labelled,0,0,0,False
+PHL,Philippines,0,8072,1749989.475,validated_form,UH,0,0,0,False
+PHL,Philippines,0,8072,1749989.475,validated_form,PBA,0,0,0,False
+PHL,Philippines,0,8072,1749989.475,validated_form,unresolved_form,0,0,0,False
+POL,Poland,1,7103,384668.4152,ADMINMODE,1.0,7103,384668.4152,100,False
+POL,Poland,1,7103,384668.4152,ADMINMODE,2.0,0,0,0,False
+POL,Poland,1,7103,384668.4152,ADMINMODE,other,0,0,0,False
+POL,Poland,1,7103,384668.4152,ADMINMODE,missing,0,0,0,False
+POL,Poland,1,7103,384668.4152,validated_form,CBA_standard,7103,384668.4152,100,False
+POL,Poland,1,7103,384668.4152,validated_form,CBA_FLA,0,0,0,False
+POL,Poland,1,7103,384668.4152,validated_form,CBA_UO_labelled,0,0,0,False
+POL,Poland,1,7103,384668.4152,validated_form,UH,0,0,0,False
+POL,Poland,1,7103,384668.4152,validated_form,PBA,0,0,0,False
+POL,Poland,1,7103,384668.4152,validated_form,unresolved_form,0,0,0,False
+PRT,Portugal,1,6945,97370.91653,ADMINMODE,1.0,6945,97370.91653,100,False
+PRT,Portugal,1,6945,97370.91653,ADMINMODE,2.0,0,0,0,False
+PRT,Portugal,1,6945,97370.91653,ADMINMODE,other,0,0,0,False
+PRT,Portugal,1,6945,97370.91653,ADMINMODE,missing,0,0,0,False
+PRT,Portugal,1,6945,97370.91653,validated_form,CBA_standard,6945,97370.91653,100,False
+PRT,Portugal,1,6945,97370.91653,validated_form,CBA_FLA,0,0,0,False
+PRT,Portugal,1,6945,97370.91653,validated_form,CBA_UO_labelled,0,0,0,False
+PRT,Portugal,1,6945,97370.91653,validated_form,UH,0,0,0,False
+PRT,Portugal,1,6945,97370.91653,validated_form,PBA,0,0,0,False
+PRT,Portugal,1,6945,97370.91653,validated_form,unresolved_form,0,0,0,False
+PRY,Paraguay,0,6507,82401.12837,ADMINMODE,1.0,6507,82401.12837,100,False
+PRY,Paraguay,0,6507,82401.12837,ADMINMODE,2.0,0,0,0,False
+PRY,Paraguay,0,6507,82401.12837,ADMINMODE,other,0,0,0,False
+PRY,Paraguay,0,6507,82401.12837,ADMINMODE,missing,0,0,0,False
+PRY,Paraguay,0,6507,82401.12837,validated_form,CBA_standard,6507,82401.12837,100,False
+PRY,Paraguay,0,6507,82401.12837,validated_form,CBA_FLA,0,0,0,False
+PRY,Paraguay,0,6507,82401.12837,validated_form,CBA_UO_labelled,0,0,0,False
+PRY,Paraguay,0,6507,82401.12837,validated_form,UH,0,0,0,False
+PRY,Paraguay,0,6507,82401.12837,validated_form,PBA,0,0,0,False
+PRY,Paraguay,0,6507,82401.12837,validated_form,unresolved_form,0,0,0,False
+PSE,Palestinian Authority,0,9647,50392.59376,ADMINMODE,1.0,9647,50392.59376,100,False
+PSE,Palestinian Authority,0,9647,50392.59376,ADMINMODE,2.0,0,0,0,False
+PSE,Palestinian Authority,0,9647,50392.59376,ADMINMODE,other,0,0,0,False
+PSE,Palestinian Authority,0,9647,50392.59376,ADMINMODE,missing,0,0,0,False
+PSE,Palestinian Authority,0,9647,50392.59376,validated_form,CBA_standard,9647,50392.59376,100,False
+PSE,Palestinian Authority,0,9647,50392.59376,validated_form,CBA_FLA,0,0,0,False
+PSE,Palestinian Authority,0,9647,50392.59376,validated_form,CBA_UO_labelled,0,0,0,False
+PSE,Palestinian Authority,0,9647,50392.59376,validated_form,UH,0,0,0,False
+PSE,Palestinian Authority,0,9647,50392.59376,validated_form,PBA,0,0,0,False
+PSE,Palestinian Authority,0,9647,50392.59376,validated_form,unresolved_form,0,0,0,False
+QAT,Qatar,0,6674,22318.82325,ADMINMODE,1.0,6674,22318.82325,100,False
+QAT,Qatar,0,6674,22318.82325,ADMINMODE,2.0,0,0,0,False
+QAT,Qatar,0,6674,22318.82325,ADMINMODE,other,0,0,0,False
+QAT,Qatar,0,6674,22318.82325,ADMINMODE,missing,0,0,0,False
+QAT,Qatar,0,6674,22318.82325,validated_form,CBA_standard,6674,22318.82325,100,False
+QAT,Qatar,0,6674,22318.82325,validated_form,CBA_FLA,0,0,0,False
+QAT,Qatar,0,6674,22318.82325,validated_form,CBA_UO_labelled,0,0,0,False
+QAT,Qatar,0,6674,22318.82325,validated_form,UH,0,0,0,False
+QAT,Qatar,0,6674,22318.82325,validated_form,PBA,0,0,0,False
+QAT,Qatar,0,6674,22318.82325,validated_form,unresolved_form,0,0,0,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,ADMINMODE,1.0,12385,1433562.229,100,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,ADMINMODE,2.0,0,0,0,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,ADMINMODE,other,0,0,0,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,ADMINMODE,missing,0,0,0,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,validated_form,CBA_standard,12385,1433562.229,100,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,validated_form,CBA_FLA,0,0,0,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,validated_form,CBA_UO_labelled,0,0,0,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,validated_form,UH,0,0,0,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,validated_form,PBA,0,0,0,False
+QCI,B-S-J-Z (China),0,12385,1433562.229,validated_form,unresolved_form,0,0,0,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,ADMINMODE,1.0,0,0,0,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,ADMINMODE,2.0,5732,93570.10585,100,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,ADMINMODE,other,0,0,0,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,ADMINMODE,missing,0,0,0,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,validated_form,CBA_standard,0,0,0,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,validated_form,CBA_FLA,0,0,0,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,validated_form,CBA_UO_labelled,0,0,0,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,validated_form,UH,0,0,0,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,validated_form,PBA,5732,93570.10585,100,False
+QKI,Kurdistan Region (Iraq),0,5732,93570.10585,validated_form,unresolved_form,0,0,0,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,ADMINMODE,1.0,0,0,0,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,ADMINMODE,2.0,5771,22992.87,100,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,ADMINMODE,other,0,0,0,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,ADMINMODE,missing,0,0,0,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,validated_form,CBA_standard,0,0,0,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,validated_form,CBA_FLA,0,0,0,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,validated_form,CBA_UO_labelled,0,0,0,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,validated_form,UH,0,0,0,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,validated_form,PBA,5771,22992.87,100,False
+QTJ,Dushanbe (Tajikistan),0,5771,22992.87,validated_form,unresolved_form,0,0,0,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,ADMINMODE,1.0,7105,256001.0652,100,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,ADMINMODE,2.0,0,0,0,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,ADMINMODE,other,0,0,0,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,ADMINMODE,missing,0,0,0,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,validated_form,CBA_standard,7089,255539.8695,99.81984617,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,validated_form,CBA_FLA,0,0,0,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,validated_form,CBA_UO_labelled,0,0,0,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,validated_form,UH,16,461.1957151,0.1801538266,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,validated_form,PBA,0,0,0,False
+QUA,Ukrainian regions (17 of 27),0,7105,256001.0652,validated_form,unresolved_form,0,0,0,False
+ROU,Romania,0,7725,171955.2169,ADMINMODE,1.0,7725,171955.2169,100,False
+ROU,Romania,0,7725,171955.2169,ADMINMODE,2.0,0,0,0,False
+ROU,Romania,0,7725,171955.2169,ADMINMODE,other,0,0,0,False
+ROU,Romania,0,7725,171955.2169,ADMINMODE,missing,0,0,0,False
+ROU,Romania,0,7725,171955.2169,validated_form,CBA_standard,7725,171955.2169,100,False
+ROU,Romania,0,7725,171955.2169,validated_form,CBA_FLA,0,0,0,False
+ROU,Romania,0,7725,171955.2169,validated_form,CBA_UO_labelled,0,0,0,False
+ROU,Romania,0,7725,171955.2169,validated_form,UH,0,0,0,False
+ROU,Romania,0,7725,171955.2169,validated_form,PBA,0,0,0,False
+ROU,Romania,0,7725,171955.2169,validated_form,unresolved_form,0,0,0,False
+RWA,Rwanda,0,6622,98957.08041,ADMINMODE,1.0,0,0,0,False
+RWA,Rwanda,0,6622,98957.08041,ADMINMODE,2.0,6622,98957.08041,100,False
+RWA,Rwanda,0,6622,98957.08041,ADMINMODE,other,0,0,0,False
+RWA,Rwanda,0,6622,98957.08041,ADMINMODE,missing,0,0,0,False
+RWA,Rwanda,0,6622,98957.08041,validated_form,CBA_standard,0,0,0,False
+RWA,Rwanda,0,6622,98957.08041,validated_form,CBA_FLA,0,0,0,False
+RWA,Rwanda,0,6622,98957.08041,validated_form,CBA_UO_labelled,0,0,0,False
+RWA,Rwanda,0,6622,98957.08041,validated_form,UH,0,0,0,False
+RWA,Rwanda,0,6622,98957.08041,validated_form,PBA,6622,98957.08041,100,False
+RWA,Rwanda,0,6622,98957.08041,validated_form,unresolved_form,0,0,0,False
+SAU,Saudi Arabia,0,7272,348241.4494,ADMINMODE,1.0,7272,348241.4494,100,False
+SAU,Saudi Arabia,0,7272,348241.4494,ADMINMODE,2.0,0,0,0,False
+SAU,Saudi Arabia,0,7272,348241.4494,ADMINMODE,other,0,0,0,False
+SAU,Saudi Arabia,0,7272,348241.4494,ADMINMODE,missing,0,0,0,False
+SAU,Saudi Arabia,0,7272,348241.4494,validated_form,CBA_standard,7272,348241.4494,100,False
+SAU,Saudi Arabia,0,7272,348241.4494,validated_form,CBA_FLA,0,0,0,False
+SAU,Saudi Arabia,0,7272,348241.4494,validated_form,CBA_UO_labelled,0,0,0,False
+SAU,Saudi Arabia,0,7272,348241.4494,validated_form,UH,0,0,0,False
+SAU,Saudi Arabia,0,7272,348241.4494,validated_form,PBA,0,0,0,False
+SAU,Saudi Arabia,0,7272,348241.4494,validated_form,unresolved_form,0,0,0,False
+SGP,Singapore,0,6551,42468.83678,ADMINMODE,1.0,6551,42468.83678,100,False
+SGP,Singapore,0,6551,42468.83678,ADMINMODE,2.0,0,0,0,False
+SGP,Singapore,0,6551,42468.83678,ADMINMODE,other,0,0,0,False
+SGP,Singapore,0,6551,42468.83678,ADMINMODE,missing,0,0,0,False
+SGP,Singapore,0,6551,42468.83678,validated_form,CBA_standard,6551,42468.83678,100,False
+SGP,Singapore,0,6551,42468.83678,validated_form,CBA_FLA,0,0,0,False
+SGP,Singapore,0,6551,42468.83678,validated_form,CBA_UO_labelled,0,0,0,False
+SGP,Singapore,0,6551,42468.83678,validated_form,UH,0,0,0,False
+SGP,Singapore,0,6551,42468.83678,validated_form,PBA,0,0,0,False
+SGP,Singapore,0,6551,42468.83678,validated_form,unresolved_form,0,0,0,False
+SLV,El Salvador,0,7073,76966.99762,ADMINMODE,1.0,7073,76966.99762,100,False
+SLV,El Salvador,0,7073,76966.99762,ADMINMODE,2.0,0,0,0,False
+SLV,El Salvador,0,7073,76966.99762,ADMINMODE,other,0,0,0,False
+SLV,El Salvador,0,7073,76966.99762,ADMINMODE,missing,0,0,0,False
+SLV,El Salvador,0,7073,76966.99762,validated_form,CBA_standard,7073,76966.99762,100,False
+SLV,El Salvador,0,7073,76966.99762,validated_form,CBA_FLA,0,0,0,False
+SLV,El Salvador,0,7073,76966.99762,validated_form,CBA_UO_labelled,0,0,0,False
+SLV,El Salvador,0,7073,76966.99762,validated_form,UH,0,0,0,False
+SLV,El Salvador,0,7073,76966.99762,validated_form,PBA,0,0,0,False
+SLV,El Salvador,0,7073,76966.99762,validated_form,unresolved_form,0,0,0,False
+SRB,Serbia,0,7041,55288.28612,ADMINMODE,1.0,7041,55288.28612,100,False
+SRB,Serbia,0,7041,55288.28612,ADMINMODE,2.0,0,0,0,False
+SRB,Serbia,0,7041,55288.28612,ADMINMODE,other,0,0,0,False
+SRB,Serbia,0,7041,55288.28612,ADMINMODE,missing,0,0,0,False
+SRB,Serbia,0,7041,55288.28612,validated_form,CBA_standard,7041,55288.28612,100,False
+SRB,Serbia,0,7041,55288.28612,validated_form,CBA_FLA,0,0,0,False
+SRB,Serbia,0,7041,55288.28612,validated_form,CBA_UO_labelled,0,0,0,False
+SRB,Serbia,0,7041,55288.28612,validated_form,UH,0,0,0,False
+SRB,Serbia,0,7041,55288.28612,validated_form,PBA,0,0,0,False
+SRB,Serbia,0,7041,55288.28612,validated_form,unresolved_form,0,0,0,False
+SVK,Slovak Republic,1,6682,50243.12324,ADMINMODE,1.0,6682,50243.12324,100,False
+SVK,Slovak Republic,1,6682,50243.12324,ADMINMODE,2.0,0,0,0,False
+SVK,Slovak Republic,1,6682,50243.12324,ADMINMODE,other,0,0,0,False
+SVK,Slovak Republic,1,6682,50243.12324,ADMINMODE,missing,0,0,0,False
+SVK,Slovak Republic,1,6682,50243.12324,validated_form,CBA_standard,6527,48707.33422,96.94328514,False
+SVK,Slovak Republic,1,6682,50243.12324,validated_form,CBA_FLA,0,0,0,False
+SVK,Slovak Republic,1,6682,50243.12324,validated_form,CBA_UO_labelled,0,0,0,False
+SVK,Slovak Republic,1,6682,50243.12324,validated_form,UH,155,1535.789014,3.056714859,False
+SVK,Slovak Republic,1,6682,50243.12324,validated_form,PBA,0,0,0,False
+SVK,Slovak Republic,1,6682,50243.12324,validated_form,unresolved_form,0,0,0,False
+SVN,Slovenia,1,7366,21631.8223,ADMINMODE,1.0,7366,21631.8223,100,False
+SVN,Slovenia,1,7366,21631.8223,ADMINMODE,2.0,0,0,0,False
+SVN,Slovenia,1,7366,21631.8223,ADMINMODE,other,0,0,0,False
+SVN,Slovenia,1,7366,21631.8223,ADMINMODE,missing,0,0,0,False
+SVN,Slovenia,1,7366,21631.8223,validated_form,CBA_standard,7114,21263.3223,98.29649118,False
+SVN,Slovenia,1,7366,21631.8223,validated_form,CBA_FLA,0,0,0,False
+SVN,Slovenia,1,7366,21631.8223,validated_form,CBA_UO_labelled,0,0,0,False
+SVN,Slovenia,1,7366,21631.8223,validated_form,UH,252,368.5,1.703508816,False
+SVN,Slovenia,1,7366,21631.8223,validated_form,PBA,0,0,0,False
+SVN,Slovenia,1,7366,21631.8223,validated_form,unresolved_form,0,0,0,False
+SWE,Sweden,1,6688,115590.4337,ADMINMODE,1.0,6688,115590.4337,100,False
+SWE,Sweden,1,6688,115590.4337,ADMINMODE,2.0,0,0,0,False
+SWE,Sweden,1,6688,115590.4337,ADMINMODE,other,0,0,0,False
+SWE,Sweden,1,6688,115590.4337,ADMINMODE,missing,0,0,0,False
+SWE,Sweden,1,6688,115590.4337,validated_form,CBA_standard,6688,115590.4337,100,False
+SWE,Sweden,1,6688,115590.4337,validated_form,CBA_FLA,0,0,0,False
+SWE,Sweden,1,6688,115590.4337,validated_form,CBA_UO_labelled,0,0,0,False
+SWE,Sweden,1,6688,115590.4337,validated_form,UH,0,0,0,False
+SWE,Sweden,1,6688,115590.4337,validated_form,PBA,0,0,0,False
+SWE,Sweden,1,6688,115590.4337,validated_form,unresolved_form,0,0,0,False
+TAP,Chinese Taipei,0,7279,181048.7043,ADMINMODE,1.0,7279,181048.7043,100,False
+TAP,Chinese Taipei,0,7279,181048.7043,ADMINMODE,2.0,0,0,0,False
+TAP,Chinese Taipei,0,7279,181048.7043,ADMINMODE,other,0,0,0,False
+TAP,Chinese Taipei,0,7279,181048.7043,ADMINMODE,missing,0,0,0,False
+TAP,Chinese Taipei,0,7279,181048.7043,validated_form,CBA_standard,7279,181048.7043,100,False
+TAP,Chinese Taipei,0,7279,181048.7043,validated_form,CBA_FLA,0,0,0,False
+TAP,Chinese Taipei,0,7279,181048.7043,validated_form,CBA_UO_labelled,0,0,0,False
+TAP,Chinese Taipei,0,7279,181048.7043,validated_form,UH,0,0,0,False
+TAP,Chinese Taipei,0,7279,181048.7043,validated_form,PBA,0,0,0,False
+TAP,Chinese Taipei,0,7279,181048.7043,validated_form,unresolved_form,0,0,0,False
+THA,Thailand,0,8547,542708.6633,ADMINMODE,1.0,8547,542708.6633,100,False
+THA,Thailand,0,8547,542708.6633,ADMINMODE,2.0,0,0,0,False
+THA,Thailand,0,8547,542708.6633,ADMINMODE,other,0,0,0,False
+THA,Thailand,0,8547,542708.6633,ADMINMODE,missing,0,0,0,False
+THA,Thailand,0,8547,542708.6633,validated_form,CBA_standard,8547,542708.6633,100,False
+THA,Thailand,0,8547,542708.6633,validated_form,CBA_FLA,0,0,0,False
+THA,Thailand,0,8547,542708.6633,validated_form,CBA_UO_labelled,0,0,0,False
+THA,Thailand,0,8547,542708.6633,validated_form,UH,0,0,0,False
+THA,Thailand,0,8547,542708.6633,validated_form,PBA,0,0,0,False
+THA,Thailand,0,8547,542708.6633,validated_form,unresolved_form,0,0,0,False
+TUR,Türkiye,1,7702,920900.0642,ADMINMODE,1.0,7702,920900.0642,100,False
+TUR,Türkiye,1,7702,920900.0642,ADMINMODE,2.0,0,0,0,False
+TUR,Türkiye,1,7702,920900.0642,ADMINMODE,other,0,0,0,False
+TUR,Türkiye,1,7702,920900.0642,ADMINMODE,missing,0,0,0,False
+TUR,Türkiye,1,7702,920900.0642,validated_form,CBA_standard,7702,920900.0642,100,False
+TUR,Türkiye,1,7702,920900.0642,validated_form,CBA_FLA,0,0,0,False
+TUR,Türkiye,1,7702,920900.0642,validated_form,CBA_UO_labelled,0,0,0,False
+TUR,Türkiye,1,7702,920900.0642,validated_form,UH,0,0,0,False
+TUR,Türkiye,1,7702,920900.0642,validated_form,PBA,0,0,0,False
+TUR,Türkiye,1,7702,920900.0642,validated_form,unresolved_form,0,0,0,False
+URY,Uruguay,0,6572,35693.57644,ADMINMODE,1.0,6572,35693.57644,100,False
+URY,Uruguay,0,6572,35693.57644,ADMINMODE,2.0,0,0,0,False
+URY,Uruguay,0,6572,35693.57644,ADMINMODE,other,0,0,0,False
+URY,Uruguay,0,6572,35693.57644,ADMINMODE,missing,0,0,0,False
+URY,Uruguay,0,6572,35693.57644,validated_form,CBA_standard,6275,34049.63017,95.39427975,False
+URY,Uruguay,0,6572,35693.57644,validated_form,CBA_FLA,0,0,0,False
+URY,Uruguay,0,6572,35693.57644,validated_form,CBA_UO_labelled,0,0,0,False
+URY,Uruguay,0,6572,35693.57644,validated_form,UH,297,1643.946277,4.605720247,False
+URY,Uruguay,0,6572,35693.57644,validated_form,PBA,0,0,0,False
+URY,Uruguay,0,6572,35693.57644,validated_form,unresolved_form,0,0,0,False
+USA,United States,1,4623,3578890.314,ADMINMODE,1.0,4623,3578890.314,100,False
+USA,United States,1,4623,3578890.314,ADMINMODE,2.0,0,0,0,False
+USA,United States,1,4623,3578890.314,ADMINMODE,other,0,0,0,False
+USA,United States,1,4623,3578890.314,ADMINMODE,missing,0,0,0,False
+USA,United States,1,4623,3578890.314,validated_form,CBA_standard,4359,3403214.809,95.09134146,False
+USA,United States,1,4623,3578890.314,validated_form,CBA_FLA,0,0,0,False
+USA,United States,1,4623,3578890.314,validated_form,CBA_UO_labelled,0,0,0,False
+USA,United States,1,4623,3578890.314,validated_form,UH,264,175675.505,4.908658541,False
+USA,United States,1,4623,3578890.314,validated_form,PBA,0,0,0,False
+USA,United States,1,4623,3578890.314,validated_form,unresolved_form,0,0,0,False
+UZB,Uzbekistan,0,8652,557998.6075,ADMINMODE,1.0,8652,557998.6075,100,False
+UZB,Uzbekistan,0,8652,557998.6075,ADMINMODE,2.0,0,0,0,False
+UZB,Uzbekistan,0,8652,557998.6075,ADMINMODE,other,0,0,0,False
+UZB,Uzbekistan,0,8652,557998.6075,ADMINMODE,missing,0,0,0,False
+UZB,Uzbekistan,0,8652,557998.6075,validated_form,CBA_standard,8652,557998.6075,100,False
+UZB,Uzbekistan,0,8652,557998.6075,validated_form,CBA_FLA,0,0,0,False
+UZB,Uzbekistan,0,8652,557998.6075,validated_form,CBA_UO_labelled,0,0,0,False
+UZB,Uzbekistan,0,8652,557998.6075,validated_form,UH,0,0,0,False
+UZB,Uzbekistan,0,8652,557998.6075,validated_form,PBA,0,0,0,False
+UZB,Uzbekistan,0,8652,557998.6075,validated_form,unresolved_form,0,0,0,False
+VNM,Viet Nam,0,7368,1109072.636,ADMINMODE,1.0,7368,1109072.636,100,False
+VNM,Viet Nam,0,7368,1109072.636,ADMINMODE,2.0,0,0,0,False
+VNM,Viet Nam,0,7368,1109072.636,ADMINMODE,other,0,0,0,False
+VNM,Viet Nam,0,7368,1109072.636,ADMINMODE,missing,0,0,0,False
+VNM,Viet Nam,0,7368,1109072.636,validated_form,CBA_standard,7368,1109072.636,100,False
+VNM,Viet Nam,0,7368,1109072.636,validated_form,CBA_FLA,0,0,0,False
+VNM,Viet Nam,0,7368,1109072.636,validated_form,CBA_UO_labelled,0,0,0,False
+VNM,Viet Nam,0,7368,1109072.636,validated_form,UH,0,0,0,False
+VNM,Viet Nam,0,7368,1109072.636,validated_form,PBA,0,0,0,False
+VNM,Viet Nam,0,7368,1109072.636,validated_form,unresolved_form,0,0,0,False
+ZMB,Zambia,0,5735,457337.7124,ADMINMODE,1.0,0,0,0,False
+ZMB,Zambia,0,5735,457337.7124,ADMINMODE,2.0,5735,457337.7124,100,False
+ZMB,Zambia,0,5735,457337.7124,ADMINMODE,other,0,0,0,False
+ZMB,Zambia,0,5735,457337.7124,ADMINMODE,missing,0,0,0,False
+ZMB,Zambia,0,5735,457337.7124,validated_form,CBA_standard,0,0,0,False
+ZMB,Zambia,0,5735,457337.7124,validated_form,CBA_FLA,0,0,0,False
+ZMB,Zambia,0,5735,457337.7124,validated_form,CBA_UO_labelled,0,0,0,False
+ZMB,Zambia,0,5735,457337.7124,validated_form,UH,0,0,0,False
+ZMB,Zambia,0,5735,457337.7124,validated_form,PBA,5735,457337.7124,100,False
+ZMB,Zambia,0,5735,457337.7124,validated_form,unresolved_form,0,0,0,False

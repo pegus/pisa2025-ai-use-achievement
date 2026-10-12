@@ -1,0 +1,865 @@
+﻿country,candidate,N_total,N_valid,weighted_N_total,weighted_N_valid,coverage_pct,coverage_75_pass,nationally_absent,chosen_M2_core,chosen_M2_full,chosen_M3_confounders,chosen_M3_including_potential_mediators,conceptual_class,reason,selection_uses_AI_coefficients
+AUS,ESCS,14658,13976,275381.980277,263616.977007,95.7277512282,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+AUS,ST004D01T,14658,0,275381.980277,0,0,False,True,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+AUS,AGE,14658,14658,275381.980277,275381.980277,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+AUS,IMMIG,14658,13942,275381.980277,262561.98413,95.3446495901,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+AUS,ST022Q01TA,14658,14234,275381.980277,268095.295867,97.3539719616,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+AUS,ST250Q02JA,14658,14270,275381.980277,268703.948432,97.5749931644,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+AUS,ST250Q05JA,14658,14274,275381.980277,268758.783912,97.5949056801,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+AUS,ST326Q01JA,14658,13546,275381.980277,255948.751151,92.9431732944,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+AUS,ST326Q02JA,14658,13480,275381.980277,254806.839453,92.528508654,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+AUS,ST326Q04JA,14658,13375,275381.980277,252975.4872,91.8634861095,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+AUS,ST326Q05JA,14658,13351,275381.980277,252684.427084,91.7577928773,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+AUS,ST097Q06DA,14658,14005,275381.980277,263529.706226,95.6960604178,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+AUS,ST127Q01TA,14658,14191,275381.980277,267327.622082,97.0752050706,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+AUS,ST127Q02TA,14658,13919,275381.980277,262388.62718,95.2816981399,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+AUS,ST127Q03TA,14658,12874,275381.980277,243804.495745,88.5332059487,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+AUS,ST062Q01TA,14658,14135,275381.980277,266048.001678,96.6105339973,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+AUS,ST062Q02TA,14658,13967,275381.980277,263107.878974,95.5428814584,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+AUS,ST062Q03TA,14658,14104,275381.980277,265754.243685,96.5038610796,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+AUS,ST001D01T,14658,14658,275381.980277,275381.980277,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+AUS,IC171Q01JA,14658,13249,275381.980277,250198.667392,90.8551340724,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+AUS,IC171Q02JA,14658,13205,275381.980277,249293.395743,90.5264009982,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+AUS,IC171Q05JA,14658,13023,275381.980277,245986.945981,89.3257233945,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+AUS,IC171Q06JA,14658,13022,275381.980277,246288.213688,89.4351233294,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+AUS,ST322Q07JA,14658,13554,275381.980277,255904.381128,92.9270611208,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+AUT,ESCS,6987,6662,70075.0949116,66491.7328881,94.8863971886,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+AUT,ST004D01T,6987,6987,70075.0949116,70075.0949116,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+AUT,AGE,6987,6987,70075.0949116,70075.0949116,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+AUT,IMMIG,6987,6713,70075.0949116,67063.4612223,95.702276689,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+AUT,ST022Q01TA,6987,6876,70075.0949116,68881.9009482,98.297263864,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+AUT,ST250Q02JA,6987,6873,70075.0949116,68937.9096251,98.3771905156,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+AUT,ST250Q05JA,6987,6853,70075.0949116,68692.6802778,98.0272382998,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+AUT,ST326Q01JA,6987,6500,70075.0949116,64668.1837692,92.2841187026,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+AUT,ST326Q02JA,6987,6475,70075.0949116,64418.7681822,91.9281925533,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+AUT,ST326Q04JA,6987,6436,70075.0949116,64006.8475767,91.3403651576,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+AUT,ST326Q05JA,6987,6436,70075.0949116,64001.5588442,91.3328179219,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+AUT,ST097Q06DA,6987,6692,70075.0949116,66867.2936812,95.4223376588,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+AUT,ST127Q01TA,6987,6663,70075.0949116,66595.6137564,95.0346393972,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+AUT,ST127Q02TA,6987,6629,70075.0949116,66223.3418081,94.5033922419,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+AUT,ST127Q03TA,6987,6438,70075.0949116,63828.7049442,91.0861484023,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+AUT,ST062Q01TA,6987,6818,70075.0949116,68226.319809,97.3617230132,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+AUT,ST062Q02TA,6987,6814,70075.0949116,68202.1929991,97.3272930778,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+AUT,ST062Q03TA,6987,6822,70075.0949116,68219.9300465,97.3526045632,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+AUT,ST001D01T,6987,0,70075.0949116,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+AUT,IC171Q01JA,6987,6022,70075.0949116,59825.5270288,85.3734513015,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+AUT,IC171Q02JA,6987,6029,70075.0949116,59841.5054385,85.3962531397,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+AUT,IC171Q05JA,6987,5973,70075.0949116,59329.983345,84.6662903845,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+AUT,IC171Q06JA,6987,5991,70075.0949116,59537.62744,84.9626069221,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+AUT,ST322Q07JA,6987,6322,70075.0949116,62883.9990204,89.738014768,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+BEL,ESCS,7456,6855,127049.760345,115689.740912,91.0586061697,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+BEL,ST004D01T,7456,0,127049.760345,0,0,False,True,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+BEL,AGE,7456,7453,127049.760345,127001.040163,99.9616526766,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+BEL,IMMIG,7456,6979,127049.760345,118306.961902,93.1186029639,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+BEL,ST022Q01TA,7456,7278,127049.760345,124101.039211,97.6790817028,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+BEL,ST250Q02JA,7456,7286,127049.760345,124089.428992,97.6699433788,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+BEL,ST250Q05JA,7456,7275,127049.760345,123800.312525,97.4423817788,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+BEL,ST326Q01JA,7456,6511,127049.760345,108069.73176,85.0609489278,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+BEL,ST326Q02JA,7456,6475,127049.760345,107477.109214,84.5944997628,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+BEL,ST326Q04JA,7456,6448,127049.760345,106862.557221,84.1107900801,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+BEL,ST326Q05JA,7456,6447,127049.760345,106891.424923,84.1335116509,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+BEL,ST097Q06DA,7456,7054,127049.760345,119882.725837,94.3588760112,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+BEL,ST127Q01TA,7456,6888,127049.760345,116813.81306,91.9433556918,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+BEL,ST127Q02TA,7456,6664,127049.760345,112899.276824,88.8622509142,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+BEL,ST127Q03TA,7456,6569,127049.760345,110624.245014,87.0715888907,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+BEL,ST062Q01TA,7456,7155,127049.760345,121605.399902,95.7147810206,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+BEL,ST062Q02TA,7456,7125,127049.760345,121069.8584,95.2932599565,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+BEL,ST062Q03TA,7456,7192,127049.760345,122365.707188,96.3132137008,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+BEL,ST001D01T,7456,7336,127049.760345,124533.745728,98.019662052,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+BEL,IC171Q01JA,7456,6035,127049.760345,101095.137818,79.5712935968,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+BEL,IC171Q02JA,7456,6019,127049.760345,100738.234225,79.290377212,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+BEL,IC171Q05JA,7456,5897,127049.760345,98523.7563656,77.5473767899,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+BEL,IC171Q06JA,7456,5866,127049.760345,97845.1192622,77.0132261535,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+BEL,ST322Q07JA,7456,6445,127049.760345,107747.548556,84.8073607251,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CAN,ESCS,24601,22143,389375.723581,351533.577959,90.2813289761,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+CAN,ST004D01T,24601,0,389375.723581,0,0,False,True,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+CAN,AGE,24601,24601,389375.723581,389375.723581,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+CAN,IMMIG,24601,21996,389375.723581,348080.934103,89.3946163109,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+CAN,ST022Q01TA,24601,23160,389375.723581,365376.31597,93.8364396756,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+CAN,ST250Q02JA,24601,23323,389375.723581,368938.656899,94.7513248915,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+CAN,ST250Q05JA,24601,23300,389375.723581,368644.193801,94.6757004803,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+CAN,ST326Q01JA,24601,18936,389375.723581,298357.113472,76.6244774398,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+CAN,ST326Q02JA,24601,18721,389375.723581,295178.917459,75.8082488411,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+CAN,ST326Q04JA,24601,18475,389375.723581,292233.572371,75.0518213315,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+CAN,ST326Q05JA,24601,18424,389375.723581,291469.153216,74.8555021702,False,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+CAN,ST097Q06DA,24601,22125,389375.723581,349721.053369,89.8158339592,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+CAN,ST127Q01TA,24601,22617,389375.723581,356833.159127,91.6423745797,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CAN,ST127Q02TA,24601,22208,389375.723581,350599.551788,90.0414511115,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CAN,ST127Q03TA,24601,21830,389375.723581,343339.772678,88.1769848209,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CAN,ST062Q01TA,24601,22507,389375.723581,355486.272138,91.2964652415,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CAN,ST062Q02TA,24601,22396,389375.723581,354057.89056,90.9296263525,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CAN,ST062Q03TA,24601,22551,389375.723581,356718.910858,91.6130331849,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CAN,ST001D01T,24601,24601,389375.723581,389375.723581,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CAN,IC171Q01JA,24601,0,389375.723581,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CAN,IC171Q02JA,24601,0,389375.723581,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CAN,IC171Q05JA,24601,0,389375.723581,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CAN,IC171Q06JA,24601,0,389375.723581,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CAN,ST322Q07JA,24601,18680,389375.723581,293878.864532,75.47436749,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CHE,ESCS,7597,7026,76899.8544343,71127.901679,92.4941954732,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+CHE,ST004D01T,7597,7597,76899.8544343,76899.8544343,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+CHE,AGE,7597,7597,76899.8544343,76899.8544343,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+CHE,IMMIG,7597,7148,76899.8544343,72525.3571579,94.3114362068,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+CHE,ST022Q01TA,7597,7412,76899.8544343,75089.9389983,97.6463993993,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+CHE,ST250Q02JA,7597,7401,76899.8544343,74943.1441925,97.4555085232,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+CHE,ST250Q05JA,7597,7371,76899.8544343,74637.5750879,97.0581487273,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+CHE,ST326Q01JA,7597,6640,76899.8544343,67167.9352966,87.3446845781,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+CHE,ST326Q02JA,7597,6581,76899.8544343,66470.3744874,86.4375816786,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+CHE,ST326Q04JA,7597,6517,76899.8544343,65725.8092475,85.4693545665,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+CHE,ST326Q05JA,7597,6521,76899.8544343,65731.5688242,85.4768442772,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+CHE,ST097Q06DA,7597,7070,76899.8544343,71873.3709084,93.4635981266,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+CHE,ST127Q01TA,7597,7263,76899.8544343,73637.7472658,95.7579800476,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CHE,ST127Q02TA,7597,7083,76899.8544343,71862.3753766,93.4492996186,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CHE,ST127Q03TA,7597,6401,76899.8544343,64716.700928,84.1571175968,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CHE,ST062Q01TA,7597,7333,76899.8544343,74401.1109465,96.7506525127,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CHE,ST062Q02TA,7597,7326,76899.8544343,74368.6165332,96.7083970188,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CHE,ST062Q03TA,7597,7346,76899.8544343,74498.4171088,96.877188724,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CHE,ST001D01T,7597,7597,76899.8544343,76899.8544343,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CHE,IC171Q01JA,7597,6126,76899.8544343,61778.4214346,80.3362007497,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CHE,IC171Q02JA,7597,6145,76899.8544343,61998.9252985,80.622942338,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CHE,IC171Q05JA,7597,6007,76899.8544343,60601.940494,78.8063136658,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CHE,IC171Q06JA,7597,5952,76899.8544343,59995.2803319,78.0174172933,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CHE,ST322Q07JA,7597,6295,76899.8544343,63437.6004902,82.4937848802,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CHL,ESCS,6573,5977,248109.749016,224076.575035,90.3134906723,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+CHL,ST004D01T,6573,0,248109.749016,0,0,False,True,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+CHL,AGE,6573,6573,248109.749016,248109.749016,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+CHL,IMMIG,6573,5934,248109.749016,222064.674139,89.5025991598,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+CHL,ST022Q01TA,6573,6136,248109.749016,230625.234068,92.9529109525,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+CHL,ST250Q02JA,6573,6114,248109.749016,229684.712182,92.5738360109,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+CHL,ST250Q05JA,6573,6091,248109.749016,228606.457254,92.1392481193,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+CHL,ST326Q01JA,6573,5088,248109.749016,188501.61644,75.9750945649,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+CHL,ST326Q02JA,6573,5058,248109.749016,187251.855439,75.4713815887,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+CHL,ST326Q04JA,6573,5042,248109.749016,186478.709573,75.1597671241,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+CHL,ST326Q05JA,6573,5033,248109.749016,186165.096959,75.0333663621,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+CHL,ST097Q06DA,6573,5875,248109.749016,220033.262973,88.6838440831,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+CHL,ST127Q01TA,6573,5964,248109.749016,222817.511449,89.8060283129,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CHL,ST127Q02TA,6573,5610,248109.749016,206261.260006,83.1330734982,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CHL,ST127Q03TA,6573,5577,248109.749016,205188.762041,82.7008059355,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CHL,ST062Q01TA,6573,5999,248109.749016,224719.812571,90.5727459167,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CHL,ST062Q02TA,6573,5971,248109.749016,223431.32376,90.0534237957,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CHL,ST062Q03TA,6573,6034,248109.749016,226146.142083,91.1476243798,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CHL,ST001D01T,6573,6573,248109.749016,248109.749016,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CHL,IC171Q01JA,6573,0,248109.749016,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CHL,IC171Q02JA,6573,0,248109.749016,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CHL,IC171Q05JA,6573,0,248109.749016,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CHL,IC171Q06JA,6573,0,248109.749016,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CHL,ST322Q07JA,6573,5042,248109.749016,187087.870334,75.4052878115,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+COL,ESCS,7268,6829,597452.158549,559396.854492,93.6304014451,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+COL,ST004D01T,7268,0,597452.158549,0,0,False,True,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+COL,AGE,7268,7268,597452.158549,597452.158549,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+COL,IMMIG,7268,6644,597452.158549,542728.476211,90.8404913172,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+COL,ST022Q01TA,7268,7011,597452.158549,574938.53301,96.2317274752,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+COL,ST250Q02JA,7268,6973,597452.158549,571227.053607,95.6105096338,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+COL,ST250Q05JA,7268,6920,597452.158549,566723.437456,94.8567059883,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+COL,ST326Q01JA,7268,6489,597452.158549,530043.943859,88.7173870367,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+COL,ST326Q02JA,7268,6439,597452.158549,525513.514465,87.9590954599,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+COL,ST326Q04JA,7268,6407,597452.158549,522497.084261,87.4542131591,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+COL,ST326Q05JA,7268,6400,597452.158549,521819.544228,87.3408082574,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+COL,ST097Q06DA,7268,6633,597452.158549,539831.914794,90.3556723446,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+COL,ST127Q01TA,7268,6074,597452.158549,494859.953377,82.8283815359,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+COL,ST127Q02TA,7268,6150,597452.158549,498621.68782,83.4580109361,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+COL,ST127Q03TA,7268,4999,597452.158549,398922.031137,66.7705397711,False,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+COL,ST062Q01TA,7268,6906,597452.158549,565727.824707,94.6900628967,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+COL,ST062Q02TA,7268,6804,597452.158549,556645.212963,93.1698387892,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+COL,ST062Q03TA,7268,6815,597452.158549,556336.421561,93.1181540816,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+COL,ST001D01T,7268,7268,597452.158549,597452.158549,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+COL,IC171Q01JA,7268,0,597452.158549,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+COL,IC171Q02JA,7268,0,597452.158549,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+COL,IC171Q05JA,7268,0,597452.158549,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+COL,IC171Q06JA,7268,0,597452.158549,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+COL,ST322Q07JA,7268,6138,597452.158549,498380.300062,83.4176080763,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CRI,ESCS,6881,0,54313.4072094,0,0,False,True,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+CRI,ST004D01T,6881,6881,54313.4072094,54313.4072094,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+CRI,AGE,6881,6881,54313.4072094,54313.4072094,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+CRI,IMMIG,6881,0,54313.4072094,0,0,False,True,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+CRI,ST022Q01TA,6881,6645,54313.4072094,52429.3139776,96.5310715556,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+CRI,ST250Q02JA,6881,0,54313.4072094,0,0,False,True,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+CRI,ST250Q05JA,6881,0,54313.4072094,0,0,False,True,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+CRI,ST326Q01JA,6881,5922,54313.4072094,46617.1717331,85.8299527284,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+CRI,ST326Q02JA,6881,5892,54313.4072094,46375.8147976,85.3855745392,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+CRI,ST326Q04JA,6881,5861,54313.4072094,46127.6586819,84.9286779303,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+CRI,ST326Q05JA,6881,5848,54313.4072094,46031.4221167,84.7514904363,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+CRI,ST097Q06DA,6881,6371,54313.4072094,50262.4884021,92.5415859261,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+CRI,ST127Q01TA,6881,6110,54313.4072094,48240.9250577,88.819552181,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CRI,ST127Q02TA,6881,6162,54313.4072094,48716.2732285,89.6947470827,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CRI,ST127Q03TA,6881,5137,54313.4072094,40672.5787649,74.8849701291,False,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CRI,ST062Q01TA,6881,6424,54313.4072094,50665.1539977,93.2829601397,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CRI,ST062Q02TA,6881,6254,54313.4072094,49359.6559097,90.8793214158,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CRI,ST062Q03TA,6881,6255,54313.4072094,49359.4848974,90.8790065537,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CRI,ST001D01T,6881,6881,54313.4072094,54313.4072094,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CRI,IC171Q01JA,6881,0,54313.4072094,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CRI,IC171Q02JA,6881,0,54313.4072094,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CRI,IC171Q05JA,6881,0,54313.4072094,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CRI,IC171Q06JA,6881,0,54313.4072094,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CRI,ST322Q07JA,6881,5670,54313.4072094,44701.0430122,82.30204163,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CZE,ESCS,8462,8001,113055.999835,106690.017854,94.3691781146,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+CZE,ST004D01T,8462,8462,113055.999835,113055.999835,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+CZE,AGE,8462,8462,113055.999835,113055.999835,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+CZE,IMMIG,8462,7997,113055.999835,106622.356595,94.3093305533,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+CZE,ST022Q01TA,8462,8239,113055.999835,110184.572002,97.4601720939,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+CZE,ST250Q02JA,8462,8225,113055.999835,109975.058345,97.2748536166,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+CZE,ST250Q05JA,8462,8230,113055.999835,110000.409425,97.2972770885,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+CZE,ST326Q01JA,8462,7652,113055.999835,101456.243448,89.73981354,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+CZE,ST326Q02JA,8462,7617,113055.999835,100995.326054,89.3321240811,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+CZE,ST326Q04JA,8462,7602,113055.999835,100798.777644,89.1582735909,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+CZE,ST326Q05JA,8462,7593,113055.999835,100693.418605,89.0650816868,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+CZE,ST097Q06DA,8462,8113,113055.999835,108302.598913,95.7955341339,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+CZE,ST127Q01TA,8462,8174,113055.999835,109187.526875,96.5782683215,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CZE,ST127Q02TA,8462,8091,113055.999835,107713.275893,95.274267664,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CZE,ST127Q03TA,8462,0,113055.999835,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CZE,ST062Q01TA,8462,8163,113055.999835,108988.560016,96.4022786714,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CZE,ST062Q02TA,8462,8150,113055.999835,108819.984295,96.2531705112,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CZE,ST062Q03TA,8462,8164,113055.999835,108990.927919,96.4043731228,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CZE,ST001D01T,8462,8462,113055.999835,113055.999835,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+CZE,IC171Q01JA,8462,0,113055.999835,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CZE,IC171Q02JA,8462,0,113055.999835,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CZE,IC171Q05JA,8462,0,113055.999835,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CZE,IC171Q06JA,8462,0,113055.999835,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+CZE,ST322Q07JA,8462,7604,113055.999835,100633.630026,89.012197648,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+DEU,ESCS,6659,5575,717880.291208,595988.309833,83.0205700215,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+DEU,ST004D01T,6659,0,717880.291208,0,0,False,True,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+DEU,AGE,6659,6659,717880.291208,717880.291208,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+DEU,IMMIG,6659,5769,717880.291208,618440.865805,86.1481884067,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+DEU,ST022Q01TA,6659,5979,717880.291208,641910.305643,89.4174576881,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+DEU,ST250Q02JA,6659,5930,717880.291208,636710.658495,88.6931520885,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+DEU,ST250Q05JA,6659,5897,717880.291208,632740.686048,88.1401389335,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+DEU,ST326Q01JA,6659,5524,717880.291208,589421.261746,82.1057868511,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+DEU,ST326Q02JA,6659,5489,717880.291208,585610.259076,81.5749180256,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+DEU,ST326Q04JA,6659,5471,717880.291208,583047.853889,81.2179775695,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+DEU,ST326Q05JA,6659,5461,717880.291208,581394.061367,80.9876059404,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+DEU,ST097Q06DA,6659,5842,717880.291208,624880.912064,87.0452803506,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+DEU,ST127Q01TA,6659,5653,717880.291208,606668.870304,84.5083613151,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+DEU,ST127Q02TA,6659,5583,717880.291208,595505.582108,82.9533265365,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+DEU,ST127Q03TA,6659,0,717880.291208,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+DEU,ST062Q01TA,6659,5860,717880.291208,628407.362865,87.5365113878,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+DEU,ST062Q02TA,6659,5847,717880.291208,626831.364461,87.3169764008,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+DEU,ST062Q03TA,6659,5906,717880.291208,633733.930684,88.2784969088,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+DEU,ST001D01T,6659,6659,717880.291208,717880.291208,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+DEU,IC171Q01JA,6659,5065,717880.291208,538143.847018,74.9628947345,False,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+DEU,IC171Q02JA,6659,5088,717880.291208,540131.367953,75.2397543947,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+DEU,IC171Q05JA,6659,5024,717880.291208,532993.114589,74.2454029058,False,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+DEU,IC171Q06JA,6659,5046,717880.291208,535365.528694,74.5758777962,False,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+DEU,ST322Q07JA,6659,5339,717880.291208,567966.136618,79.1171095758,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+DNK,ESCS,5098,4628,56465.9698756,52150.2096867,92.3568829183,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+DNK,ST004D01T,5098,0,56465.9698756,0,0,False,True,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+DNK,AGE,5098,5098,56465.9698756,56465.9698756,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+DNK,IMMIG,5098,4737,56465.9698756,53159.09618,94.1435988739,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+DNK,ST022Q01TA,5098,4913,56465.9698756,54708.6207002,96.8877729732,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+DNK,ST250Q02JA,5098,4924,56465.9698756,54789.0122033,97.0301445702,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+DNK,ST250Q05JA,5098,4883,56465.9698756,54314.7022118,96.1901519294,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+DNK,ST326Q01JA,5098,3911,56465.9698756,45034.5517768,79.7552080943,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+DNK,ST326Q02JA,5098,3888,56465.9698756,44740.4155225,79.234299209,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+DNK,ST326Q04JA,5098,3855,56465.9698756,44414.015615,78.6562520981,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+DNK,ST326Q05JA,5098,3844,56465.9698756,44295.0394941,78.4455479852,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+DNK,ST097Q06DA,5098,4800,56465.9698756,53626.1386342,94.9707208649,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+DNK,ST127Q01TA,5098,4860,56465.9698756,54153.0547473,95.9038777986,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+DNK,ST127Q02TA,5098,4741,56465.9698756,53101.6852423,94.0419253565,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+DNK,ST127Q03TA,5098,4156,56465.9698756,46507.3203273,82.3634490469,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+DNK,ST062Q01TA,5098,4864,56465.9698756,54161.774615,95.9193204939,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+DNK,ST062Q02TA,5098,4855,56465.9698756,54042.4235146,95.7079523006,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+DNK,ST062Q03TA,5098,4869,56465.9698756,54187.1464015,95.9642533739,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+DNK,ST001D01T,5098,5098,56465.9698756,56465.9698756,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+DNK,IC171Q01JA,5098,0,56465.9698756,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+DNK,IC171Q02JA,5098,0,56465.9698756,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+DNK,IC171Q05JA,5098,0,56465.9698756,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+DNK,IC171Q06JA,5098,0,56465.9698756,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+DNK,ST322Q07JA,5098,3950,56465.9698756,45301.7217412,80.2283602689,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+ESP,ESCS,29966,28561,459747.243768,439800.01907,95.6612627986,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+ESP,ST004D01T,29966,0,459747.243768,0,0,False,True,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+ESP,AGE,29966,29966,459747.243768,459747.243768,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+ESP,IMMIG,29966,28478,459747.243768,438294.136283,95.3337169987,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+ESP,ST022Q01TA,29966,28908,459747.243768,445389.590121,96.8770549813,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+ESP,ST250Q02JA,29966,28800,459747.243768,443073.729252,96.3733301848,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+ESP,ST250Q05JA,29966,28699,459747.243768,441323.897174,95.9927227745,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+ESP,ST326Q01JA,29966,26969,459747.243768,415238.436745,90.3188528857,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+ESP,ST326Q02JA,29966,26777,459747.243768,412049.152873,89.6251491352,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+ESP,ST326Q04JA,29966,26617,459747.243768,409768.971371,89.129184987,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+ESP,ST326Q05JA,29966,26592,459747.243768,409970.024301,89.1729161747,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+ESP,ST097Q06DA,29966,27076,459747.243768,419137.948683,91.167038925,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+ESP,ST127Q01TA,29966,26998,459747.243768,412276.202479,89.6745348813,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ESP,ST127Q02TA,29966,27668,459747.243768,424794.162192,92.3973265637,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ESP,ST127Q03TA,29966,19423,459747.243768,294350.471006,64.0244123256,False,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ESP,ST062Q01TA,29966,28395,459747.243768,436570.871397,94.9588882401,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ESP,ST062Q02TA,29966,28186,459747.243768,433022.42541,94.1870628437,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ESP,ST062Q03TA,29966,28282,459747.243768,434194.371761,94.4419738555,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ESP,ST001D01T,29966,29966,459747.243768,459747.243768,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ESP,IC171Q01JA,29966,24526,459747.243768,374741.844253,81.5104058441,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+ESP,IC171Q02JA,29966,24363,459747.243768,372175.782319,80.9522596087,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+ESP,IC171Q05JA,29966,23942,459747.243768,365060.823795,79.4046791456,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+ESP,IC171Q06JA,29966,23557,459747.243768,358852.653495,78.0543349328,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+ESP,ST322Q07JA,29966,26268,459747.243768,406928.58981,88.5113712644,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+EST,ESCS,6304,6196,14582.3904635,14339.8999171,98.3371001688,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+EST,ST004D01T,6304,6304,14582.3904635,14582.3904635,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+EST,AGE,6304,6304,14582.3904635,14582.3904635,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+EST,IMMIG,6304,6154,14582.3904635,14234.9935248,97.6176955378,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+EST,ST022Q01TA,6304,6245,14582.3904635,14443.0258307,99.0442950136,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+EST,ST250Q02JA,6304,6232,14582.3904635,14417.1226459,98.8666616903,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+EST,ST250Q05JA,6304,6229,14582.3904635,14413.0382629,98.8386526813,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+EST,ST326Q01JA,6304,6096,14582.3904635,14104.7875932,96.7247971346,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+EST,ST326Q02JA,6304,6088,14582.3904635,14086.1392406,96.5969144488,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+EST,ST326Q04JA,6304,6086,14582.3904635,14082.3489004,96.5709218638,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+EST,ST326Q05JA,6304,6084,14582.3904635,14076.4159636,96.5302362385,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+EST,ST097Q06DA,6304,6212,14582.3904635,14373.3837431,98.5667183925,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+EST,ST127Q01TA,6304,6169,14582.3904635,14247.7891668,97.7054427559,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+EST,ST127Q02TA,6304,6137,14582.3904635,14184.7195218,97.2729372272,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+EST,ST127Q03TA,6304,0,14582.3904635,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+EST,ST062Q01TA,6304,6139,14582.3904635,14196.923143,97.3566246118,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+EST,ST062Q02TA,6304,6159,14582.3904635,14245.7047644,97.6911487871,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+EST,ST062Q03TA,6304,6201,14582.3904635,14355.0437502,98.4409503099,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+EST,ST001D01T,6304,6304,14582.3904635,14582.3904635,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+EST,IC171Q01JA,6304,5926,14582.3904635,13720.6692132,94.0906722226,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+EST,IC171Q02JA,6304,5906,14582.3904635,13676.5577724,93.7881742134,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+EST,IC171Q05JA,6304,5886,14582.3904635,13637.2199594,93.518411769,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+EST,IC171Q06JA,6304,5864,14582.3904635,13590.4115155,93.1974188285,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+EST,ST322Q07JA,6304,6071,14582.3904635,14047.337387,96.330827392,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+FIN,ESCS,7668,7267,59891.2327829,56718.2624847,94.702112228,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+FIN,ST004D01T,7668,7668,59891.2327829,59891.2327829,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+FIN,AGE,7668,7668,59891.2327829,59891.2327829,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+FIN,IMMIG,7668,7295,59891.2327829,56926.5625898,95.0499095521,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+FIN,ST022Q01TA,7668,7417,59891.2327829,57916.0670303,96.7020786503,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+FIN,ST250Q02JA,7668,7432,59891.2327829,58019.5533926,96.8748691532,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+FIN,ST250Q05JA,7668,7428,59891.2327829,57991.2128766,96.8275491787,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+FIN,ST326Q01JA,7668,6868,59891.2327829,53445.3612576,89.2373704368,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+FIN,ST326Q02JA,7668,6806,59891.2327829,52995.9285737,88.4869556214,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+FIN,ST326Q04JA,7668,6777,59891.2327829,52806.9339362,88.1713925102,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+FIN,ST326Q05JA,7668,6759,59891.2327829,52634.9365805,87.8842096495,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+FIN,ST097Q06DA,7668,7228,59891.2327829,56333.4391553,94.0595752296,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+FIN,ST127Q01TA,7668,7363,59891.2327829,57454.0806077,95.9307029394,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+FIN,ST127Q02TA,7668,7297,59891.2327829,56916.5234776,95.0331473121,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+FIN,ST127Q03TA,7668,6034,59891.2327829,46880.6366489,78.2762926568,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+FIN,ST062Q01TA,7668,7298,59891.2327829,56805.6350823,94.8479976832,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+FIN,ST062Q02TA,7668,7275,59891.2327829,56657.704759,94.6009993891,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+FIN,ST062Q03TA,7668,7319,59891.2327829,57047.8966358,95.252500216,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+FIN,ST001D01T,7668,7668,59891.2327829,59891.2327829,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+FIN,IC171Q01JA,7668,6520,59891.2327829,50948.4348778,85.0682687774,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+FIN,IC171Q02JA,7668,6480,59891.2327829,50613.4263115,84.5089071634,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+FIN,IC171Q05JA,7668,6364,59891.2327829,49676.160798,82.9439610604,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+FIN,IC171Q06JA,7668,6341,59891.2327829,49444.3623133,82.5569286452,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+FIN,ST322Q07JA,7668,6799,59891.2327829,53047.2364007,88.5726239649,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+FRA,ESCS,6501,5899,768249.32006,701897.425638,91.3632342146,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+FRA,ST004D01T,6501,6501,768249.32006,768249.32006,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+FRA,AGE,6501,6501,768249.32006,768249.32006,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+FRA,IMMIG,6501,5943,768249.32006,706121.786827,91.9131027375,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+FRA,ST022Q01TA,6501,6232,768249.32006,739444.76384,96.2506239228,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+FRA,ST250Q02JA,6501,6255,768249.32006,742693.656767,96.673519569,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+FRA,ST250Q05JA,6501,6225,768249.32006,738698.081944,96.1534312697,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+FRA,ST326Q01JA,6501,5106,768249.32006,607126.465276,79.0272701092,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+FRA,ST326Q02JA,6501,4988,768249.32006,593618.090206,77.2689379224,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+FRA,ST326Q04JA,6501,4910,768249.32006,584261.598217,76.0510400674,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+FRA,ST326Q05JA,6501,4898,768249.32006,582926.508487,75.8772566751,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+FRA,ST097Q06DA,6501,5954,768249.32006,707552.978703,92.0993953691,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+FRA,ST127Q01TA,6501,6102,768249.32006,721570.316494,93.9239772367,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+FRA,ST127Q02TA,6501,6026,768249.32006,715540.799696,93.13913869,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+FRA,ST127Q03TA,6501,5834,768249.32006,690147.29572,89.8337659011,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+FRA,ST062Q01TA,6501,6099,768249.32006,724833.013988,94.3486697692,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+FRA,ST062Q02TA,6501,6119,768249.32006,727040.42305,94.6359995468,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+FRA,ST062Q03TA,6501,6145,768249.32006,729482.660883,94.9538960641,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+FRA,ST001D01T,6501,6501,768249.32006,768249.32006,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+FRA,IC171Q01JA,6501,0,768249.32006,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+FRA,IC171Q02JA,6501,0,768249.32006,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+FRA,IC171Q05JA,6501,0,768249.32006,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+FRA,IC171Q06JA,6501,0,768249.32006,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+FRA,ST322Q07JA,6501,5101,768249.32006,605171.859729,78.7728467734,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+GBR,ESCS,15546,13986,704602.813763,624044.928211,88.5669083377,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+GBR,ST004D01T,15546,15546,704602.813763,704602.813763,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+GBR,AGE,15546,15546,704602.813763,704602.813763,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+GBR,IMMIG,15546,14244,704602.813763,637274.572388,90.444511424,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+GBR,ST022Q01TA,15546,14806,704602.813763,663264.407821,94.1330909932,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+GBR,ST250Q02JA,15546,14753,704602.813763,662631.560146,94.0432747646,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+GBR,ST250Q05JA,15546,14741,704602.813763,662324.239342,93.9996585885,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+GBR,ST326Q01JA,15546,13463,704602.813763,608474.001725,86.3570212664,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+GBR,ST326Q02JA,15546,13364,704602.813763,604538.0798,85.798419761,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+GBR,ST326Q04JA,15546,13284,704602.813763,601932.35721,85.4286053721,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+GBR,ST326Q05JA,15546,13251,704602.813763,600221.826902,85.1858401894,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+GBR,ST097Q06DA,15546,14249,704602.813763,648487.279769,92.0358629149,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+GBR,ST127Q01TA,15546,14720,704602.813763,658514.816573,93.4590103403,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+GBR,ST127Q02TA,15546,14492,704602.813763,648993.469471,92.1077033464,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+GBR,ST127Q03TA,15546,14489,704602.813763,649097.397426,92.1224532101,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+GBR,ST062Q01TA,15546,14611,704602.813763,655511.044208,93.0327031632,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+GBR,ST062Q02TA,15546,14487,704602.813763,650504.813564,92.3221992388,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+GBR,ST062Q03TA,15546,14592,704602.813763,654612.679043,92.905203649,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+GBR,ST001D01T,15546,15546,704602.813763,704602.813763,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+GBR,IC171Q01JA,15546,2611,704602.813763,43868.3005508,6.22596159054,False,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+GBR,IC171Q02JA,15546,2612,704602.813763,43882.5864074,6.22798909545,False,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+GBR,IC171Q05JA,15546,2581,704602.813763,43407.4072347,6.16054980008,False,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+GBR,IC171Q06JA,15546,2587,704602.813763,43485.6670964,6.17165674718,False,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+GBR,ST322Q07JA,15546,13513,704602.813763,611857.329952,86.8371965029,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+GRC,ESCS,6858,6560,101833.8451,97171.326251,95.4214447617,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+GRC,ST004D01T,6858,6858,101833.8451,101833.8451,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+GRC,AGE,6858,6858,101833.8451,101833.8451,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+GRC,IMMIG,6858,6474,101833.8451,95741.2923441,94.0171632034,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+GRC,ST022Q01TA,6858,6724,101833.8451,99767.517778,97.9708835307,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+GRC,ST250Q02JA,6858,6687,101833.8451,99113.3642269,97.3285101132,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+GRC,ST250Q05JA,6858,6672,101833.8451,98843.4358438,97.0634426566,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+GRC,ST326Q01JA,6858,6302,101833.8451,92793.9737339,91.1229205208,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+GRC,ST326Q02JA,6858,6275,101833.8451,92388.72648,90.7249710439,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+GRC,ST326Q04JA,6858,6237,101833.8451,91841.7649609,90.1878593217,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+GRC,ST326Q05JA,6858,6226,101833.8451,91645.7394058,89.9953638358,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+GRC,ST097Q06DA,6858,6591,101833.8451,97457.9336936,95.7028909178,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+GRC,ST127Q01TA,6858,6627,101833.8451,97132.2249554,95.3830476104,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+GRC,ST127Q02TA,6858,6619,101833.8451,97821.4775916,96.0598880416,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+GRC,ST127Q03TA,6858,0,101833.8451,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+GRC,ST062Q01TA,6858,6559,101833.8451,97142.6143418,95.3932499025,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+GRC,ST062Q02TA,6858,6603,101833.8451,97814.174177,96.0527161483,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+GRC,ST062Q03TA,6858,6596,101833.8451,97723.8603888,95.9640287496,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+GRC,ST001D01T,6858,6858,101833.8451,101833.8451,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+GRC,IC171Q01JA,6858,5894,101833.8451,86773.0735373,85.2104459494,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+GRC,IC171Q02JA,6858,5876,101833.8451,86498.4305396,84.9407487801,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+GRC,IC171Q05JA,6858,5732,101833.8451,84368.0761089,82.8487582158,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+GRC,IC171Q06JA,6858,5561,101833.8451,81610.7992696,80.1411349923,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+GRC,ST322Q07JA,6858,6200,101833.8451,91067.4541681,89.4274924791,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+HUN,ESCS,6387,6155,86042.0375497,82650.5287688,96.05831187,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+HUN,ST004D01T,6387,6387,86042.0375497,86042.0375497,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+HUN,AGE,6387,6387,86042.0375497,86042.0375497,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+HUN,IMMIG,6387,6112,86042.0375497,81976.0013105,95.2743608182,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+HUN,ST022Q01TA,6387,6266,86042.0375497,84366.0462505,98.0521250461,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+HUN,ST250Q02JA,6387,6220,86042.0375497,83620.0979626,97.1851670926,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+HUN,ST250Q05JA,6387,6205,86042.0375497,83387.4186345,96.9147419206,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+HUN,ST326Q01JA,6387,6171,86042.0375497,82956.1652534,96.4135294977,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+HUN,ST326Q02JA,6387,6160,86042.0375497,82781.3998586,96.2104132073,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+HUN,ST326Q04JA,6387,6147,86042.0375497,82575.4923336,95.9711028297,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+HUN,ST326Q05JA,6387,6149,86042.0375497,82649.9600892,96.0576509377,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+HUN,ST097Q06DA,6387,6152,86042.0375497,82785.5161947,96.2151973062,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+HUN,ST127Q01TA,6387,6211,86042.0375497,83293.0039651,96.8050110587,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+HUN,ST127Q02TA,6387,6147,86042.0375497,82269.8527525,95.6158816031,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+HUN,ST127Q03TA,6387,6028,86042.0375497,79892.0145718,92.8523043468,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+HUN,ST062Q01TA,6387,6228,86042.0375497,83673.7338986,97.2475039893,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+HUN,ST062Q02TA,6387,6212,86042.0375497,83414.0468931,96.9456898844,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+HUN,ST062Q03TA,6387,6225,86042.0375497,83548.4165322,97.1018573147,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+HUN,ST001D01T,6387,6387,86042.0375497,86042.0375497,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+HUN,IC171Q01JA,6387,5863,86042.0375497,78551.7601389,91.2946303643,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+HUN,IC171Q02JA,6387,5865,86042.0375497,78613.7690558,91.3666985285,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+HUN,IC171Q05JA,6387,5826,86042.0375497,77929.2981324,90.571190957,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+HUN,IC171Q06JA,6387,5794,86042.0375497,77536.9312376,90.115173287,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+HUN,ST322Q07JA,6387,6101,86042.0375497,81869.008115,95.1500109091,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+IRL,ESCS,6356,6162,74150.1674519,71873.6514929,96.929857292,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+IRL,ST004D01T,6356,0,74150.1674519,0,0,False,True,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+IRL,AGE,6356,6356,74150.1674519,74150.1674519,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+IRL,IMMIG,6356,6151,74150.1674519,71739.2013303,96.7485358369,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+IRL,ST022Q01TA,6356,6279,74150.1674519,73248.3589266,98.7838078372,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+IRL,ST250Q02JA,6356,6214,74150.1674519,72512.4520081,97.7913530069,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+IRL,ST250Q05JA,6356,6215,74150.1674519,72493.913837,97.7663521584,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+IRL,ST326Q01JA,6356,6085,74150.1674519,70978.1179055,95.7221276021,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+IRL,ST326Q02JA,6356,6045,74150.1674519,70511.3700676,95.0926646435,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+IRL,ST326Q04JA,6356,5990,74150.1674519,69838.9735931,94.1858609266,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+IRL,ST326Q05JA,6356,5974,74150.1674519,69648.0442807,93.9283708643,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+IRL,ST097Q06DA,6356,6134,74150.1674519,71430.7438981,96.3325456338,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+IRL,ST127Q01TA,6356,6231,74150.1674519,72689.1193535,98.029609172,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+IRL,ST127Q02TA,6356,6006,74150.1674519,70102.0350342,94.5406294324,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+IRL,ST127Q03TA,6356,5601,74150.1674519,65519.4418703,88.3604772879,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+IRL,ST062Q01TA,6356,6177,74150.1674519,72027.1875367,97.1369182457,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+IRL,ST062Q02TA,6356,6096,74150.1674519,71120.3102923,95.913890334,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+IRL,ST062Q03TA,6356,6156,74150.1674519,71836.5675781,96.8798453823,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+IRL,ST001D01T,6356,0,74150.1674519,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+IRL,IC171Q01JA,6356,5902,74150.1674519,68677.7121994,92.619766832,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+IRL,IC171Q02JA,6356,5889,74150.1674519,68532.188216,92.4235110601,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+IRL,IC171Q05JA,6356,5782,74150.1674519,67298.6763263,90.7599788901,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+IRL,IC171Q06JA,6356,5755,74150.1674519,67026.588988,90.3930379275,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+IRL,ST322Q07JA,6356,6043,74150.1674519,70455.7387577,95.0176394456,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+ISL,ESCS,3974,3553,4805.62154607,4288.50768216,89.2393968408,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+ISL,ST004D01T,3974,0,4805.62154607,0,0,False,True,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+ISL,AGE,3974,3974,4805.62154607,4805.62154607,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+ISL,IMMIG,3974,3637,4805.62154607,4395.50123267,91.4658216535,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+ISL,ST022Q01TA,3974,3827,4805.62154607,4626.39612168,96.2705048103,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+ISL,ST250Q02JA,3974,3850,4805.62154607,4653.38842676,96.8321866828,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+ISL,ST250Q05JA,3974,3831,4805.62154607,4630.01940247,96.3459015256,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+ISL,ST326Q01JA,3974,3284,4805.62154607,3971.08340884,82.6341269443,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+ISL,ST326Q02JA,3974,3259,4805.62154607,3938.1677357,81.9491859262,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+ISL,ST326Q04JA,3974,3225,4805.62154607,3895.26843257,81.0564959231,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+ISL,ST326Q05JA,3974,3201,4805.62154607,3867.30161599,80.4745354772,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+ISL,ST097Q06DA,3974,3659,4805.62154607,4421.8456629,92.0140219221,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+ISL,ST127Q01TA,3974,0,4805.62154607,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ISL,ST127Q02TA,3974,0,4805.62154607,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ISL,ST127Q03TA,3974,0,4805.62154607,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ISL,ST062Q01TA,3974,3741,4805.62154607,4522.95067119,94.117912279,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ISL,ST062Q02TA,3974,3756,4805.62154607,4541.62480968,94.5065017322,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ISL,ST062Q03TA,3974,3769,4805.62154607,4556.89879365,94.8243374965,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ISL,ST001D01T,3974,0,4805.62154607,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ISL,IC171Q01JA,3974,2916,4805.62154607,3527.51838337,73.4039988284,False,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+ISL,IC171Q02JA,3974,2907,4805.62154607,3515.13215163,73.1462541927,False,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+ISL,IC171Q05JA,3974,2813,4805.62154607,3400.14001601,70.7533871198,False,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+ISL,IC171Q06JA,3974,2808,4805.62154607,3394.64343944,70.6390090625,False,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+ISL,ST322Q07JA,3974,3126,4805.62154607,3772.81097654,78.5082832755,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+ITA,ESCS,8946,8693,507002.502072,492542.294393,97.147902107,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+ITA,ST004D01T,8946,8946,507002.502072,507002.502072,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+ITA,AGE,8946,8946,507002.502072,507002.502072,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+ITA,IMMIG,8946,8646,507002.502072,490218.941329,96.6896493264,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+ITA,ST022Q01TA,8946,8864,507002.502072,502523.538209,99.1165795347,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+ITA,ST250Q02JA,8946,8809,507002.502072,499198.458299,98.4607484695,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+ITA,ST250Q05JA,8946,8802,507002.502072,498505.204098,98.3240126155,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+ITA,ST326Q01JA,8946,8476,507002.502072,478333.712791,94.345434359,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+ITA,ST326Q02JA,8946,8442,507002.502072,476644.263583,94.0122113076,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+ITA,ST326Q04JA,8946,8420,507002.502072,475068.519213,93.7014151354,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+ITA,ST326Q05JA,8946,8418,507002.502072,475081.283967,93.7039328258,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+ITA,ST097Q06DA,8946,8789,507002.502072,498371.163238,98.2975747065,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+ITA,ST127Q01TA,8946,8432,507002.502072,476193.658493,93.9233350027,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ITA,ST127Q02TA,8946,8302,507002.502072,467704.406097,92.2489345092,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ITA,ST127Q03TA,8946,8507,507002.502072,480567.773838,94.786075389,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ITA,ST062Q01TA,8946,8838,507002.502072,501624.141271,98.9391845643,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ITA,ST062Q02TA,8946,8769,507002.502072,496840.266216,97.9956241212,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ITA,ST062Q03TA,8946,8791,507002.502072,498181.387904,98.2601438588,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ITA,ST001D01T,8946,8946,507002.502072,507002.502072,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+ITA,IC171Q01JA,8946,8120,507002.502072,462714.055535,91.2646493152,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+ITA,IC171Q02JA,8946,8124,507002.502072,462026.752085,91.1290871735,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+ITA,IC171Q05JA,8946,8080,507002.502072,458971.510886,90.5264784711,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+ITA,IC171Q06JA,8946,8007,507002.502072,454315.064135,89.6080516917,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+ITA,ST322Q07JA,8946,8486,507002.502072,480916.554546,94.8548680885,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+JPN,ESCS,6554,6310,951150.630646,917196.021338,96.430154361,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+JPN,ST004D01T,6554,6554,951150.630646,951150.630646,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+JPN,AGE,6554,6554,951150.630646,951150.630646,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+JPN,IMMIG,6554,6398,951150.630646,928902.931672,97.6609699603,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+JPN,ST022Q01TA,6554,6422,951150.630646,932422.673077,98.0310208535,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+JPN,ST250Q02JA,6554,6336,951150.630646,919757.555151,96.6994633149,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+JPN,ST250Q05JA,6554,6328,951150.630646,918504.619478,96.5677348974,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+JPN,ST326Q01JA,6554,6254,951150.630646,908495.462141,95.515413949,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+JPN,ST326Q02JA,6554,6229,951150.630646,904379.452284,95.0826738841,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+JPN,ST326Q04JA,6554,6230,951150.630646,904847.262666,95.1318575115,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+JPN,ST326Q05JA,6554,6221,951150.630646,903454.844342,94.9854644714,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+JPN,ST097Q06DA,6554,6274,951150.630646,911053.978875,95.7844056999,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+JPN,ST127Q01TA,6554,0,951150.630646,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+JPN,ST127Q02TA,6554,0,951150.630646,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+JPN,ST127Q03TA,6554,0,951150.630646,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+JPN,ST062Q01TA,6554,6387,951150.630646,927298.464549,97.4922829961,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+JPN,ST062Q02TA,6554,6388,951150.630646,927623.993426,97.526507741,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+JPN,ST062Q03TA,6554,6398,951150.630646,929069.288453,97.6784600165,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+JPN,ST001D01T,6554,6554,951150.630646,951150.630646,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+JPN,IC171Q01JA,6554,6227,951150.630646,904088.549876,95.0520896214,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+JPN,IC171Q02JA,6554,6243,951150.630646,906370.897675,95.2920461251,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+JPN,IC171Q05JA,6554,6161,951150.630646,894508.312476,94.0448635216,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+JPN,IC171Q06JA,6554,6161,951150.630646,894318.910507,94.0249505906,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+JPN,ST322Q07JA,6554,6267,951150.630646,909887.96857,95.6618162521,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+KOR,ESCS,6859,6691,418075.564925,406898.497635,97.3265437573,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+KOR,ST004D01T,6859,6859,418075.564925,418075.564925,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+KOR,AGE,6859,6859,418075.564925,418075.564925,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+KOR,IMMIG,6859,6737,418075.564925,409958.839503,98.05855063,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+KOR,ST022Q01TA,6859,6788,418075.564925,413388.341325,98.8788573183,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+KOR,ST250Q02JA,6859,6711,418075.564925,408602.419015,97.7341067729,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+KOR,ST250Q05JA,6859,6695,418075.564925,407794.023557,97.5407456857,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+KOR,ST326Q01JA,6859,6681,418075.564925,406346.857602,97.1945963106,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+KOR,ST326Q02JA,6859,6670,418075.564925,405604.08086,97.0169306435,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+KOR,ST326Q04JA,6859,6664,418075.564925,405118.538787,96.9007932478,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+KOR,ST326Q05JA,6859,6663,418075.564925,405060.301697,96.8868634477,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+KOR,ST097Q06DA,6859,6730,418075.564925,410030.416453,98.0756712071,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+KOR,ST127Q01TA,6859,6776,418075.564925,412801.119427,98.7383990023,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+KOR,ST127Q02TA,6859,6748,418075.564925,410926.301186,98.28995896,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+KOR,ST127Q03TA,6859,6619,418075.564925,390459.055144,93.3943736258,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+KOR,ST062Q01TA,6859,6775,418075.564925,412387.971205,98.6395775797,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+KOR,ST062Q02TA,6859,6767,418075.564925,411935.710591,98.5314008163,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+KOR,ST062Q03TA,6859,6779,418075.564925,412707.169638,98.7159270388,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+KOR,ST001D01T,6859,6859,418075.564925,418075.564925,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+KOR,IC171Q01JA,6859,6626,418075.564925,403071.578631,96.4111783723,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+KOR,IC171Q02JA,6859,6613,418075.564925,402348.003332,96.2381055216,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+KOR,IC171Q05JA,6859,6574,418075.564925,399547.715389,95.5683012617,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+KOR,IC171Q06JA,6859,6602,418075.564925,401726.686289,96.0894919467,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+KOR,ST322Q07JA,6859,6717,418075.564925,409399.308523,97.9247157381,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+LTU,ESCS,7718,6887,28734.6004642,25707.6326722,89.4657738646,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+LTU,ST004D01T,7718,7718,28734.6004642,28734.6004642,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+LTU,AGE,7718,7718,28734.6004642,28734.6004642,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+LTU,IMMIG,7718,7105,28734.6004642,26483.4220806,92.1656179409,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+LTU,ST022Q01TA,7718,7465,28734.6004642,27738.7670992,96.5343754608,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+LTU,ST250Q02JA,7718,7477,28734.6004642,27785.7314638,96.6978173177,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+LTU,ST250Q05JA,7718,7467,28734.6004642,27733.6635703,96.5166145423,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+LTU,ST326Q01JA,7718,6830,28734.6004642,25619.5358201,89.1591858117,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+LTU,ST326Q02JA,7718,6778,28734.6004642,25438.739202,88.5299909903,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+LTU,ST326Q04JA,7718,6737,28734.6004642,25318.3585375,88.1110512364,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+LTU,ST326Q05JA,7718,6728,28734.6004642,25285.0865901,87.995260702,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+LTU,ST097Q06DA,7718,7327,28734.6004642,27252.7919044,94.8431210601,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+LTU,ST127Q01TA,7718,7427,28734.6004642,27562.5966643,95.9212803349,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LTU,ST127Q02TA,7718,7341,28734.6004642,27234.3499507,94.7789407571,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LTU,ST127Q03TA,7718,0,28734.6004642,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LTU,ST062Q01TA,7718,7377,28734.6004642,27448.8751228,95.5255151609,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LTU,ST062Q02TA,7718,7369,28734.6004642,27421.1875833,95.4291590639,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LTU,ST062Q03TA,7718,7367,28734.6004642,27368.6077283,95.2461745986,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LTU,ST001D01T,7718,7718,28734.6004642,28734.6004642,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LTU,IC171Q01JA,7718,0,28734.6004642,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+LTU,IC171Q02JA,7718,0,28734.6004642,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+LTU,IC171Q05JA,7718,0,28734.6004642,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+LTU,IC171Q06JA,7718,0,28734.6004642,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+LTU,ST322Q07JA,7718,6778,28734.6004642,25428.6194917,88.4947731338,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+LUX,ESCS,6078,5476,6469,5827.02281443,90.0760985381,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+LUX,ST004D01T,6078,6078,6469,6469,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+LUX,AGE,6078,0,6469,0,0,False,True,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+LUX,IMMIG,6078,5657,6469,6020.16999825,93.061833332,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+LUX,ST022Q01TA,6078,5915,6469,6295.57188317,97.3190892436,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+LUX,ST250Q02JA,6078,5918,6469,6298.28683193,97.3610578441,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+LUX,ST250Q05JA,6078,5881,6469,6258.05565627,96.7391506612,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+LUX,ST326Q01JA,6078,5201,6469,5531.61517516,85.5095868784,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+LUX,ST326Q02JA,6078,5146,6469,5472.43096892,84.594697309,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+LUX,ST326Q04JA,6078,5069,6469,5389.99689017,83.3204033108,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+LUX,ST326Q05JA,6078,5078,6469,5399.31654107,83.4644696409,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+LUX,ST097Q06DA,6078,5661,6469,6022.47799534,93.0975111353,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+LUX,ST127Q01TA,6078,5684,6469,6047.17688687,93.4793149925,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LUX,ST127Q02TA,6078,5482,6469,5829.80491961,90.1191052653,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LUX,ST127Q03TA,6078,4934,6469,5241.90966465,81.0312206625,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LUX,ST062Q01TA,6078,5781,6469,6151.5842252,95.0932791034,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LUX,ST062Q02TA,6078,5764,6469,6133.55006605,94.8145009437,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LUX,ST062Q03TA,6078,5809,6469,6181.60901837,95.5574125579,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LUX,ST001D01T,6078,6060,6469,6449.57739476,99.6997587689,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LUX,IC171Q01JA,6078,4739,6469,5038.10638986,77.8807603936,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+LUX,IC171Q02JA,6078,4734,6469,5033.1853991,77.8046900463,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+LUX,IC171Q05JA,6078,4680,6469,4974.6441857,76.8997400788,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+LUX,IC171Q06JA,6078,4607,6469,4897.16953025,75.702110531,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+LUX,ST322Q07JA,6078,5169,6469,5497.02104032,84.9748189877,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+LVA,ESCS,6968,6016,17681.2472109,15328.2392204,86.692070065,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+LVA,ST004D01T,6968,6968,17681.2472109,17681.2472109,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+LVA,AGE,6968,6968,17681.2472109,17681.2472109,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+LVA,IMMIG,6968,6409,17681.2472109,16308.2653151,92.2348130796,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+LVA,ST022Q01TA,6968,6768,17681.2472109,17191.3628685,97.2293564106,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+LVA,ST250Q02JA,6968,6791,17681.2472109,17240.8383761,97.5091755151,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+LVA,ST250Q05JA,6968,6789,17681.2472109,17239.9993664,97.5044303194,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+LVA,ST326Q01JA,6968,6196,17681.2472109,15818.4215068,89.4643987392,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+LVA,ST326Q02JA,6968,6151,17681.2472109,15712.2017579,88.8636506832,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+LVA,ST326Q04JA,6968,6114,17681.2472109,15630.110483,88.3993662695,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+LVA,ST326Q05JA,6968,6102,17681.2472109,15604.5917098,88.2550394984,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+LVA,ST097Q06DA,6968,6606,17681.2472109,16799.6366558,95.0138666995,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+LVA,ST127Q01TA,6968,6565,17681.2472109,16675.4254761,94.3113643352,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LVA,ST127Q02TA,6968,6630,17681.2472109,16861.0043004,95.3609442774,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LVA,ST127Q03TA,6968,4997,17681.2472109,12742.0630725,72.0654087377,False,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LVA,ST062Q01TA,6968,6641,17681.2472109,16883.4188352,95.4877143779,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LVA,ST062Q02TA,6968,6618,17681.2472109,16822.7618563,95.1446561186,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LVA,ST062Q03TA,6968,6620,17681.2472109,16822.7022069,95.1443187589,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LVA,ST001D01T,6968,6881,17681.2472109,17429.6074772,98.5767987365,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+LVA,IC171Q01JA,6968,0,17681.2472109,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+LVA,IC171Q02JA,6968,0,17681.2472109,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+LVA,IC171Q05JA,6968,0,17681.2472109,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+LVA,IC171Q06JA,6968,0,17681.2472109,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+LVA,ST322Q07JA,6968,6128,17681.2472109,15648.8262237,88.5052170643,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+MEX,ESCS,7843,7669,1580936.6959,1540431.56644,97.4379031389,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+MEX,ST004D01T,7843,7843,1580936.6959,1580936.6959,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+MEX,AGE,7843,7843,1580936.6959,1580936.6959,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+MEX,IMMIG,7843,7502,1580936.6959,1503420.93386,95.0968459243,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+MEX,ST022Q01TA,7843,7760,1580936.6959,1561934.66842,98.798052602,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+MEX,ST250Q02JA,7843,7745,1580936.6959,1559177.18859,98.6236319671,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+MEX,ST250Q05JA,7843,7750,1580936.6959,1560009.90082,98.6763040463,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+MEX,ST326Q01JA,7843,7528,1580936.6959,1508677.32013,95.4293314873,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+MEX,ST326Q02JA,7843,7517,1580936.6959,1505985.1424,95.2590414472,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+MEX,ST326Q04JA,7843,7494,1580936.6959,1500217.18299,94.8941970216,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+MEX,ST326Q05JA,7843,7492,1580936.6959,1499522.15312,94.8502338527,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+MEX,ST097Q06DA,7843,7625,1580936.6959,1533050.5553,96.9710273206,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+MEX,ST127Q01TA,7843,7661,1580936.6959,1531642.09676,96.8819371917,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+MEX,ST127Q02TA,7843,7488,1580936.6959,1486898.73531,94.0517567317,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+MEX,ST127Q03TA,7843,7315,1580936.6959,1435758.46665,90.8169486086,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+MEX,ST062Q01TA,7843,7748,1580936.6959,1559731.25059,98.658678405,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+MEX,ST062Q02TA,7843,7692,1580936.6959,1543568.97075,97.6363553809,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+MEX,ST062Q03TA,7843,7705,1580936.6959,1547220.76851,97.8673448799,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+MEX,ST001D01T,7843,7810,1580936.6959,1566373.0393,99.0787957143,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+MEX,IC171Q01JA,7843,0,1580936.6959,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+MEX,IC171Q02JA,7843,0,1580936.6959,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+MEX,IC171Q05JA,7843,0,1580936.6959,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+MEX,IC171Q06JA,7843,0,1580936.6959,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+MEX,ST322Q07JA,7843,7313,1580936.6959,1456940.61519,92.1567965987,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+NLD,ESCS,6636,6092,165897.483342,153050.786013,92.2562433922,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+NLD,ST004D01T,6636,0,165897.483342,0,0,False,True,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+NLD,AGE,6636,6636,165897.483342,165897.483342,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+NLD,IMMIG,6636,6091,165897.483342,153244.676785,92.3731172395,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+NLD,ST022Q01TA,6636,6194,165897.483342,155521.00188,93.7452448024,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+NLD,ST250Q02JA,6636,6375,165897.483342,159999.581403,96.4448514707,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+NLD,ST250Q05JA,6636,6367,165897.483342,159871.912775,96.3678951329,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+NLD,ST326Q01JA,6636,5716,165897.483342,142276.664327,85.7617978652,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+NLD,ST326Q02JA,6636,5694,165897.483342,141673.440957,85.398185737,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+NLD,ST326Q04JA,6636,5678,165897.483342,141273.289793,85.1569818584,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+NLD,ST326Q05JA,6636,5669,165897.483342,140996.849442,84.9903486186,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+NLD,ST097Q06DA,6636,5857,165897.483342,147392.769031,88.8456931727,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+NLD,ST127Q01TA,6636,6191,165897.483342,155448.4687,93.7015231144,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NLD,ST127Q02TA,6636,5930,165897.483342,148629.079925,89.5909190009,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NLD,ST127Q03TA,6636,5626,165897.483342,140793.043145,84.867497872,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NLD,ST062Q01TA,6636,6286,165897.483342,157675.540407,95.0439616267,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NLD,ST062Q02TA,6636,6292,165897.483342,157824.962121,95.1340303308,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NLD,ST062Q03TA,6636,6303,165897.483342,158142.364165,95.3253545379,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NLD,ST001D01T,6636,6636,165897.483342,165897.483342,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NLD,IC171Q01JA,6636,5395,165897.483342,134558.296209,81.1093052762,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+NLD,IC171Q02JA,6636,5386,165897.483342,134338.26986,80.9766773753,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+NLD,IC171Q05JA,6636,5318,165897.483342,132815.063001,80.058515853,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+NLD,IC171Q06JA,6636,5310,165897.483342,132575.774899,79.9142773167,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+NLD,ST322Q07JA,6636,5631,165897.483342,140173.337233,84.4939503661,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+NOR,ESCS,6469,5950,61734.4482286,56663.2098992,91.7853994408,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+NOR,ST004D01T,6469,6469,61734.4482286,61734.4482286,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+NOR,AGE,6469,0,61734.4482286,0,0,False,True,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+NOR,IMMIG,6469,5950,61734.4482286,56703.6329432,91.8508783512,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+NOR,ST022Q01TA,6469,6118,61734.4482286,58301.3072202,94.4388568993,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+NOR,ST250Q02JA,6469,6117,61734.4482286,58289.3502287,94.4194884723,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+NOR,ST250Q05JA,6469,6094,61734.4482286,58081.7303274,94.0831772113,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+NOR,ST326Q01JA,6469,5262,61734.4482286,50014.4908116,81.0155306263,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+NOR,ST326Q02JA,6469,5175,61734.4482286,49189.5109681,79.6791943226,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+NOR,ST326Q04JA,6469,5147,61734.4482286,48904.9605555,79.2182678532,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+NOR,ST326Q05JA,6469,5123,61734.4482286,48671.4662377,78.8400441475,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+NOR,ST097Q06DA,6469,5913,61734.4482286,56340.960657,91.2634068556,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+NOR,ST127Q01TA,6469,0,61734.4482286,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NOR,ST127Q02TA,6469,0,61734.4482286,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NOR,ST127Q03TA,6469,0,61734.4482286,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NOR,ST062Q01TA,6469,6011,61734.4482286,57241.5333991,92.7221916475,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NOR,ST062Q02TA,6469,6024,61734.4482286,57375.9144267,92.9398675667,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NOR,ST062Q03TA,6469,6060,61734.4482286,57721.7629091,93.5000871724,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NOR,ST001D01T,6469,0,61734.4482286,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NOR,IC171Q01JA,6469,0,61734.4482286,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+NOR,IC171Q02JA,6469,0,61734.4482286,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+NOR,IC171Q05JA,6469,0,61734.4482286,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+NOR,IC171Q06JA,6469,0,61734.4482286,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+NOR,ST322Q07JA,6469,5308,61734.4482286,50431.9753065,81.6917891932,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+NZL,ESCS,5004,4491,61187.1401395,54531.4870274,89.1224641371,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+NZL,ST004D01T,5004,0,61187.1401395,0,0,False,True,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+NZL,AGE,5004,5004,61187.1401395,61187.1401395,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+NZL,IMMIG,5004,4694,61187.1401395,57148.694108,93.3998450943,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+NZL,ST022Q01TA,5004,4843,61187.1401395,59048.2226066,96.5043021653,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+NZL,ST250Q02JA,5004,4851,61187.1401395,59136.6901324,96.6488873275,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+NZL,ST250Q05JA,5004,4839,61187.1401395,58961.2602132,96.3621768868,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+NZL,ST326Q01JA,5004,4263,61187.1401395,51914.3567898,84.8452087668,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+NZL,ST326Q02JA,5004,4206,61187.1401395,51188.041755,83.6581700636,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+NZL,ST326Q04JA,5004,4086,61187.1401395,49661.2962056,81.1629634796,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+NZL,ST326Q05JA,5004,4065,61187.1401395,49380.1508118,80.7034790304,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+NZL,ST097Q06DA,5004,4607,61187.1401395,56127.0309485,91.730109988,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+NZL,ST127Q01TA,5004,4757,61187.1401395,57963.8993988,94.7321598404,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NZL,ST127Q02TA,5004,4655,61187.1401395,56627.3930593,92.5478669703,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NZL,ST127Q03TA,5004,4404,61187.1401395,53650.7241517,87.6830066405,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NZL,ST062Q01TA,5004,4760,61187.1401395,57947.509219,94.7053728723,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NZL,ST062Q02TA,5004,4705,61187.1401395,57306.3816953,93.6575587037,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NZL,ST062Q03TA,5004,4755,61187.1401395,57893.0490246,94.6163669238,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NZL,ST001D01T,5004,5004,61187.1401395,61187.1401395,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+NZL,IC171Q01JA,5004,3871,61187.1401395,46662.2937073,76.2616026846,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+NZL,IC171Q02JA,5004,3828,61187.1401395,46123.547817,75.3811139266,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+NZL,IC171Q05JA,5004,3745,61187.1401395,45033.3177465,73.5993178368,False,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+NZL,IC171Q06JA,5004,3750,61187.1401395,45149.7387239,73.7895881732,False,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+NZL,ST322Q07JA,5004,4243,61187.1401395,51724.0556752,84.5341938801,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+POL,ESCS,7103,6777,384668.415196,365928.038908,95.1281738903,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+POL,ST004D01T,7103,7103,384668.415196,384668.415196,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+POL,AGE,7103,7103,384668.415196,384668.415196,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+POL,IMMIG,7103,6736,384668.415196,363589.668814,94.5202814817,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+POL,ST022Q01TA,7103,6946,384668.415196,375944.26625,97.7320339803,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+POL,ST250Q02JA,7103,6943,384668.415196,375704.629372,97.6697369815,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+POL,ST250Q05JA,7103,6930,384668.415196,374950.101909,97.4735868861,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+POL,ST326Q01JA,7103,6408,384668.415196,345541.932894,89.8285170408,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+POL,ST326Q02JA,7103,6378,384668.415196,343811.589802,89.3786898586,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+POL,ST326Q04JA,7103,6365,384668.415196,343085.447024,89.189918764,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+POL,ST326Q05JA,7103,6357,384668.415196,342706.465804,89.0913972309,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+POL,ST097Q06DA,7103,6733,384668.415196,364101.207524,94.6532632109,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+POL,ST127Q01TA,7103,6806,384668.415196,366837.896275,95.364704193,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+POL,ST127Q02TA,7103,6681,384668.415196,360618.741759,93.7479469365,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+POL,ST127Q03TA,7103,6716,384668.415196,361513.783114,93.9806256072,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+POL,ST062Q01TA,7103,6876,384668.415196,372265.645822,96.7757245244,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+POL,ST062Q02TA,7103,6871,384668.415196,371894.350826,96.6792011341,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+POL,ST062Q03TA,7103,6877,384668.415196,372252.816185,96.7723892787,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+POL,ST001D01T,7103,7103,384668.415196,384668.415196,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+POL,IC171Q01JA,7103,5980,384668.415196,322922.885178,83.9483753856,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+POL,IC171Q02JA,7103,5956,384668.415196,321720.253474,83.6357342492,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+POL,IC171Q05JA,7103,5937,384668.415196,320532.578987,83.3269814533,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+POL,IC171Q06JA,7103,5918,384668.415196,319545.397747,83.0703497153,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+POL,ST322Q07JA,7103,6438,384668.415196,347788.538301,90.4125539197,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+PRT,ESCS,6945,6590,97370.9165294,92195.2347132,94.6845711219,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+PRT,ST004D01T,6945,6945,97370.9165294,97370.9165294,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+PRT,AGE,6945,6945,97370.9165294,97370.9165294,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+PRT,IMMIG,6945,6597,97370.9165294,92257.7610696,94.748785734,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+PRT,ST022Q01TA,6945,6779,97370.9165294,94920.551766,97.4834736586,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+PRT,ST250Q02JA,6945,6786,97370.9165294,95063.9566602,97.6307505862,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+PRT,ST250Q05JA,6945,6772,97370.9165294,94898.8666707,97.4612030503,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+PRT,ST326Q01JA,6945,6362,97370.9165294,88853.4123346,91.2525171803,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+PRT,ST326Q02JA,6945,6342,97370.9165294,88543.7210655,90.9344640283,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+PRT,ST326Q04JA,6945,6323,97370.9165294,88159.9408258,90.5403214514,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+PRT,ST326Q05JA,6945,6308,97370.9165294,87940.9214208,90.3153883678,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+PRT,ST097Q06DA,6945,6477,97370.9165294,90792.1660068,93.24361857,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+PRT,ST127Q01TA,6945,6518,97370.9165294,90693.9021151,93.142701484,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+PRT,ST127Q02TA,6945,6362,97370.9165294,88136.9951319,90.5167562076,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+PRT,ST127Q03TA,6945,5916,97370.9165294,81088.7133259,83.2781658181,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+PRT,ST062Q01TA,6945,6698,97370.9165294,93742.7433611,96.2738635954,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+PRT,ST062Q02TA,6945,6695,97370.9165294,93683.1114044,96.2126215338,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+PRT,ST062Q03TA,6945,6737,97370.9165294,94287.9799211,96.8338219274,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+PRT,ST001D01T,6945,6835,97370.9165294,95786.4193044,98.3727202316,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+PRT,IC171Q01JA,6945,0,97370.9165294,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+PRT,IC171Q02JA,6945,0,97370.9165294,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+PRT,IC171Q05JA,6945,0,97370.9165294,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+PRT,IC171Q06JA,6945,0,97370.9165294,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+PRT,ST322Q07JA,6945,6257,97370.9165294,87290.2838479,89.6471831212,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+SVK,ESCS,6682,6362,50243.123236,47738.4281124,95.0148498693,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+SVK,ST004D01T,6682,6682,50243.123236,50243.123236,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+SVK,AGE,6682,6682,50243.123236,50243.123236,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+SVK,IMMIG,6682,6244,50243.123236,46824.7369529,93.1963101356,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+SVK,ST022Q01TA,6682,6575,50243.123236,49345.1199604,98.2126842086,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+SVK,ST250Q02JA,6682,6499,50243.123236,48761.9758439,97.0520395693,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+SVK,ST250Q05JA,6682,6491,50243.123236,48724.4788562,96.9774084849,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+SVK,ST326Q01JA,6682,6161,50243.123236,45821.6351752,91.1998144699,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+SVK,ST326Q02JA,6682,6133,50243.123236,45616.0166889,90.7905674467,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+SVK,ST326Q04JA,6682,6114,50243.123236,45475.8850141,90.5116602734,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+SVK,ST326Q05JA,6682,6102,50243.123236,45397.2789241,90.3552088329,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+SVK,ST097Q06DA,6682,6392,50243.123236,47940.2126936,95.4164661867,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+SVK,ST127Q01TA,6682,6466,50243.123236,48405.1031928,96.3417480347,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SVK,ST127Q02TA,6682,6234,50243.123236,46489.6639691,92.5294069613,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SVK,ST127Q03TA,6682,5624,50243.123236,41763.1482899,83.1221182124,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SVK,ST062Q01TA,6682,6515,50243.123236,48801.1343113,97.1299775335,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SVK,ST062Q02TA,6682,6464,50243.123236,48408.7979709,96.3491018333,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SVK,ST062Q03TA,6682,6465,50243.123236,48482.2625583,96.4953200273,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SVK,ST001D01T,6682,6682,50243.123236,50243.123236,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SVK,IC171Q01JA,6682,0,50243.123236,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+SVK,IC171Q02JA,6682,0,50243.123236,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+SVK,IC171Q05JA,6682,0,50243.123236,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+SVK,IC171Q06JA,6682,0,50243.123236,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+SVK,ST322Q07JA,6682,6063,50243.123236,45113.4555627,89.790308916,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+SVN,ESCS,7366,6820,21631.8223039,20293.5763174,93.8135309744,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+SVN,ST004D01T,7366,7366,21631.8223039,21631.8223039,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+SVN,AGE,7366,7366,21631.8223039,21631.8223039,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+SVN,IMMIG,7366,6809,21631.8223039,20307.8013651,93.8792907961,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+SVN,ST022Q01TA,7366,6906,21631.8223039,20686.5830438,95.6303299518,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+SVN,ST250Q02JA,7366,7130,21631.8223039,21051.0328672,97.3151155345,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+SVN,ST250Q05JA,7366,7114,21631.8223039,20998.7232271,97.0732975341,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+SVN,ST326Q01JA,7366,6374,21631.8223039,19410.4677473,89.7310798629,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+SVN,ST326Q02JA,7366,6345,21631.8223039,19331.6548138,89.3667419334,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+SVN,ST326Q04JA,7366,6339,21631.8223039,19319.4996401,89.3105507648,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+SVN,ST326Q05JA,7366,6337,21631.8223039,19309.5919099,89.2647491211,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+SVN,ST097Q06DA,7366,6901,21631.8223039,20551.4446596,95.0056096564,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+SVN,ST127Q01TA,7366,6950,21631.8223039,20493.6141898,94.7382698595,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SVN,ST127Q02TA,7366,7006,21631.8223039,20709.7619339,95.7374817664,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SVN,ST127Q03TA,7366,6639,21631.8223039,19214.4504046,88.8249271593,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SVN,ST062Q01TA,7366,6978,21631.8223039,20712.1084526,95.7483292978,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SVN,ST062Q02TA,7366,6991,21631.8223039,20738.8871057,95.8721221652,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SVN,ST062Q03TA,7366,6986,21631.8223039,20728.1797952,95.8226242064,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SVN,ST001D01T,7366,7366,21631.8223039,21631.8223039,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SVN,IC171Q01JA,7366,5992,21631.8223039,18398.3549087,85.0522653628,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+SVN,IC171Q02JA,7366,5995,21631.8223039,18413.9134714,85.1241897826,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+SVN,IC171Q05JA,7366,5949,21631.8223039,18301.2593756,84.6034102838,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+SVN,IC171Q06JA,7366,5861,21631.8223039,18041.6542752,83.403302883,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+SVN,ST322Q07JA,7366,6378,21631.8223039,19411.7366674,89.736945851,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+SWE,ESCS,6688,6262,115590.433716,108150.622904,93.5636448685,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+SWE,ST004D01T,6688,6676,115590.433716,115383.951584,99.8213674558,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+SWE,AGE,6688,6675,115590.433716,115367.649382,99.8072640382,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+SWE,IMMIG,6688,6260,115590.433716,108232.804276,93.6347419039,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+SWE,ST022Q01TA,6688,6469,115590.433716,111782.063423,96.7052893815,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+SWE,ST250Q02JA,6688,6475,115590.433716,111926.769043,96.8304776131,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+SWE,ST250Q05JA,6688,6458,115590.433716,111657.859546,96.59783769,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+SWE,ST326Q01JA,6688,5404,115590.433716,93375.0600408,80.7809582842,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+SWE,ST326Q02JA,6688,5333,115590.433716,92164.5225051,79.7336938205,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+SWE,ST326Q04JA,6688,5289,115590.433716,91482.1241285,79.143334952,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+SWE,ST326Q05JA,6688,5256,115590.433716,90913.7206687,78.6515957643,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+SWE,ST097Q06DA,6688,6222,115590.433716,107643.697048,93.1250913997,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+SWE,ST127Q01TA,6688,6407,115590.433716,110761.816865,95.8226501141,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SWE,ST127Q02TA,6688,6312,115590.433716,108994.178873,94.2934249567,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SWE,ST127Q03TA,6688,4936,115590.433716,85478.1094397,73.9491207806,False,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SWE,ST062Q01TA,6688,6274,115590.433716,108388.553518,93.7694842322,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SWE,ST062Q02TA,6688,6289,115590.433716,108715.508733,94.0523408711,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SWE,ST062Q03TA,6688,6370,115590.433716,110137.437339,95.2824847162,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SWE,ST001D01T,6688,0,115590.433716,0,0,False,True,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+SWE,IC171Q01JA,6688,0,115590.433716,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+SWE,IC171Q02JA,6688,0,115590.433716,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+SWE,IC171Q05JA,6688,0,115590.433716,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+SWE,IC171Q06JA,6688,0,115590.433716,0,0,False,True,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+SWE,ST322Q07JA,6688,5346,115590.433716,92369.3464539,79.910891831,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+TUR,ESCS,7702,7449,920900.0642,891220.164328,96.7770770113,True,False,True,True,False,False,probable_confounder,family socioeconomic/cultural background; may include current possessions,False
+TUR,ST004D01T,7702,7702,920900.0642,920900.0642,100,True,False,False,True,False,False,probable_confounder,"sampling-frame sex, nationally absent in many countries",False
+TUR,AGE,7702,7702,920900.0642,920900.0642,100,True,False,False,True,False,False,probable_confounder,"chronological age, narrow range and nationally absent in two systems",False
+TUR,IMMIG,7702,7317,920900.0642,876140.439702,95.1395785234,True,False,True,True,False,False,probable_confounder,migration background largely precedes current reported AI use,False
+TUR,ST022Q01TA,7702,7652,920900.0642,914843.615827,99.3423338093,True,False,True,True,False,False,probable_confounder,home language/background plausibly precedes reported AI use,False
+TUR,ST250Q02JA,7702,7619,920900.0642,911328.207973,98.960597724,True,False,False,False,True,True,probable_confounder,home computer availability plausibly enables AI use; temporal order not observed,False
+TUR,ST250Q05JA,7702,7560,920900.0642,903591.627303,98.1204869486,True,False,False,False,True,True,probable_confounder,home internet availability plausibly enables AI use; temporal order not observed,False
+TUR,ST326Q01JA,7702,7561,920900.0642,903457.276688,98.1058978938,True,False,False,False,False,True,ambiguous,current-year digital learning may include AI and may change after AI adoption,False
+TUR,ST326Q02JA,7702,7541,920900.0642,901406.39924,97.8831943098,True,False,False,False,False,True,ambiguous,current-year out-of-school digital learning may include AI and may change after adoption,False
+TUR,ST326Q04JA,7702,7532,920900.0642,900061.347426,97.737135919,True,False,False,False,False,True,ambiguous,current digital leisure may proxy prior preferences or respond to AI adoption,False
+TUR,ST326Q05JA,7702,7520,920900.0642,898849.095231,97.6054981614,True,False,False,False,False,True,ambiguous,current out-of-school leisure: unverified temporal order; not automatically pre-exposure,False
+TUR,ST097Q06DA,7702,7605,920900.0642,909822.533695,98.7970974337,True,False,False,False,False,True,possible_mediator,current classroom digital distraction may follow use and is science-specific,False
+TUR,ST127Q01TA,7702,7053,920900.0642,842566.879353,91.4938452181,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+TUR,ST127Q02TA,7702,6979,920900.0642,833672.482758,90.5280078878,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+TUR,ST127Q03TA,7702,7491,920900.0642,896636.395191,97.3652223567,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+TUR,ST062Q01TA,7702,7471,920900.0642,893215.564805,96.9937563834,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+TUR,ST062Q02TA,7702,7348,920900.0642,878517.380992,95.3976891896,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+TUR,ST062Q03TA,7702,7409,920900.0642,885388.037763,96.1437697946,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+TUR,ST001D01T,7702,7702,920900.0642,920900.0642,100,True,False,False,False,False,False,diagnostic_only,primary-school repetition can precede current AI; other repetition/absence timing uncertain,False
+TUR,IC171Q01JA,7702,7306,920900.0642,872496.684778,94.7439053049,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+TUR,IC171Q02JA,7702,7287,920900.0642,871153.499303,94.5980495788,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+TUR,IC171Q05JA,7702,7232,920900.0642,863913.79653,93.811894484,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+TUR,IC171Q06JA,7702,7214,920900.0642,861680.562538,93.5693889094,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False
+TUR,ST322Q07JA,7702,7458,920900.0642,891695.755227,96.8287211492,True,False,False,False,False,False,diagnostic_only,"digital comparison, not a validated negative control",False

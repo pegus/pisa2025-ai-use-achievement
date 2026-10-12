@@ -1,0 +1,13 @@
+# Decisiones científicas y límites
+
+CORE es la especificación principal vigente (32 sistemas), FULL es sensibilidad (21). No se reescriben planes anteriores que hicieron FULL principal en 2B. El cambio surgió de disponibilidad/alcance conceptual de covariables y se fijó antes de nuevos coeficientes 2C. Las comparaciones A–E y de iguales estudiantes separan selección de países, selección estudiantil y especificación. Agregar sexo/edad redujo fuerte la cobertura y no cambió sustancialmente el patrón central dentro de la regla ±5 puntos; esto no garantiza igualdad en toda exposición/dominio.
+
+Confusores plausiblemente previos: contexto familiar, migratorio y lengua; acceso doméstico digital puede anteceder uso aunque su fecha no está medida. Tiempos actuales de actividad digital son ambiguos; distracción puede mediar. Ajustarlos no identifica «porcentaje explicado causalmente», puede inducir sobreajuste/collider. Comparamos cambios emparejados; el bloque actual atenúa ciertos contrastes, mientras CORE/acceso por sí solos no explican automáticamente la asociación.
+
+Los cuatro usos se correlacionan: weighted midrank Spearman, rangos reponderados por réplica. Modelo conjunto demuestra soporte/precisión bajo umbrales definidos; asociaciones condicionales pueden redistribuirse por supresión y no constituyen ventajas/perjuicios causales. La asociación positiva de learn condicional no se interpreta como efecto beneficioso.
+
+Repetición primaria es antecedente más defendible, pero sin fecha de primera adopción no garantiza temporalidad. Ausentismo de últimas dos semanas es concurrente; rendimiento/autoeficacia/motivación actuales no se usan como controles previos por conveniencia. Comparadores digitales no mencionan IA explícitamente, pero no se certifica que excluyan IA: no son negative controls validados. IC177>7h no equivale a «uso diario» ST438.
+
+La asociación resumir/redactar resiste FE/acceso; esta evidencia reduce plausibilidad de una explicación exclusivamente escolar/acceso observado, pero mantiene selección no medida e inversa. La falta de especificidad READ−SCIE en FULL, la firma learn que cambia bajo FE y otros comportamientos digitales con asociación negativa limitan la explicación de sustitución cognitiva. **Mecanismo específico indeterminado; no inferencia causal.**
+
+Planes son registros locales secuenciales, no preregistro externo. El Technical Report final 2025 todavía no estaba disponible según portal OCDE al consultar; se conserva limitación de acceso al borrador. Senado multinacional propuesto pero no ejecutado; LDW y artículo final no completados. No se añade un análisis nuevo al empaquetar/publicar.

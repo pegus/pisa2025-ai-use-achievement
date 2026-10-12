@@ -1,0 +1,46 @@
+{
+  "data_and_numerical_checks": "PASS",
+  "Fay_checks": 18,
+  "independent_SVD_WLS_checks": 9,
+  "max_SVD_coefficient_difference": 1.8332002582610585e-12,
+  "primary_FDR_family_size": 60,
+  "models_fitted": [
+    "M1",
+    "M2"
+  ],
+  "M0_descriptives": true,
+  "M3_M4_M5_LDW_fitted": false,
+  "candidate_ST438_K": 36,
+  "candidate_H6_K": 32,
+  "primary_M2_K": [
+    21
+  ],
+  "no_complete_case_country_codes": [
+    "AUS",
+    "BEL",
+    "CAN",
+    "CHL",
+    "COL",
+    "CRI",
+    "DEU",
+    "DNK",
+    "ESP",
+    "IRL",
+    "ISL",
+    "LUX",
+    "NLD",
+    "NOR",
+    "NZL"
+  ],
+  "SHA256": {
+    "fay2025_validation.csv": "dd85f491d6366ad7a4c5e777d23a77f05613cd4cc14101301604693ff8a35934",
+    "model_joint_coverage.csv": "dadb854cf513a96221c77cb69ad68c5a960bec09a0060ac6ba427864f9cf0b09",
+    "descriptives_M0.csv": "8d7a62ecb6e475e3aec5c07edf5be96f33099fb843dcdbe8975f3e8fd1982718",
+    "country_effects_M1.csv": "cee167ed338ce9b4d1e1e07a3c328a77163e14725a4329672607e0134294a949",
+    "country_effects_M2.csv": "2090c910e4cf82d43c46dbf3d7daa91fc35e1d0a177d93ce5e4be88d85b6590a",
+    "oecd_equal_weight_summary_M2.csv": "793a791713552eadf30e294cdaa017aac7cccccd0d4e1b2afce63694a88f1977",
+    "primary_contrasts_M2.csv": "793a791713552eadf30e294cdaa017aac7cccccd0d4e1b2afce63694a88f1977",
+    "selection_sensitivity.csv": "a9425bb543f3580601f5f1c5646baf93f79b37b2dd6b08809e23dfee0a57540b",
+    "low_coverage_exploratory_ISR_USA.csv": "03eab14756fec780aacce8c70a2e7413d8bb6e134fd5d3cdfffc12c6c6deb0c0"
+  }
+}

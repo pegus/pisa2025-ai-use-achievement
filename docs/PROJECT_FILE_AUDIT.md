@@ -1,0 +1,9 @@
+# Project file audit
+
+All project roots were inventoried: `outputs/` (staged scientific deliverables) and `work/` (raw files, installed dependency cache and temporary exploration). Originals were preserved. No parent/sibling project was edited.
+
+A private inventory inspected 4288 research/support files. The public [manifest](PROJECT_FILE_AUDIT.csv) lists selected public paths and decisions only. Detailed local paths, per-file metadata for excluded data and scratch files remain private; exclusions are reported only by broad class. Dependency caches and bytecode/font caches are excluded as directory classes. The public copy contains the 2A/2B/2C statistical scripts, dated plans/reports/log, variable definitions, approved national/pooled results, seven figures/PDFs and validation artifacts. Earlier packaging scripts and ZIP bundles duplicate these files and are not included. OECD original PDFs/XLSX/code archives are linked rather than relicensed/redistributed. SCH/LDW metadata inspection is documented but these files are not needed by the student pipeline; no LDW analysis was performed.
+
+Student `.sav` / Parquet / reduced data / individual weights / student and school identifiers, all NPZ intermediates, school-level tables and fine profile tables are excluded. Publication suppression is described in [DISCLOSURE_REVIEW.md](DISCLOSURE_REVIEW.md). No analysis was changed by this publication filter.
+
+Initial ecological hypothesis history was supplied by the investigator in the publication request. No reproducible initial ecological change-score analysis script/table was found in these project roots. It is documented as historical context, not a replicated result of this release. Current country-coefficient ecological diagnostics are included and are a different analysis.
