@@ -1,5 +1,9 @@
 # Changelog
 
+## Post-release metadata — 2026-10-12
+
+Verified Zenodo version DOI `10.5281/zenodo.23326122` and concept DOI `10.5281/zenodo.23326121`; completed manuscript citation and badges, documented immutable release policy and archive CRC/hash verification. Metadata only; no analytical changes and no new version tag.
+
 ## 1.0.0 — 2026-10-12
 
 Primera copia pública auditable de etapas 2A/2B/2C. Conserva resultados científicos originales; añade controlador portátil, documentación autónoma, validaciones, manifestación de uso de IA, MIT, metadatos de cita y exclusión/supresión pública de datos finos. CORE32 es principal; FULL21 sensibilidad. No redistribuye microdatos. Las adaptaciones de código no cambian ecuaciones y se prueban contra resultados históricos.

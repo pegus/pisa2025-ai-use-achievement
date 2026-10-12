@@ -1,0 +1,11 @@
+# Archival metadata and version policy
+
+Published 2026-10-12. Public repository: https://github.com/pegus/pisa2025-ai-use-achievement. Stable scientific release: [v1.0.0](https://github.com/pegus/pisa2025-ai-use-achievement/releases/tag/v1.0.0), commit `37769e72d80f8e52487a49a532c49471c5c85bb4`.
+
+Zenodo record: https://zenodo.org/records/23326122. Version DOI: https://doi.org/10.5281/zenodo.23326122. Concept DOI: https://doi.org/10.5281/zenodo.23326121. The concept DOI represents all versions and resolves to the latest; use the version DOI to pin an exact analytical archive. The manuscript citation supplies both, and CITATION.cff uses the version DOI as its primary DOI.
+
+Verified title, author Pedro Gustavo González Ali, ORCID 0000-0003-0630-8703, version 1.0.0, publication date, software resource type, public access, MIT license, GitHub relation, description and downloadable file. The Zenodo ZIP was downloaded and checked: 160 files, 9,278,901 bytes, valid CRC for every entry, expected MD5 `23156ba2eb7af5de4007459c918fa81c`, SHA256 `0338ad8f302ff74eb8bd8debaaf29d17bb51ad94e1976cdfea0fe18262f66ff6`. Every extracted file's Git blob hash matches the published release manifest. No original microdata or runtime files appear in the archive. Machine-readable evidence: [archive check](../results/validation/zenodo_archive_check.json).
+
+The `Add Zenodo DOI and archival metadata` commit updates citation/discovery documentation on main after archival. It does not change analyses, samples, coefficients, tables, figures, weights, inference or scripts. Therefore v1.0.0 remains immutable and no v1.0.1 analytical release is created. The v1.0.0 ZIP predates its newly assigned DOI and necessarily contains the original GitHub-only citation; the final citation and DOI information are available on main and this page. Do not move the tag or replace the archived ZIP. Later scientific/software changes require a new release and version DOI.
+
+GitHub Actions successfully checked the scientific release: https://github.com/pegus/pisa2025-ai-use-achievement/actions/runs/38306113101. CI checks aggregated/synthetic fixtures, while the complete original-PUF re-estimation was run locally and is documented separately in PUBLICATION_TEST_REPORT.md.

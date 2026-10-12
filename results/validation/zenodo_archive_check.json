@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "record": "https://zenodo.org/records/23326122",
+  "version_doi": "10.5281/zenodo.23326122",
+  "concept_doi": "10.5281/zenodo.23326121",
+  "release_commit": "37769e72d80f8e52487a49a532c49471c5c85bb4",
+  "files": 160,
+  "bytes": 9278901,
+  "md5": "23156ba2eb7af5de4007459c918fa81c",
+  "sha256": "0338ad8f302ff74eb8bd8debaaf29d17bb51ad94e1976cdfea0fe18262f66ff6",
+  "crc_pass": true,
+  "all_file_git_blob_hashes_match": true,
+  "microdata_extensions_absent": true
+}

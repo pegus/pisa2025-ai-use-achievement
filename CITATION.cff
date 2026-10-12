@@ -7,6 +7,11 @@ authors:
     given-names: "Pedro Gustavo"
     orcid: "https://orcid.org/0000-0003-0630-8703"
 version: 1.0.0
+doi: "10.5281/zenodo.23326122"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23326121"
+    description: "Concept DOI representing all project versions"
 date-released: 2026-10-12
 repository-code: "https://github.com/pegus/pisa2025-ai-use-achievement"
 url: "https://github.com/pegus/pisa2025-ai-use-achievement"

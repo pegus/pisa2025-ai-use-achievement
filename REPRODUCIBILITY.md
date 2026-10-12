@@ -11,3 +11,7 @@ Archivos públicos con supresión se distinguen mediante `disclosure_suppressed`
 El estado y evidencia de la prueba de publicación se conservan en `results/validation/public_reproduction_check.json` y `PUBLICATION_TEST_REPORT.md`, cuando completa. El entorno ya instalado se usa en el equipo de publicación; la instalación desde cero en otra plataforma queda separada de la prueba de cálculos. GitHub Actions ejecuta tests sin microdatos: no afirma reestimar modelos completos en CI.
 
 Históricos 2A documentan STOP cuando Fay no estaba confirmado; 2B validó y aprobó el estimando restringido. El controlador reproduce ese historial pero no mantiene un STOP ya superado tras gate PASS. El contexto ecológico inicial no tiene script/tabla disponible; no se reproduce. SCH/LDW no analizados, sin necesidad de descargarlos. Los capítulos técnicos inaccesibles se documentan, sin afirmar lectura completa.
+
+## Exact archived version
+
+Reproduce the immutable v1.0.0 tag or Zenodo archive https://doi.org/10.5281/zenodo.23326122. The conceptual DOI https://doi.org/10.5281/zenodo.23326121 tracks the project across versions. Main contains a later metadata-only citation update. [Archive verification](docs/ARCHIVAL_METADATA.md).

@@ -2,7 +2,7 @@
 
 **Reproducible analysis of generative AI use and student achievement in PISA 2025**
 
-[![Python](https://img.shields.io/badge/Python-3.12-blue)](requirements.txt) [![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23326121.svg)](https://doi.org/10.5281/zenodo.23326121) [![Release](https://img.shields.io/github/v/release/pegus/pisa2025-ai-use-achievement)](https://github.com/pegus/pisa2025-ai-use-achievement/releases/tag/v1.0.0) [![Checks](https://github.com/pegus/pisa2025-ai-use-achievement/actions/workflows/checks.yml/badge.svg)](https://github.com/pegus/pisa2025-ai-use-achievement/actions/workflows/checks.yml) [![Python](https://img.shields.io/badge/Python-3.12-blue)](requirements.txt) [![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 Software y resultados agregados del estudio de Pedro Gustavo González Ali ([ORCID](https://orcid.org/0000-0003-0630-8703)). Este repositorio permite auditar los análisis secuenciales de cobertura, diseño muestral y robustez. Todos los resultados se interpretan como **asociaciones**. No redistribuye microdatos ni pesos individuales.
 
@@ -70,7 +70,7 @@ FE y modelos conjuntos forman parte del mismo motor de `main`: conservamos su se
 
 ## Cita, licencia, IA y contacto
 
-Use [CITATION.cff](CITATION.cff) y [CITATION_FOR_MANUSCRIPT.md](CITATION_FOR_MANUSCRIPT.md). Metadatos de archivo permanente se completarán al verificar el DOI real.
+Use [CITATION.cff](CITATION.cff) y [CITATION_FOR_MANUSCRIPT.md](CITATION_FOR_MANUSCRIPT.md). Archivo permanente en Zenodo: [DOI conceptual](https://doi.org/10.5281/zenodo.23326121) y [DOI de la versión 1.0.0](https://doi.org/10.5281/zenodo.23326122). La versión científica está fijada al commit `37769e72d80f8e52487a49a532c49471c5c85bb4`. [Verificación del archivo y decisión sobre metadatos](docs/ARCHIVAL_METADATA.md).
 
 MIT cubre el código y documentación originales del investigador. Metadatos de variables y cifras oficiales de OCDE conservan sus derechos y atribución: esta licencia no modifica las condiciones de microdatos ni de materiales de terceros. [Condiciones OCDE](https://www.oecd.org/en/about/terms-conditions.html).
 
